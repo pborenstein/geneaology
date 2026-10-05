@@ -1,0 +1,27 @@
+# Decisions
+
+### DEC-001: Adopt project-tracking structure in docs/ (2026-10-05)
+**Status**: Active
+**Context**: Not a code repo; genealogy research project with PDF sources and growing notes.
+**Decision**: Use the project-tracking system — CONTEXT.md (session hot state), IMPLEMENTATION.md (phases), DECISIONS.md (this file), chronicles/ (session history). Project notes live in `docs/`; derived text extractions live in `extracted-text/`; structured data will live in `data/`.
+**Alternatives**: Notes scattered in more PDFs (status quo — how the current material arrived); a wiki.
+**Consequences**: Session pickup = read docs/CONTEXT.md only. PDFs stay untouched as archival sources.
+
+### DEC-002: PDFs are archival; extraction happens into new files (2026-10-05)
+**Status**: Active
+**Context**: The 9 PDFs mix record extracts, memoir text, links, and narrative; some content overlaps between files.
+**Decision**: Never edit the PDFs. All consolidation happens in `extracted-text/*.txt` (search layer, generated 2026-10-05) and Phase 2's person index. The Narrative (71 pp) is the master narrative document; other PDFs are satellites around it.
+**Consequences**: Regenerating `extracted-text/` with pdftotext is always safe; the person index becomes the single working tree of record.
+
+### DEC-003: Confidence markers on every fact (2026-10-05)
+**Status**: Active
+**Context**: Sources disagree frequently (dates, places, even parents); Wendy already distinguishes "confirmed" vs. "possible" in her timeline.
+**Decision**: Standard marks everywhere: **[C]** confirmed by a record, **[L]** likely (record-adjacent or strong inference), **[?]** open question. Every fact carries a source citation (PDF+page, URL, or archive fond). Persons carry alias lists.
+**Alternatives**: Plain prose without marks (loses the discipline); numeric certainty scores (overkill).
+**Consequences**: FAMILY-OVERVIEW and later the person index can be trusted at a glance; publication can inherit the marks.
+
+### DEC-004: Phase 2 data format — pending (opened 2026-10-05)
+**Status**: Open — decide at Phase 2 start
+**Context**: Need one home for person/fact data that supports aliases, citations, confidence, and eventual GEDCOM export.
+**Options**: Markdown index (human-readable, greppable, no tooling) vs. CSV per entity (structured, import-friendly) vs. jump straight to GEDCOM (interoperable but clumsy for narrative notes and citations as free text).
+**Leaning**: Markdown people index first (extraction-friendly), convert to GEDCOM at Phase 3.
