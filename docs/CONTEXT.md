@@ -16,7 +16,7 @@ last_entry: chronicles/phase-1-survey.md #2
 - [ ] Create data/people, data/conflicts, data/evidence-log
 - [ ] Extraction passes: Narrative → Notes → Tanya material → record collections → timeline
 
-**Blockers**: None technical. Worth asking Wendy/Philip early (feeds Phase 4): Pola's information; the rest of Wendy's "hundreds of pages of notes and photographs"; Tania's full memoir; Philip's old rough genealogy; any Ancestry/MyHeritage/Geni tree exports.
+**Blockers**: None technical. Worth asking Wendy/Philip early (feeds Phase 4): Pola's information; the rest of Wendy's "hundreds of pages of notes and photographs"; Philip's old rough genealogy; any Ancestry/MyHeritage/Geni tree exports. (Tania's full memoir is no longer missing — it's online, see docs/RESOURCES.md.)
 
 **Key facts for orientation**:
 - Three lines converge in Mexico City: Borenstein (Kurow, Poland), Mostkoff (Slutsk/Ostrov, Belarus), Polak/Borukovich (Minsk/Slutsk). Philip & Edna/Jaye are children of Joseph Borenstein (b. 1936) and Ana Mostkoff Linares (dau. of Luis Mostkoff & Chelo Linares Lopez).

@@ -35,7 +35,7 @@ Goal: a single reconciled tree, computer-usable and human-readable.
 Ordered by expected payoff; each lead closes an item in FAMILY-OVERVIEW's mystery list.
 
 1. **Mine the queued UFDC Prensa Israelita links** (~30 in Notes) — dates, spouses, and parents for the Mexico City generation. Cheapest wins; material already collected.
-2. **Ask the family**: Pola (Philip says she has information); other Mostkoff/Borenstein cousins in Mexico; the rest of Wendy's "hundreds of pages of notes and photographs"; Tania's full memoir text; Philip's old rough genealogy; any Ancestry/MyHeritage/Geni tree exports (GEDCOMs).
+2. **Ask the family**: Pola (Philip says she has information); other Mostkoff/Borenstein cousins in Mexico; the rest of Wendy's "hundreds of pages of notes and photographs"; Philip's old rough genealogy; any Ancestry/MyHeritage/Geni tree exports (GEDCOMs). (Tania's full memoir is already located — tania-project.com, see RESOURCES.md — and feeds Phase 2 pass 3 directly.)
 3. **Poland**: JRI-Poland Kurow records (confirm Chaim/Cyrla/Necha; push Borensztejn/Ajzenszmit lines past 1890); Warsaw records for Sara's death (1925) and the 1934–35 visit; cemetery.jewish.org.pl for the gravestone text.
 4. **Belarus**: pull the 1889 Minsk marriage record (Wendy's contact at the genealogy society was already on this); JewishGen/LitvakSIG for Mostkov/Saponitsky/Polak/Borukovich; the "Leon from Lithuania" thread.
 5. **USA**: Fishel's May 1934 Arizona crossing (border crossing records, Ancestry/CBP indexes, Ancestry collection 1528 already noted); Mississippi/Memphis cousins (Isadore Mostkoff, Iskiwitz family, Baron Hirsch Cemetery); Rosedale/Bolivar County records.

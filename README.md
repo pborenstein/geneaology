@@ -27,6 +27,7 @@ Phase 1 (source survey & project setup) is complete. Phase 2 (master extraction 
 - [docs/SOURCE-SURVEY.md](docs/SOURCE-SURVEY.md) — what each source PDF is and its role
 - [docs/FAMILY-OVERVIEW.md](docs/FAMILY-OVERVIEW.md) — state of knowledge: the three lines, confidence-marked, plus the open-mysteries list
 - [docs/ROADMAP.md](docs/ROADMAP.md) — the phased plan from sources to final genealogy
+- [docs/RESOURCES.md](docs/RESOURCES.md) — external resources (incl. the full text of Tania Mostkoff's memoir at [tania-project.com](https://www.tania-project.com/))
 - [docs/IMPLEMENTATION.md](docs/IMPLEMENTATION.md) — phase-by-phase progress tracker
 - [docs/DECISIONS.md](docs/DECISIONS.md) — project decisions (DEC-001…)
 - [docs/chronicles/](docs/chronicles/) — session history

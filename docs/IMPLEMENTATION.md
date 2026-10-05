@@ -30,7 +30,7 @@ Plan of attack (details in ROADMAP.md):
 - [ ] Create `data/` with people index, conflicts log, evidence log
 - [ ] Extraction pass 1: Mostkoff Family Narrative.pdf (master)
 - [ ] Extraction pass 2: Borenstein Mostkoff Notes.pdf
-- [ ] Extraction pass 3: Tanya summary + memoir excerpts (MOSTKOFF.pdf)
+- [ ] Extraction pass 3: Tanya material — Wendy's summary + memoir excerpts (MOSTKOFF.pdf) + **full memoir** (tania-project.com English translation, see RESOURCES.md)
 - [ ] Extraction pass 4: record collections (chronicle, Slutsk Links, SUPONITZKY, Genealogy draft's Polak/Borukovich tree)
 - [ ] Extraction pass 5: Borenstein family timeline (dates)
 - [ ] Cross-check: every person in FAMILY-OVERVIEW appears in the index; every index entry cites sources
