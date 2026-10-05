@@ -40,3 +40,7 @@ Phase 1 (source survey & project setup) is complete. Phase 2 (master extraction 
   ```sh
   for f in base-documents/*.pdf; do pdftotext -layout "$f" "extracted-text/$(basename "${f%.pdf}").txt"; done
   ```
+
+## Provenance
+
+The Phase 1 survey and planning docs (2026-10-05) were generated with the assistance of **GLM-5.3** (provider `account:zai-individual-coding-plan`) in the **ZCode** harness — verified via [acnehuatl](https://github.com/pborenstein/acnehuatl), a cwd-keyed session-provenance tool, not self-reported.
