@@ -31,3 +31,18 @@
 **Decisions**: DEC-005 (base-documents/ as archival home; repo layout).
 
 **Files**: docs/{CONTEXT,SOURCE-SURVEY,IMPLEMENTATION,DECISIONS}.md; this file
+
+## Entry 3: Repo docs, AI provenance, and The Tania Project (2026-10-05)
+
+**What**: Added README.md (front door: intro, layout rules, docs guide, conventions) and CLAUDE.md (agent rules: pickup protocol, hard rules, tooling); recorded AI provenance in the README; created docs/RESOURCES.md and registered **The Tania Project** — the full text of Tania Mostkoff's memoir (Russian transcription, English + Spanish translations, places gazetteer) at tania-project.com / github.com/pborenstein/tania-project.
+
+**Why**: Make the repo self-explanatory and agent-safe; make AI assistance traceable; and stop treating Tania's memoir as missing material — it is a primary source now in hand for the Mostkoff line and Slutsk life.
+
+**How**:
+- Provenance verified from the session DB via acnehuatl (`~/projects/nahuatl-PROJECTS/acnehuatl`), not self-reported: GLM-5.3, ZCode harness
+- "Memoir missing" mentions corrected in CONTEXT/SOURCE-SURVEY/ROADMAP/FAMILY-OVERVIEW; Phase 2 pass 3 now points at the site's English translation
+- RESOURCES.md established as the registry for standalone external resources
+
+**Decisions**: DEC-006 (RESOURCES.md registry), DEC-007 (AI provenance practice).
+
+**Files**: README.md, CLAUDE.md, docs/{RESOURCES,CONTEXT,SOURCE-SURVEY,ROADMAP,FAMILY-OVERVIEW,IMPLEMENTATION,DECISIONS}.md, this file; commits 54e9dd6, b35c848, 73cffa5 + this wrap-up commit

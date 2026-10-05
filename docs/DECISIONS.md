@@ -32,3 +32,16 @@
 **Decision**: Canonical layout: `base-documents/` = archival source PDFs (never modified, committed as-is), `extracted-text/` = regenerable text layer (safe to delete/rebuild), `docs/` = tracking + planning notes, `data/` = future Phase 2 structured output.
 **Alternatives**: PDFs at root (clutters repo and mixes archival with derived); gitignoring large PDFs (loses history of the actual sources; repo is private).
 **Consequences**: Citations reference `base-documents/<file>.pdf` + page; `extracted-text/` can always be regenerated with `pdftotext -layout` if it drifts from the PDFs.
+
+### DEC-006: docs/RESOURCES.md is the registry for standalone external resources (2026-10-05)
+**Status**: Active
+**Context**: External material arrives in two kinds — link collections inside Wendy's notes PDFs, and standalone projects/sites (first arrival: The Tania Project, the full text of Tania Mostkoff's memoir).
+**Decision**: Standalone resources get a docs/RESOURCES.md entry (what it is, URLs, why it matters, how the project uses it). Link collections living inside the source PDFs stay put and are covered by SOURCE-SURVEY.md.
+**Alternatives**: Folding everything into SOURCE-SURVEY.md (whole projects would be buried among note links); copying Wendy's link lists into RESOURCES.md (duplication and drift).
+**Consequences**: One place to check before hunting for external material; linked from README's docs guide.
+
+### DEC-007: Record AI-assistance provenance in the README (2026-10-05)
+**Status**: Active
+**Context**: Much of this project's doc/data output is AI-generated, and models/harnesses may change over the project's life. acnehuatl (`~/projects/nahuatl-PROJECTS/acnehuatl`) reads the session database and reports the true harness/provider/model per cwd — models cannot reliably self-attribute.
+**Decision**: README carries a Provenance section naming harness/provider/model for AI-generated bulk work (session id and cwd excluded). Update it whenever a different model/harness produces a major deliverable (e.g. the Phase 2 extraction). Verify with acnehuatl, never by asking the model.
+**Consequences**: Readers can tell which AI produced which pass of the work; no session-level identifiers are published.
