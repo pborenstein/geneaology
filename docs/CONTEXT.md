@@ -1,12 +1,13 @@
 ---
-phase: 1 → 2
+phase: 2 (not started)
 updated: 2026-10-05
-last_entry: chronicles/phase-1-survey.md #1
+last_commit: ca30b03
+last_entry: chronicles/phase-1-survey.md #2
 ---
 
 # Context — Borenstein/Mostkoff Genealogy
 
-**Project**: Build a solid, well-sourced genealogy of the Borenstein/Mostkoff family from Wendy's (Philip Borenstein's partner's) research. Sources: 9 PDFs in the project root (121 pp); working dir `/Users/philip/projects/geneaology`.
+**Project**: Build a solid, well-sourced genealogy of the Borenstein/Mostkoff family from Wendy's (Philip Borenstein's partner's) research. Sources: 9 PDFs in `base-documents/` (121 pp); git repo, remote `github.com:pborenstein/geneaology`.
 
 **Current focus**: Phase 1 (survey & setup) complete. Phase 2 (master extraction) is next: build `data/` person index from all sources.
 
@@ -22,6 +23,6 @@ last_entry: chronicles/phase-1-survey.md #1
 - Master source = "Mostkoff Family Narrative.pdf" (71 pp); everything else is satellite notes.
 - Confidence marks everywhere: [C] record-confirmed, [L] likely, [?] open.
 
-**Next session**: Read this file + IMPLEMENTATION.md Phase 2 section; start with DEC-004 decision, then extraction pass 1 (Narrative) using extracted-text/ for grepping and the PDF for page-accurate citations.
+**Next session**: Read this file + IMPLEMENTATION.md Phase 2 section; start with the DEC-004 format decision, then extraction pass 1 (Narrative) using `extracted-text/` for grepping and `base-documents/` PDFs for page-accurate citations.
 
 **Map**: docs/SOURCE-SURVEY.md (what the PDFs are) · docs/FAMILY-OVERVIEW.md (what we know + mysteries) · docs/ROADMAP.md (how we get there) · docs/DECISIONS.md · docs/IMPLEMENTATION.md · docs/chronicles/

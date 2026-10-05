@@ -1,6 +1,6 @@
 # Source Survey — Borenstein/Mostkoff Genealogy
 
-*Surveyed 2026-10-05. Text layer of every PDF extracted to `extracted-text/` (one `.txt` per PDF, via `pdftotext -layout`). PDFs remain the source of truth; the text files are for searchability.*
+*Surveyed 2026-10-05. PDFs live in `base-documents/`; text layer of each extracted to `extracted-text/` (one `.txt` per PDF, via `pdftotext -layout`). PDFs remain the source of truth; the text files are for searchability.*
 
 ## Corpus at a glance
 

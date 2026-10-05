@@ -25,3 +25,10 @@
 **Context**: Need one home for person/fact data that supports aliases, citations, confidence, and eventual GEDCOM export.
 **Options**: Markdown index (human-readable, greppable, no tooling) vs. CSV per entity (structured, import-friendly) vs. jump straight to GEDCOM (interoperable but clumsy for narrative notes and citations as free text).
 **Leaning**: Markdown people index first (extraction-friendly), convert to GEDCOM at Phase 3.
+
+### DEC-005: Repo layout — base-documents/ for archival PDFs, GitHub remote (2026-10-05)
+**Status**: Active
+**Context**: Philip initialized a git repo and pushed to `github.com:pborenstein/geneaology`; the 9 source PDFs moved from the project root into `base-documents/`.
+**Decision**: Canonical layout: `base-documents/` = archival source PDFs (never modified, committed as-is), `extracted-text/` = regenerable text layer (safe to delete/rebuild), `docs/` = tracking + planning notes, `data/` = future Phase 2 structured output.
+**Alternatives**: PDFs at root (clutters repo and mixes archival with derived); gitignoring large PDFs (loses history of the actual sources; repo is private).
+**Consequences**: Citations reference `base-documents/<file>.pdf` + page; `extracted-text/` can always be regenerated with `pdftotext -layout` if it drifts from the PDFs.

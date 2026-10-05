@@ -19,6 +19,7 @@
 - [x] Draft state-of-knowledge synthesis with confidence markers (docs/FAMILY-OVERVIEW.md)
 - [x] Write roadmap with phases, principles, definition of done (docs/ROADMAP.md)
 - [x] Set up tracking: docs/, CONTEXT.md, DECISIONS.md, chronicles/
+- [x] Repo created and pushed to GitHub; PDFs archived in `base-documents/` (by Philip, post-survey)
 - Not done (deliberately): full page-by-page extraction of the 71-page Narrative (Phase 2 work); image extraction; contacting anyone.
 
 ## Phase 2: Master extraction — next up
