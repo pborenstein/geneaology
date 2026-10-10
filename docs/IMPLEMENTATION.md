@@ -22,19 +22,19 @@
 - [x] Repo created and pushed to GitHub; PDFs archived in `base-documents/` (by Philip, post-survey)
 - Not done (deliberately): full page-by-page extraction of the 71-page Narrative (Phase 2 work); image extraction; contacting anyone.
 
-## Phase 2: Master extraction — next up
+## Phase 2: Master extraction — COMPLETE (2026-10-10)
 
 Plan of attack (details in ROADMAP.md):
 
 - [x] Decide data format — single markdown index `data/people.md` (DEC-004, decided 2026-10-10)
-- [ ] Create `data/` with people index, conflicts log, evidence log
-- [ ] Extraction pass 1: Mostkoff Family Narrative.pdf (master)
-- [ ] Extraction pass 2: Borenstein Mostkoff Notes.pdf
-- [ ] Extraction pass 3: Tanya material — Wendy's summary + memoir excerpts (MOSTKOFF.pdf) + **full memoir** (tania-project.com English translation, see RESOURCES.md)
-- [ ] Extraction pass 4: record collections (chronicle, Slutsk Links, SUPONITZKY, Genealogy draft's Polak/Borukovich tree)
-- [ ] Extraction pass 5: Borenstein family timeline (dates)
-- [ ] Cross-check: every person in FAMILY-OVERVIEW appears in the index; every index entry cites sources
-- [ ] Update FAMILY-OVERVIEW.md to sourced version; refresh CONTEXT.md
+- [x] Create `data/` with people index, conflicts log, evidence log
+- [x] Extraction pass 1: Mostkoff Family Narrative.pdf (master) — NB pp. 38–71 duplicate pp. 1–37
+- [x] Extraction pass 2: Borenstein Mostkoff Notes.pdf
+- [x] Extraction pass 3: Tanya material — summary + MOSTKOFF.pdf + full memoir (§-cited)
+- [x] Extraction pass 4: record collections (chronicle, Slutsk Links, SUPONITZKY, Genealogy draft)
+- [x] Extraction pass 5: Borenstein family timeline (dates)
+- [x] Cross-check: every person in FAMILY-OVERVIEW appears in the index; every index entry cites sources (2026-10-10)
+- [x] Update FAMILY-OVERVIEW.md to sourced version; refresh CONTEXT.md (2026-10-10)
 
 ## Phase 3: Tree assembly (high level)
 
