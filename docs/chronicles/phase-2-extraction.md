@@ -35,3 +35,13 @@
 **How**: Volatile state now lives in one clearly-marked Snapshot table; everything else is stable structure pointing at CONTEXT.md/IMPLEMENTATION.md for live state. Freshness enforced by a new CLAUDE.md session-end rule (step 4): refresh Snapshot + map at every wrap-up.
 
 **Files**: README.md · CLAUDE.md.
+
+## Entry 7 — Investigation: the Sapotnitsky name (2026-10-10)
+
+**What**: `docs/investigations/sapotnitsky.md` — full corpus inventory of the name (13 appearances + negative evidence), six ranked origin hypotheses, and an 8-step research program feeding Phase 4.
+
+**Why**: Wendy finds the name mysterious; it is the sole surname anchor for Chaya (B02), resting on one document (Israel's 1957 Mexican death cert, EV-13).
+
+**Key findings**: (1) the memoir's Russian original says **Несвиж/Nesvizh** outright — "Neswalok" was a misreading, and the interwar border resolves the "near Poland" tension; (2) the 1889 Minsk "Khaia Zaturinskii" marriage **cannot be Chaya's** (bride 20 vs Chaya ~1855–60 b.; Israel b. 1880 predates it) — new CF-29, with a younger-namesake-cousin reading that keeps the Nesvizh Zelik/Zaturensky natal-family hypothesis (H1) alive; (3) the Priluki 1877 Min'kov/Supanitskij pairing (EV-48) is the closest phonetic match and echoes the Mostkov+Sapotnitsky pair; (4) the name is attested as a real Slutsk/Minsk-region surname (Narrative p. 8) — the simplest hypothesis needs no exotic origin.
+
+**Files**: docs/investigations/sapotnitsky.md · data/{people,evidence-log,conflicts}.md (B02, EV-10, CF-29) · README · CONTEXT.

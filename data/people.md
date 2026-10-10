@@ -176,10 +176,11 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### B02 · Chaya (Sapotnitsky?) Mostkoff (Khaya; Sapotnisky/Saptonitsky)
 - Surname is a **guesstimate** from Israel's Mexican death record "Israel Mostkoff Saptonitsky"; no other confirmation `[?]` Narrative, pp. 4–5.
 - b. 1837–62 bounds; Wendy proposes ~1855–60 `[L]` Narrative, p. 4.
-- "Lived her whole life in a distant village near the Polish border, near **Nesvizh**" `tania-project (§4)` — the Narrative's older translation rendered it "Neswalok" (unidentified); this translation says Nesvizh directly (Nesvizh is ~60 mi SW of Minsk, not truly near the Polish border — tension remains).
+- "Lived her whole life in a distant village near the Polish border, near **Nesvizh**" `tania-project (§4)` — the older translation's "Neswalok" was a misreading: the memoir's Russian original says **Несвиж (Nesvizh)** outright, and the site's gazetteer places it (53.22°N 26.69°E) "near the Polish border of the time" (the interwar Riga border ran just west of Nesvizh). See **docs/investigations/sapotnitsky.md** for the full name investigation.
 - Lived with Israel's family on Sadovaya St. in Tania's childhood (corner of the bedroom; knitting; "I don't even remember when she left us, or perhaps died") `tania-project (§4)`.
 - "Many children": Tayba (eldest daughter), Motle, Ginde, Eizer, Israel + "others"; "all my father's brothers and sisters, along with their children and grandchildren, live in the USA" (as of 1976–80) `tania-project (§§4, 35)`.
 - Death: **timing unknown** — the Narrative's "1917–18, kidney disease, Tania 6–7" is almost certainly a misattribution of the *Pesya* memory (CF-22); pinkas #870 candidate (Chaya-Henya Itskovits, d. 3 Mar 1919 — but that would make Israel's patronym Itskovits) — **CF-17**.
+- Surname & natal family: see **docs/investigations/sapotnitsky.md** (the 1889 Minsk "Khaia Zaturinskii" marriage cannot be hers on age — CF-29 — but may be a younger namesake cousin of the same Nesvizh clan; father candidate Zelik `[?]`).
 
 ### B03 · Morduckh "Motl/Motel/Max" Mostkov (Mordukh; Mordoch)
 - b. ~1877 (age 29 at 1906 marriage) `[C]` EV-01; "about 1877" Narrative, p. 5; "= Motl Moskov, brother to Israel and son of Leibe (Leon) and Chaya" Notes, p. 14.

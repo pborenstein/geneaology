@@ -21,6 +21,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 | Read Tania Mostkoff's memoir (primary source, Line B) | [tania-project.com](https://www.tania-project.com/) — registry entry in [docs/RESOURCES.md](docs/RESOURCES.md) |
 | See the plan / phases | [docs/ROADMAP.md](docs/ROADMAP.md) |
 | Find out *why* something is the way it is | [docs/DECISIONS.md](docs/DECISIONS.md) — DEC-001… · [docs/chronicles/](docs/chronicles/) — session-by-session history |
+| Dig into a research theme (e.g. the Sapotnitsky name) | [docs/investigations/](docs/investigations/) — deep dives: corpus inventory + hypotheses + research programs |
 
 ## Repository map
 
@@ -29,7 +30,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 | `base-documents/` | The 9 source PDFs (87 pp): master narrative, research notes, memoir summaries, record extracts | **Archival — never modified** (sole exception to date: DEC-008 verified trim) |
 | `extracted-text/` | One `.txt` per PDF (`pdftotext -layout`) | Derived — regenerate, never hand-edit |
 | `data/` | **The deliverable**: `people.md` (person index), `conflicts.md` (CF-##), `evidence-log.md` (EV-##) | Actively maintained; every fact cited + confidence-marked |
-| `docs/` | Tracking & planning (see table above) | Actively maintained |
+| `docs/` | Tracking & planning (see table above); `docs/investigations/` = themed deep dives | Actively maintained |
 | `CLAUDE.md` | Agent instructions: pickup routine, hard rules, tooling | Read before any automated session |
 
 **Source key for citations** (full conventions in [data/people.md](data/people.md)): `Narrative, p. N` · `Notes, p. N` · `Tanya-summary, p. N` · `Genealogy draft, p. N` · `chronicle` / `Slutsk Links` / `MOSTKOFF` / `SUPONITZKY` / `timeline, p. N` — all referring to the same-named PDFs · `tania-project (§N)` = the memoir's English translation · `EV-##` / `CF-##` = the two `data/` logs.
@@ -40,7 +41,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 |---|---|
 | **Phase** | 2 (master extraction) **complete** → Phase 3 (tree assembly) next |
 | **People index** | 77 people — A01–A18 · B01–B26 · C01–C16 · X01–X18 |
-| **Evidence / conflicts** | EV-01…49 · CF-01…28 (26 entries, CF-18/19 unused; 6 resolved/leaning) |
+| **Evidence / conflicts** | EV-01…49 · CF-01…29 (27 entries, CF-18/19 unused; 6 resolved/leaning) |
 | **Corpus** | 9 PDFs, 87 pp (Narrative trimmed 71→37 pp, DEC-008) + full memoir at tania-project.com |
 | **Queued research** | ~30 UFDC Prensa Israelita links (EV-35) — Phase 4 priority 1 |
 
