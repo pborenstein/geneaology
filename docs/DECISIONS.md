@@ -20,11 +20,11 @@
 **Alternatives**: Plain prose without marks (loses the discipline); numeric certainty scores (overkill).
 **Consequences**: FAMILY-OVERVIEW and later the person index can be trusted at a glance; publication can inherit the marks.
 
-### DEC-004: Phase 2 data format — pending (opened 2026-10-05)
-**Status**: Open — decide at Phase 2 start
+### DEC-004: Phase 2 data format — decided (2026-10-10)
+**Status**: Decided (Philip, Phase 2 kickoff)
 **Context**: Need one home for person/fact data that supports aliases, citations, confidence, and eventual GEDCOM export.
 **Options**: Markdown index (human-readable, greppable, no tooling) vs. CSV per entity (structured, import-friendly) vs. jump straight to GEDCOM (interoperable but clumsy for narrative notes and citations as free text).
-**Leaning**: Markdown people index first (extraction-friendly), convert to GEDCOM at Phase 3.
+**Decision**: Single markdown index `data/people.md` — one entry per person with stable IDs (A/B/C/X), aliases, facts, inline citations, confidence marks; GEDCOM deferred to Phase 3. Inclusion rule: full entries for family-connected people (blood/marriage relatives and record-witnessed kin); background mentions stay in source notes.
 
 ### DEC-005: Repo layout — base-documents/ for archival PDFs, GitHub remote (2026-10-05)
 **Status**: Active

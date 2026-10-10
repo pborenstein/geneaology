@@ -26,7 +26,7 @@
 
 Plan of attack (details in ROADMAP.md):
 
-- [ ] Decide data format for `data/people.*` (markdown index vs. CSV) — DEC-004
+- [x] Decide data format — single markdown index `data/people.md` (DEC-004, decided 2026-10-10)
 - [ ] Create `data/` with people index, conflicts log, evidence log
 - [ ] Extraction pass 1: Mostkoff Family Narrative.pdf (master)
 - [ ] Extraction pass 2: Borenstein Mostkoff Notes.pdf
