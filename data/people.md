@@ -9,7 +9,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - **IDs** (stable): `A##` Borenstein line · `B##` Mostkoff line · `C##` Polak/Borukovich line · `X##` unplaced/other-affiliation. People are indexed in their **birth line** where known (Shifra Boruchovich → C); spouses without a line marry into their spouse's line.
 - **Confidence** (DEC-003): `[C]` confirmed by record · `[L]` likely (source or strong inference) · `[?]` open question.
 - **Citations** (short keys; page = PDF page of the file in `base-documents/`):
-  - `Narrative, p. N` = *Mostkoff Family Narrative.pdf* (master). **NB: pp. 38–71 duplicate pp. 1–37** (two embedded copies); first-copy pages cited.
+  - `Narrative, p. N` = *Mostkoff Family Narrative.pdf* (master; 37 pp). The original export embedded a second, repaginated copy of the text as pp. 38–71 — those pages were removed 2026-10-10 after verifying content parity (DEC-008); the 71-page original remains in git history (≤ commit 073001e). Citations were always to first-copy pages, so numbering is unchanged.
   - `Notes, p. N` = *Borenstein Mostkoff Notes.pdf*
   - `Tanya-summary, p. N` = *Summarized Belarus memories of Tanya Mostkoff.pdf*
   - `Genealogy draft, p. N` = *Borenstein-Mostkoff Family Genealogy.pdf*

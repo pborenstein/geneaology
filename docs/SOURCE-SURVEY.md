@@ -6,7 +6,7 @@
 
 | PDF | Pages | Type | Role |
 |---|---|---|---|
-| Mostkoff Family Narrative | 71 | Wendy's master narrative + photos | **Master document** |
+| Mostkoff Family Narrative | 37 | Wendy's master narrative + photos | **Master document** |
 | Borenstein Mostkoff Notes | 19 | Research notes, links, records, obits | Research workhorse |
 | Summarized Belarus memories of Tanya Mostkoff | 8 | Wendy's annotated summary of Tania's memoir | Bridge source |
 | Borenstein-Mostkoff Family Genealogy | 8 | Earlier draft of the master narrative | Earlier draft — mostly superseded |
@@ -16,11 +16,12 @@
 | SUPONITZKY | 2 | Link + 1877 Priluki marriage record | Lead file |
 | Borenstein family timeline | 2 | Borenstein-line chronology | Working timeline |
 
-Total: 121 pages, ~166 KB of text. Everything has a usable text layer (the 38 MB narrative is text + many embedded photographs).
+Total: 87 pages, ~125 KB of text. Everything has a usable text layer (the ~38 MB narrative is text + many embedded photographs — mostly one shared set of photo objects).
 
 ## File-by-file
 
 ### 1. Mostkoff Family Narrative.pdf — the master document
+*(37 pp; originally 71 — the export embedded a second, repaginated copy of the same text as pp. 38–71, removed 2026-10-10 after line-level text and image-hash parity checks — DEC-008; original in git history.)*
 Wendy's full write-up of the Mostkoff line (started 2020, COVID project, researching "Philip's family"). Contains: the naming-conventions essay; Mostkoff surname-origin discussion (incl. Yad Vashem searches); **The Mostkoff Family** section — Leibe "Leon" Mostkoff & Chaya Sapotnitsky and their six known children (incl. Keili m. Reuben Iscovitch); the Mississippi interlude (~1895–1905, Rosedale fur trade); Israel Mostkoff & Shifra Boruchovich and their five children with Mexican spouses; extensive excerpts from Tania's memoir; Slutsk context and photographs (1925 family photo, Russian stove, Slutsk synagogue). This is where the other documents' threads converge.
 
 ### 2. Borenstein Mostkoff Notes.pdf — research workhorse

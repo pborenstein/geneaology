@@ -16,7 +16,7 @@ Phase 1 (source survey & project setup) is complete. Phase 2 (master extraction 
 
 | Path | Contents | Rule |
 |---|---|---|
-| `base-documents/` | The 9 source PDFs (121 pages): Wendy's master narrative, research notes, memoir summaries, record extracts | **Archival — never modified** |
+| `base-documents/` | The 9 source PDFs (87 pages): Wendy's master narrative, research notes, memoir summaries, record extracts | **Archival — never modified** (sole exception: DEC-008 verified trim of duplicated pages) |
 | `extracted-text/` | One `.txt` per PDF (via `pdftotext -layout`) | Derived — safe to regenerate anytime |
 | `docs/` | Tracking & planning docs (below) | Actively maintained |
 | `data/` | Structured person/fact output (Phase 2) | Not yet created |
