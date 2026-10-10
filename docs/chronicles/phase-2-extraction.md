@@ -25,3 +25,13 @@
 **Decisions**: DEC-008 (one-case amendment of DEC-002; original 71-page file recoverable from git history ≤ 073001e).
 
 **Files**: base-documents/Mostkoff Family Narrative.pdf · extracted-text/ · docs/{SOURCE-SURVEY,DECISIONS}.md · README.md · data/people.md (citation NB). Commit 246248d.
+
+## Entry 6 — README rebuilt as the repo's entry portal (2026-10-10)
+
+**What**: README.md restructured from a conventional readme into a navigation index: intent-based "start here" table (person → people.md, disagreement → conflicts.md, record → evidence-log.md, …), full repository map with rules, citation-key quick reference, and a dated Snapshot section carrying the volatile facts (phase, counts, corpus, queued research) that used to rot in prose.
+
+**Why**: README is the entry portal to the whole project; it had drifted stale ("Phase 2 is next", "data/ — not yet created") exactly because nothing owned its freshness.
+
+**How**: Volatile state now lives in one clearly-marked Snapshot table; everything else is stable structure pointing at CONTEXT.md/IMPLEMENTATION.md for live state. Freshness enforced by a new CLAUDE.md session-end rule (step 4): refresh Snapshot + map at every wrap-up.
+
+**Files**: README.md · CLAUDE.md.

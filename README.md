@@ -1,47 +1,58 @@
-# Borenstein/Mostkoff Family Genealogy
+# Borenstein/Mostkoff Family Genealogy — Entry Portal
 
-Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, from the research of Wendy (partner of Philip Borenstein), who began the project in 2020.
+Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, from the research of Wendy (partner of Philip Borenstein), begun 2020. Three lines converge in Mexico City, where Joseph Borenstein (b. 1936) married Ana Mostkoff Linares:
 
-The family is three lines converging in Mexico City, where Joseph Borenstein (b. 1936) married Ana Mostkoff Linares:
+- **Line A — Borenstein** (Kurow, Lublin gubernia, Poland → Warsaw → Mexico City)
+- **Line B — Mostkoff** (Ostrov/Slutsk region, Belarus → Mississippi interlude → Mexico City)
+- **Line C — Polak/Borukovich** (Minsk/Slutsk, Belarus — Shifra Boruchovich m. Israel Mostkoff)
 
-- **Borenstein** — Kurow, Lublin gubernia, Poland (→ Warsaw → Mexico City)
-- **Mostkoff** — Slutsk/Ostrov/Nesvizh region, Belarus (→ Mississippi interlude → Mexico City)
-- **Polak/Borukovich** — Minsk/Slutsk, Belarus (Shifra Borukhovich m. Israel Mostkoff)
+> **This file is the navigation index for the whole repo.** It is refreshed at every session wrap-up (rule in [CLAUDE.md](CLAUDE.md)); if it's out of date, that's a bug.
 
-## Status
+## Start here — by what you want
 
-Phase 1 (source survey & project setup) is complete. Phase 2 (master extraction into a person/fact index) is next. See [docs/ROADMAP.md](docs/ROADMAP.md) for the full plan.
+| I want to… | Go to |
+|---|---|
+| See where the project stands & what's next | [docs/CONTEXT.md](docs/CONTEXT.md) (hot state, read first) · [docs/IMPLEMENTATION.md](docs/IMPLEMENTATION.md) (phase checklists) |
+| Look up a person (any line, any spelling) | **[data/people.md](data/people.md)** — the deliverable: 77 entries, each with aliases, facts, citations, confidence |
+| Check a known disagreement between sources | [data/conflicts.md](data/conflicts.md) — every open/resolved conflict (CF-##) |
+| Verify a record (birth, marriage, pinkas, obit, ship…) | [data/evidence-log.md](data/evidence-log.md) — 49 records with archive fonds/URLs (EV-##) |
+| Understand the family shape + open mysteries | [docs/FAMILY-OVERVIEW.md](docs/FAMILY-OVERVIEW.md) — sourced synthesis over `data/` |
+| Work with the source PDFs | [docs/SOURCE-SURVEY.md](docs/SOURCE-SURVEY.md) (what each PDF is) → `base-documents/` (archival) / `extracted-text/` (greppable) |
+| Read Tania Mostkoff's memoir (primary source, Line B) | [tania-project.com](https://www.tania-project.com/) — registry entry in [docs/RESOURCES.md](docs/RESOURCES.md) |
+| See the plan / phases | [docs/ROADMAP.md](docs/ROADMAP.md) |
+| Find out *why* something is the way it is | [docs/DECISIONS.md](docs/DECISIONS.md) — DEC-001… · [docs/chronicles/](docs/chronicles/) — session-by-session history |
 
-## Repository layout
+## Repository map
 
 | Path | Contents | Rule |
 |---|---|---|
-| `base-documents/` | The 9 source PDFs (87 pages): Wendy's master narrative, research notes, memoir summaries, record extracts | **Archival — never modified** (sole exception: DEC-008 verified trim of duplicated pages) |
-| `extracted-text/` | One `.txt` per PDF (via `pdftotext -layout`) | Derived — safe to regenerate anytime |
-| `docs/` | Tracking & planning docs (below) | Actively maintained |
-| `data/` | Structured person/fact output (Phase 2) | Not yet created |
+| `base-documents/` | The 9 source PDFs (87 pp): master narrative, research notes, memoir summaries, record extracts | **Archival — never modified** (sole exception to date: DEC-008 verified trim) |
+| `extracted-text/` | One `.txt` per PDF (`pdftotext -layout`) | Derived — regenerate, never hand-edit |
+| `data/` | **The deliverable**: `people.md` (person index), `conflicts.md` (CF-##), `evidence-log.md` (EV-##) | Actively maintained; every fact cited + confidence-marked |
+| `docs/` | Tracking & planning (see table above) | Actively maintained |
+| `CLAUDE.md` | Agent instructions: pickup routine, hard rules, tooling | Read before any automated session |
 
-## Navigating the docs
+**Source key for citations** (full conventions in [data/people.md](data/people.md)): `Narrative, p. N` · `Notes, p. N` · `Tanya-summary, p. N` · `Genealogy draft, p. N` · `chronicle` / `Slutsk Links` / `MOSTKOFF` / `SUPONITZKY` / `timeline, p. N` — all referring to the same-named PDFs · `tania-project (§N)` = the memoir's English translation · `EV-##` / `CF-##` = the two `data/` logs.
 
-- **[docs/CONTEXT.md](docs/CONTEXT.md)** — start here: current session state, what's next
-- [docs/SOURCE-SURVEY.md](docs/SOURCE-SURVEY.md) — what each source PDF is and its role
-- [docs/FAMILY-OVERVIEW.md](docs/FAMILY-OVERVIEW.md) — state of knowledge: the three lines, confidence-marked, plus the open-mysteries list
-- [docs/ROADMAP.md](docs/ROADMAP.md) — the phased plan from sources to final genealogy
-- [docs/RESOURCES.md](docs/RESOURCES.md) — external resources (incl. the full text of Tania Mostkoff's memoir at [tania-project.com](https://www.tania-project.com/))
-- [docs/IMPLEMENTATION.md](docs/IMPLEMENTATION.md) — phase-by-phase progress tracker
-- [docs/DECISIONS.md](docs/DECISIONS.md) — project decisions (DEC-001…)
-- [docs/chronicles/](docs/chronicles/) — session history
+## Snapshot (2026-10-10 — refreshed at each wrap-up)
 
-## Conventions
+| | |
+|---|---|
+| **Phase** | 2 (master extraction) **complete** → Phase 3 (tree assembly) next |
+| **People index** | 77 people — A01–A18 · B01–B26 · C01–C16 · X01–X18 |
+| **Evidence / conflicts** | EV-01…49 · CF-01…28 (26 entries, CF-18/19 unused; 6 resolved/leaning) |
+| **Corpus** | 9 PDFs, 87 pp (Narrative trimmed 71→37 pp, DEC-008) + full memoir at tania-project.com |
+| **Queued research** | ~30 UFDC Prensa Israelita links (EV-35) — Phase 4 priority 1 |
 
-- **Confidence marks** on every fact: `[C]` record-confirmed, `[L]` likely, `[?]` open question.
-- **Citations** accompany facts: source PDF + page, URL, or archive fond/reference.
-- **Alias lists** per person: Hebrew / Yiddish / secular / Mexican / nickname / transcription variants (naming conventions are this family's hardest problem — see the intro of the master narrative).
-- `extracted-text/` can be rebuilt with:
+## Conventions (quick reference)
+
+- **Confidence**: `[C]` record-confirmed · `[L]` likely · `[?]` open question (DEC-003).
+- **Citations** on every fact: source + page / URL / archive fond. Never merge same-named people without corroboration — this family recycles names across branches (two Taybas, two Gindas, two Dorises).
+- Rebuild the text layer with:
   ```sh
   for f in base-documents/*.pdf; do pdftotext -layout "$f" "extracted-text/$(basename "${f%.pdf}").txt"; done
   ```
 
 ## Provenance
 
-The Phase 1 survey and planning docs (2026-10-05) were generated with the assistance of **GLM-5.3** (provider `account:zai-individual-coding-plan`) in the **ZCode** harness — verified via [acnehuatl](https://github.com/pborenstein/acnehuatl), a cwd-keyed session-provenance tool, not self-reported.
+Project documentation and data extraction are AI-assisted (**GLM-5.3**, provider `account:zai-individual-coding-plan`, **ZCode** harness), verified via [acnehuatl](https://github.com/pborenstein/acnehuatl) — a cwd-keyed session-provenance tool, not self-reported. The genealogical substance is Wendy's research; the errors, where they remain, are the machines'.

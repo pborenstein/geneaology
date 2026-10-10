@@ -7,6 +7,7 @@ Genealogy research project (not a code project): assembling the Borenstein/Mostk
 1. Read **docs/CONTEXT.md** first (hot state, <50 lines) — current focus, active tasks, blockers.
 2. Read the current-phase section of **docs/IMPLEMENTATION.md**.
 3. Session end: run the session-wrapup skill — update CONTEXT.md, check off IMPLEMENTATION.md tasks, add a chronicle entry if meaningful work was done (next entry number = max across `docs/chronicles/*.md` + 1), add DEC-XXX for real decisions, commit.
+4. **README.md is the repo's entry portal and must never go stale** — at session end, refresh its "Snapshot" section (phase, people/evidence/conflict counts, corpus notes, queued research) and update the repository map / start-here table if paths, docs, or conventions changed.
 
 ## Hard rules
 
