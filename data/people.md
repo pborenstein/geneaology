@@ -2,7 +2,7 @@
 
 One entry per **family-connected person** (blood/marriage relatives and record-witnessed kin; background mentions stay in the source notes). Built in Phase 2 extraction passes (DEC-004: single markdown index; GEDCOM conversion deferred to Phase 3).
 
-**Pass status**: Pass 1 (Narrative) + Pass 2 (Notes) + Pass 3 (Tanya material: summary, MOSTKOFF.pdf, full memoir) complete · passes 4–5 merge in later.
+**Pass status**: All five extraction passes complete (1 Narrative · 2 Notes · 3 Tanya material · 4 record collections · 5 timeline).
 
 ## Conventions
 
@@ -29,6 +29,18 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | A04 | Mendel Borensztejn | b. 1897 Kurow [C] | S. A01/A02; possibly = "Rachmeil" of other notes (CF-16) |
 | A05 | Fiszel "Fishel/Felipe" Borenstein | b. 1901 Kurow [C] | S. A01/A02; to Mexico; m. Chana Mindel Bauman |
 | A06 | "Tía Mania/Mane" Borenstein | — | Likely sibling of Fishel [?]; obit queued (EV-35) |
+| A07 | Sophia/Sheindel Chanovesky (Glatt) | b. ~1900s · alive 1966 [C] | M. Rachmeil Mendel (A04) 1915–22 [L] |
+| A08 | Angela Glatt (Ringel) | b. 1923 Bialystok [L] | Dau. of A04/A07; mother of Myrna Bilak [L] |
+| A09 | Myrna (Ringel) Bilak | b. 4 Feb 1946 Mexico City · d. 4 Sep 2001 [C] | Dau. of Angela; obit EV-39 |
+| A10 | Janette (Ringel) Epstein | — | Dau. of Angela [C obit] |
+| A11 | Alfredo Ringel | — | S. of Angela [C obit] |
+| A12 | Chaim Borensztejn? | b. 1891 Kurow? [?] | Possible child of A01/A02 (timeline) |
+| A13 | Cyrla Borensztejn? | b. 1892 Kurow? [?] | Possible child of A01/A02 (timeline) |
+| A14 | Necha Borensztejn? | b. 1895 Kurow? [?] | Possible child of A01/A02 (timeline) |
+| A15 | Chana Mindel Bauman (Borenstein) | b. ~1903 [L] | M. Fishel (A05); sister Sura Ita; children 1926–42 |
+| A16 | Enrique Borenstein | b. 1926 Mexico City [C] | S. Fishel & Chana (Henry/Herszel/Hersh/Tvi) |
+| A17 | Sidney Borenstein | b. 1927 Mexico City [C] | S. Fishel & Chana; m. Rebecca Finkler [L] |
+| A18 | Joseph "Jose" Borenstein | b. 1936 Mexico City [C] | S. Fishel & Chana; m. Ana Mostkoff Linares (B17) → Philip, Edna/Jaye |
 | B01 | Aryeh Leib "Leibe/Lev" Mostkoff | b. ~1855–60 [L] · d. young [C memoir] | Patriarch; poor; house by the bridge (surname legend) |
 | B02 | Chaya (Sapotnitsky?) Mostkoff | b. ~1855–60 [L] · d. Slutsk, date unknown [?] | Matriarch; village near Nesvizh; lived with Israel's family |
 | B03 | Morduckh "Motl/Motel/Max" Mostkov | b. ~1877 [L] | Eldest known son; m. Dvora Portnoy 1906 Lida [C]; Lida children 1907–13 [C] |
@@ -66,6 +78,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | C09 | Beila Borukovich (Yonas) | d. 4 Feb 1919 Slutsk [C] | Dau. of Avraham Barukhovits [C]; m. Shlomo Yonas; probable 4th sibling [L] |
 | C10 | Kalman Osher Basin | — | M. Tsieta Polak (C05) |
 | C11 | Shlomo Yonas | — | M. Beila Borukovich (C09) |
+| C16 | Yosef Polak | d. 27 Jan 1915 Slutsk [C] | S. of Y' Leib Polak; possibly C04's son [?] |
 | C12 | Mikhail "Meishke" Borukhovich | d. ~1925/26 Minsk [C memoir] | S. Nakhman & Pesya; Leningrad medical institute; suicide; m. Khaya Pastron |
 | C13 | Khaya Pastron (Borukovich) | — | M. Mikhail (C12); Moscow; daughter Genya |
 | C14 | Yakhna Borukhovich | alive 1941 [C memoir] | Nakhman's sister; grain shop, Slutsk; died in 1941 family suicide |
@@ -92,31 +105,64 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ## Line A — Borenstein (Kurow, Lublin gubernia, Poland → Mexico City)
 
-*(Founded pass 2 from JRI-Poland Kurow extractions and the Prensa Israelita queue in the Notes; enriched in pass 5 by the timeline. Kurow PSA holdings: births 1862–98, marriages 1868–1908, deaths 1871–76/82–98/1901–08; Fond 1751, Lublin Archive — Notes, p. 17.)*
+*(Passes 2 + 5: JRI-Poland Kurow extractions (Notes, pp. 17–18), the timeline chronology, the Genealogy draft's naming notes, and the Prensa Israelita queue. Kurow PSA holdings: births 1862–98, marriages 1868–1908, deaths 1871–76/82–98/1901–08; Fond 1751, Lublin Archive — Notes, p. 17.)*
 
-### A01 · Szol Kelman Borensztejn (Borenstein; BORENSZTEJN/BORENSZTAJN spellings)
-- m. **Sura Brandla Ajzenszmidt** 1890, Kurow, akta 4 `[C]` EV-31; Notes, p. 18.
-- Children (Kurow births, JRI extractions so far): Toibe 1894 (A03), Mendel 1897 (A04), Fiszel 1901 (A05) `[C]` EV-32; further children (Chaim, Cyrla, Necha, "Rachmeil") per the timeline — pass 5.
+### A01 · Szol Kelman "Saul Kalmon/Kalman" Borensztejn
+- b. ~1870 `[L]` timeline, p. 1; m. **Sura Brandla Ajzenszmidt** 1890, Kurow, akta 4 `[C]` EV-31.
+- Children (Kurow births): **Toibe 1894** `[C]` EV-32, **Rachmeil-Mendel 1897** `[C]` EV-32, **Efraim Fishel 1901** `[C]` EV-32; possible (timeline, p. 1): Chaim 1891, Cyrla 1892, Necha 1895 `[?]` (A12–A14).
+- Death unknown — Joseph's 1942 "parents' deaths" memory (A05) might mean Saul d. 1942 Warsaw `[?]` timeline, p. 2 (mystery 2).
 
-### A02 · Sura Brandla Ajzenszmidt (AjzenszmidT; Sara Ayzenszmit Borenstein)
-- m. Szol Kelman Borensztejn 1890, Kurow, akta 4 `[C]` EV-31.
-- d. 1925 Warsaw `[L]` — gravestone located via cemetery.jewish.org.pl (SUPONITZKY.pdf, pass 4).
+### A02 · Sura Brandla "Sara Friendel" Ajzenszmidt (Ayzenszmit; Borenstein)
+- b. ~1879 `[L]` timeline, p. 1; m. 1890 Kurow `[C]` EV-31.
+- d. **1925 Warsaw** `[L]` timeline, p. 1; gravestone in the Warsaw Jewish cemetery (cemetery.jewish.org.pl, list c_1) `[C link]` EV-47 — the timeline once writes "1935" for this death (p. 2) — **CF-28**.
 
 ### A03 · Toibe "Touba" Borensztejn (Mitelhaus)
-- b. 1894, Kurow, akta 7 `[C]` EV-32; Notes, p. 18.
-- m. **Rachmeil Mitelhaus** `[L]` — per FAMILY-OVERVIEW draft; corroborating Prensa Israelita links queued (Jose Mittelhaus obit; Tobia Mittelhaus obit; Glatt/Epelstein wedding listing "Fishl and Mane as uncles of the bride") — EV-35; verify pass 5. Children: Ana Mitelhaus b. 1934 (Warsaw or Mexico — records disagree), Jose Mitelhaus b. 1937 Mexico (pass 5).
+- b. 1894, Kurow, akta 7 `[C]` EV-32.
+- m. **Rachmeil Mitelhaus** ~1933 `[L]` timeline, p. 2 (Prensa Mitelhaus items queued EV-35).
+- Children `[C timeline, p. 2]`: **Ana Mitelhaus** b. 1934 — Warsaw per most records, Mexico per one (**CF-27**); **Jose Mitelhaus** b. 1937, Mexico.
 
-### A04 · Mendel Borensztejn
-- b. 1897, Kurow, akta 63 `[C]` EV-32; Notes, p. 18.
-- Possibly the same person as the "Rachmeil" of other notes, and/or the "Mendel/Manuel Glatt" of the timeline line — **CF-16** (pass 5).
+### A04 · Rachmeil Mendel "Manuel" Borensztejn (Glatt)
+- b. 1897, Kurow, akta 63 — JRI record name **Mendel** `[C]` EV-32; the timeline's "Rachmeil (confirmed)" + "Mendel/Manuel Glatt" note = one man with the Rachmeil-Mendel double name, later Glatt `[L]` timeline, p. 1 — **CF-16 resolved**.
+- m. **Sophia/Sheindel Chanovesky** (A07) between 1915–22, place unknown `[L]` timeline, p. 1.
+- Dau. **Angela Glatt** b. 1923, Bialystok `[L]` timeline, p. 1 (A08). Glatt cluster: Menahem Mendel Glatt obit 1965 (possibly him — Sheindl still alive 1966), Sigui Glatt Russek "cousin to Joseph/Enrique/Sidney Borenstein" — EV-35 `[?]`.
 
-### A05 · Fiszel "Fishel/Felipe/Philip" Borenstein (Efraim Fishel; indexed once as "Peroim Pizzel")
-- b. 1901, Kurow, akta 42 `[C]` EV-32; Notes, p. 18.
-- Emigrated to Mexico (~1919–25 [L]); m. **Chana Mindel Bauman** — details, children (Enrique 1926, Sidney 1927, Joseph 1936, a son d. at birth 1942), the May 1934 Arizona crossing and the 1934/35 Warsaw trip: pass 5 (timeline).
-- His unveiling/obituary in Prensa Israelita queued `[EV-35]`; "Fishl and Mane as 'uncles of the bride'" at the Glatt/Epelstein wedding — EV-35.
+### A05 · Fiszel "Fishel/Felipe/Philip" Borenstein (Efraim Fishel; once indexed "Peroim Pizzel")
+- b. 1901, Kurow, akta 42 `[C]` EV-32.
+- m. **Chana Mindel Bauman** (A15) between 1919–25, place unknown `[L]` timeline, p. 1; emigrated to Mexico ~1919–25 (with Chana?) `[?]` timeline, p. 1.
+- Children, b. Mexico City `[C timeline, p. 1–2]`: **Enrique** 1926 (Henry/Herszel/Hersh/Tvi — A16), **Sidney** 1927 (A17), **Joseph/Jose** 1936 (A18), an unnamed son d. at birth 1942.
+- **May 1934: crossed into Arizona without family — destination/purpose unknown** (open mystery; border-crossing records queued — Ancestry collection 1528, Notes, p. 11) `[?]` timeline, p. 1.
+- **1934/35: Warsaw trip** — Joseph remembers Fishel, Chana, Enrique and Sidney going; family story of "going back to Poland to show off Chana's jewels" `[?]` timeline, pp. 1–2.
+- 1942: "Fishel told of parents' deaths" — but Sara d. 1925; perhaps Saul d. 1942, or Chana's parents, or siblings — check Shoah records `[?]` timeline, p. 2.
+- Unveiling/obituary in Prensa Israelita queued (EV-35).
 
 ### A06 · "Tía Mania/Mane" Borenstein — unidentified, likely a sibling of Fishel `[?]`
-- Named "tia Mania Borenstein" in the Sara Jarovinsky wedding announcement (Prensa Israelita, queued EV-35); "Mane Borenstein" obit queued (UFDC AA00065527/00709/8x) — Notes, p. 9.
+- "tia Mania Borenstein" in the Sara Jarovinsky wedding announcement; "Fishl and Mane as uncles of the bride" at the Glatt/Epelstein wedding; "Mane Borenstein" obit queued (all EV-35) — Notes, pp. 7–9.
+
+### A07 · Sophia/Sheindel Chanovesky (Chovesky; Glatt)
+- m. Rachmeil Mendel (A04) between 1915–22 `[L]` timeline, p. 1; alive 1966 ("Teddy Schwartz bar mitzvah — still shows Sheindl Glatt alive") `[C annotation]` EV-35.
+
+### A08 · Angela Glatt (Ringel)
+- b. 1923, Bialystok `[L]` timeline, p. 1; dau. of A04/A07.
+- = "Angela Ringel of Mexico City," mother of Myrna Bilak `[L — obit]` EV-39; m. a Mr. Ringel `[L]`.
+- Children `[C obit EV-39]`: Myrna (A09), Janette (A10), Alfredo (A11).
+
+### A09 · Myrna Bilak (Ringel)
+- b. 4 Feb 1946, Mexico City; d. 4 Sep 2001, Las Vegas `[C]` EV-39; sons Dorian, Olivier, Marcel Bilak; sister Janette Epstein (Marbella), brother Alfredo Ringel (Guadalajara).
+
+### A10 · Janette (Ringel) Epstein — dau. of Angela `[C]` EV-39.
+### A11 · Alfredo Ringel — s. of Angela `[C]` EV-39.
+
+### A12 · Chaim Borensztejn? — possible s. of A01/A02, b. 1891 Kurow `[?]` timeline, p. 1. No further trace.
+### A13 · Cyrla Borensztejn? — possible dau., b. 1892 Kurow `[?]` timeline, p. 1.
+### A14 · Necha Borensztejn? — possible dau., b. 1895 Kurow `[?]` timeline, p. 1.
+
+### A15 · Chana Mindel Bauman (Borenstein)
+- b. ~1903 `[L]` timeline, p. 1; sister **Sura Ita Bauman** b. ~1904 `[L]`.
+- m. Fishel (A05) 1919–25 `[L]`; the 1934/35 Warsaw "showing off Chana's jewels" story `[?]`; her parents unknown — **Herz Bauman** gravestone links (Notes, p. 11) may be her father `[?]`.
+
+### A16 · Enrique Borenstein — b. 1926, Mexico City `[C]` timeline, p. 1 (Henry/Herszel/Hersh/Tvi).
+### A17 · Sidney Borenstein — b. 1927, Mexico City `[C]` timeline, p. 1; m. **Rebecca Finkler** `[L — obit/news link]` EV-35; almost certainly the "**Sydney Borenstein Bauman**" who was medical certifier on Shifra's 1962 death certificate `[C]` EV-14 (signed with both family surnames).
+### A18 · Joseph "Jose" Borenstein — b. 1936, Mexico City `[C]` timeline, p. 2; m. **Ana Mostkoff Linares** (B17; marriage announcement queued EV-35); children **Philip (Felipe; indexed Felipe Mostkoff / Felipe Mostkoff Borenstein / Felipe M. Borenstein)** and **Edna (indexed Edna or Jaye, switched between indexes)** — Genealogy draft, p. 2. Philip's bris announcement queued (EV-35).
 
 ## Line B — Mostkoff (Ostrov/Slutsk, Belarus → Mexico City)
 
@@ -244,15 +290,17 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - "A girl named Dveyra-Dora… **my father's niece**… perhaps she was left an orphan… She died of dysentery" when Tania was 10 (~1921) `tania-project (§7); MOSTKOFF, p. 2; Tanya-summary, p. 5`.
 - Her death shortly before Aug 1921: the newborn Dora (B14) was presumably named for her `[L]`.
 - Parent unknown — dau. of one of Israel's siblings `[?]`.
+- Wendy floated pinkas #353 — **Dvora (dau. Avraham-Yitskhak Baienov Halevy), wife of Y' Leib Milkes, d. 16 Jun 1921** — as this niece `chronicle, p. 2` `[?]`; unlikely: a married woman vs. the orphaned girl of the memoir, but the date fits — kept as a long-shot candidate (EV-45).
 
 ## Line C — Polak / Borukovich (Minsk/Slutsk, Belarus)
 
 *(Founded pass 1; completed pass 3 (memoir §§32–35) — the fullest account of this line. Pass 4 adds the Genealogy draft's Polak tree.)*
 
 ### C01 · Y' Mikhal Polak
-- Father of Pesheh (C02), Ary Leib (C04), Tsieta (C05) per their pinkas burial records `[C]` EV-05/25/26; wife/mother unknown `[?]`.
+- Father of Pesheh (C02), Ary Leib (C04), Tsieta (C05) per their pinkas burial records `[C]` EV-05/25/26; wife/mother unknown `[?]`. The draft puts his birth "about 1838 in Minsk" `[L]` Genealogy draft, p. 5 ("Y'" = honorific or a Hebrew name — Yisrael/Yehuda — unresolved).
 - "There had been rich people named Polyak… who probably fled to Moscow, Leningrad, or even abroad" `tania-project (§3)`.
-- Candidate: **Mikhel Polak b. 13 Jun 1847 Minsk** (father Dovid) `[C record / ? identification]` EV-28; brother-candidate **Moshek Polak b. 11 Oct 1852** (X14) EV-29.
+- Candidate: **Mikhel Polak b. 13 Jun 1847 Minsk** (father Dovid) `[C record / ? identification]` EV-28 — note the tension with "~1838" `[?]`; brother-candidate **Moshek Polak b. 11 Oct 1852** (X14) EV-29.
+- Many *other* Slutsk pinkas Polaks exist (Tsvi-Hirsh s. Yacov-Moshe d. 1924; Avraham s. Zev-Volf, bachelor 15, d. 1922; Rakhel-Galdeh wife of Yakov Polak d. 1920; Yosef Polak d. 1912; Yosef Meir Polak d. 1898; Nenkeh dau. of Binyamin d. 1894; Leah Miryam wife of Tsvi Melamed Polak d. 1903; Feiga wife of Polak Melamed d. 1866) `[C pinkas / ? relation]` EV-45 — relations, if any, unknown. Same for the Slutsk **Berkovits "melamed" family** (Yehuda-Leib s. Chaim-Mosheh d. 1921; wife Khaya Bat-Sheva d. 1920) — EV-45 — possibly the family of the pinkas-#1120 "Yosef Halevy Berkovits" (see CF-13).
 
 ### C02 · Pesheh "Pesya" Polak (Pessia; Polyak)
 - Dau. of Y' Mikhal Polak, of "a rich but impoverished Polyak family"; husband's household was "well-off… a young man from Ostrov" `tania-project (§33)`.
@@ -264,7 +312,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ### C03 · Avraham Nakhman Borukovich (Nachman/Boruchovitch; "Nakhamani Korukhilmai" in one garbled translation)
 - Husband of Pesya; father of Shifra (C06) `[L]` Narrative, p. 10; 1925 photo with Tania `[C]` Narrative, p. 9.
-- Cheder and yeshiva educated (with his brother) `Tanya-summary, p. 3`. Cultured, refined, even-tempered, clever; "tall, slender, dark, with strong bones… He called me 'daughter'" `tania-project (§33)`.
+- Cheder and yeshiva educated (with his brother) `Tanya-summary, p. 3`. Cultured, refined, even-tempered, clever; "tall, slender, dark, with strong bones… He called me 'daughter'" `tania-project (§33)`; the chronicle's translation adds **hunchbacked** and: "respected by all in business circles and in the synagogue. They trusted grandfather, went for advice, went to borrow and borrowed themselves" `chronicle, p. 3`.
 - **Furs and agricultural raw-materials specialist** — assessed skins, "never lying… his word was law"; from the 1920s hired by Soviet customs as a specialist at 25 rubles/month, trade-union member `Tanya-summary, p. 4`; mushrooms drying in his apartment `Tanya-summary, p. 4`. Lived on the outskirts of **Ostrov** near Slutsk `Tanya-summary, p. 3`.
 - **Alive in 1932**: "Grandfather moved to live with her [Malka] in Vitebsk, and I saw him one more time, in 1932, when I first came with Papa (Iosif) from Birobidzhan" `tania-project (§32)` → the pinkas #1120 death (21 Jan 1918, Slutsk) attributed to him **cannot be his** — **CF-13** (that Avraham Berkovits is another man; drop the 1918 death).
 - Death: after 1932, place unknown (Vitebsk?) `[?]`.
@@ -274,6 +322,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ### C05 · Tsieta Polak (Basin)
 - Dau. Y' Mikhal Polak; wife of **Kalman Osher Basin** (C10); d. 31 Mar 1912 (13 Nisan), Slutsk — "important venerable woman"; buried one grave from Mrs. Dvora (d. 25 Dec 1911), row 1 `[C]` EV-26.
+- Probable children: **Mendel and Sora Basin** `[?]` Genealogy draft, p. 5 (basis unstated — likely burial adjacency).
 
 ### C06 · Shifra/Chifra/Sofia Boruchovich (Mostkoff)
 - Dau. of Nachman & Pesheh; eldest and favorite daughter `tania-project (§4)`; confirmed by Vsia Rossiia 1911 ("Mastkov, Shifra **Nakhman**[ovna], textiles, Slutsk") `[C]` EV-04.
@@ -286,25 +335,29 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ### C07 · Malka Boruchovich (Kharakh; "Malke")
 - Dau. of Pesya & Nakhman; Shifra's younger sister `tania-project (§§33, 35)`.
-- Teacher in Slutsk (Tania sat in her 2nd-grade class) `tania-project (§16)`; **Krupskaya Academy, Moscow** (1925; Lenin's-death news-bearer, 22 Jan 1924) `tania-project (§§13, 21)`; education inspector in Bobruisk `tania-project (§30)`.
+- b. ~1892 `[L]` Genealogy draft, p. 6. Teacher in Slutsk (Tania sat in her 2nd-grade class) `tania-project (§16)`; **Krupskaya Academy, Moscow** (1925; Lenin's-death news-bearer, 22 Jan 1924) `tania-project (§§13, 21)`; education inspector in Bobruisk `tania-project (§30)`.
 - Fiancé betrayed her (married her friend); **m. Faivel Kharakh** (C08) — "who loved Malka very much, a good, calm man, but he could not put out the fire of Malka's suffering" `tania-project (§30)`.
 - Later Vitebsk (Tania's visits 1932, 1934/35) `tania-project (§§31–32)`; wartime evacuation to Penza, where she met Yakhna's Russian-married daughter `tania-project (§33)`.
 - Children: **Misha** and **Polya (Pesya)**; "now their whole family, children and grandchildren, live in the USA and Israel" (1976–80) `tania-project (§35)`.
 
 ### C08 · Faivel Kharakh (Harakh/Charach; Fayvl)
 - m. Malka; "moved into Grandfather's apartment, to stay with him once I left to study in Moscow" `tania-project (§30)`; theater companion of Tania & Malka `tania-project (§32)`.
-- The Slutsk Yizkor "Fayvl the Town Sexton" chapter — pass 4 (Slutsk Links).
+- **"Fayvl the Town Sexton"** (Slutsk Yizkor chapter, EV-46): born a sexton — father **Reb Aaron** (Jewish Court of Justice sexton) died young, leaving widow **Esther Frume** with four small children; Fayvl took the position at **14** to feed the family; later head sexton of the Kalter shul; knew Tanach and Ein Yankev; in the 1920s, with the synagogues requisitioned, bought a horse and wagon — hauling loads and selling kegs of water to Soviet restaurants `[C Yizkor excerpt]` Slutsk Links, pp. 3–4. (If Hinde's "Charches" husband (B06) was a Kharakh, he'd be of this family `[?]`.)
 
 ### C09 · Beila Borukovich (Yonas/Jonus)
 - d. 4 Feb 1919, suddenly — pinkas: "Mrs. **BEILA** dau. of mh"r r' Avraham Barukhovits, wife of r' **Shlomo Yonus**… new row 3" `[C]` EV-33; Geni profile "Beila Jonas" linked Notes, p. 13.
 - Father "Avraham" vs. Pesheh's husband "Nakhman" — same man, double name `[L]` — but note: with Nakhman alive past 1932 (C03), Beila's father may be *another* Avraham Borukovich; her placement as Pesya's daughter is affected by **CF-13** `[?]`.
 - Not among the memoir's "four grew to adulthood" — died 1919 (young woman) `tania-project (§33)`.
 
-### C10 · Kalman Osher Basin — husband of Tsieta Polak (C05) `[C]` EV-26.
-### C11 · Shlomo Yonas (Yonus) — husband of Beila (C09) `[C]` EV-33.
+### C10 · Kalman Osher Basin — husband of Tsieta Polak (C05) `[C]` EV-26; probable children Mendel & Sora `[?]` Genealogy draft, p. 5.
+### C11 · Shlomo Yonas (Yonus/Jonas) — husband of Beila (C09) `[C]` EV-33; Geni profile "Beila Jonas" Notes, p. 13.
 
-### C12 · Mikhail "Meishke" Borukhovich
-- S. Nakhman & Pesya; the youngest of the four who grew up `tania-project (§33)`.
+### C16 · Yosef Polak
+- "Young man" Yosef s. of **Y' Leib Polak**, d. suddenly 27 Jan 1915 (12 Shvat), Slutsk; buried two graves from M' Mendil (d. 24 Jan 1915), row 2, town side `[C]` EV-44 (chronicle, pp. 2, 4).
+- His father "Y' Leib Polak" is probably Ary Leib (C04, d. 1895) — making Yosef a grandson of Y' Mikhal — but Leib may be yet another son of Mikhal `[?]`.
+
+### C12 · Mikhail "Meishke/Moise?" Borukhovich
+- S. Nakhman & Pesya; the youngest of the four who grew up `tania-project (§33)`; the draft calls him "a/k/a Moise (born about 1916)" `[?]` Genealogy draft, p. 6 — **CF-25** (a 1916 birth is impossible for a medical student marrying in 1925; b. ~1900s per the memoir's arithmetic, as Shifra's younger brother).
 - **Medical institute, Leningrad**; end of August (c. 1925) suddenly married **Khaya Pastron** (C13) "without his parents' or anyone's consent… a lively girl who… wasn't right for him (Genya's mother)" `tania-project (§16)`.
 - School inspector for the Belorussian Commissariat of Education in Minsk; **suicide (hanged himself with a towel) one winter morning** during Tania's last Slutsk months (~1925/26); "Grandfather's grief knew no bounds" `tania-project (§30)`.
 - Brought Tania a drawing album with colored pencils `tania-project (§17)`. Wife and daughter Genya lived in Moscow `tania-project (§30)`.
@@ -369,4 +422,4 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### X18 · David & Lipke ("Uncle David and Aunt Lipke")
 - Worked with animal hides; Bolotnaya Street, Slutsk; daughter **Luba** left for Poland — "a beauty (she is Khanele's mother, from New York)" `tania-project (§34)`. Which side of the family — unknown `[?]`.
 
-*Leads without entries: **Glatt/Epelstein/Jarovinsky/Mitelhaus cluster** (Prensa Israelita queue, EV-35 — resolved in pass 5); **Secher/Pepper obit cluster** (Notes, pp. 5–6 — CF-15); **Rebeca Rubinstein de Bornstein** obit 2014 (Notes, p. 15 `[?]`); **Zaturensky family, Nesvizh 1851 revision list** (EV-36); **Herz Bauman** Warsaw cemetery links (Notes, p. 11 — pass 5); **Alberto Moskoff obit** (Notes, p. 7); **Boruchovich genealogy site** (maloratsky-vinitsky, Notes, p. 18); **Myrna Bilak obit 2001** (EV-39 — Angela Glatt line, pass 5); pinkas **#870 Chaya-Henya Itskovits** (EV-43 — grandmother-Khaya candidate, CF-17); **Dveira Ostrovskaya** (teacher near Minsk — the sweetheart's sister, NOT family `tania-project (§31)`).*
+*Leads without entries: **1877 Priluki marriage** Min'kov/Supanitskij (EV-48 — Sapotnitsky-name lead); **Gravestone 17** — Yechiel Michel s. Aryeh, d. 10 Nov 1867, Slutsk (EV-49 — unplaced); **Glatt/Epelstein/Jarovinsky/Mitelhaus cluster** (Prensa Israelita queue, EV-35 — resolved in pass 5); **Secher/Pepper obit cluster** (Notes, pp. 5–6 — CF-15); **Rebeca Rubinstein de Bornstein** obit 2014 (Notes, p. 15 `[?]`); **Zaturensky family, Nesvizh 1851 revision list** (EV-36); **Herz Bauman** Warsaw cemetery links (Notes, p. 11 — pass 5); **Alberto Moskoff obit** (Notes, p. 7); **Boruchovich genealogy site** (maloratsky-vinitsky, Notes, p. 18); **Myrna Bilak obit 2001** (EV-39 — Angela Glatt line, pass 5); pinkas **#870 Chaya-Henya Itskovits** (EV-43 — grandmother-Khaya candidate, CF-17); **Dveira Ostrovskaya** (teacher near Minsk — the sweetheart's sister, NOT family `tania-project (§31)`).*
