@@ -87,7 +87,7 @@ graph TD
     style A14 stroke-dasharray:5 4
     style A06 stroke-dasharray:5 4
     style ANAM stroke-dasharray:5 4
-    ```
+```
 
 *Not drawn: an unnamed son d. at birth 1942 (A05/Chana); Sidney is almost certainly the 'Sydney Borenstein Bauman' who certified Shifra's 1962 death certificate; Fishel's solo Arizona crossing May 1934 and the 1934/35 Warsaw trip — mysteries 1–2, see FAMILY-OVERVIEW.*
 

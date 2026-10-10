@@ -16,6 +16,7 @@ Genealogy research project (not a code project): assembling the Borenstein/Mostk
 - Every new fact gets a **citation** (source PDF + page, URL, or archive fond) and a **confidence mark**: `[C]` confirmed by record, `[L]` likely, `[?]` open question (DEC-003).
 - Every person keeps an **alias list** (Hebrew/Yiddish/secular/Mexican/nicknames + transcription variants). Never merge two same-named people without corroborating — cross-branch name collisions are common in this family.
 - Disagreements between sources go in `data/conflicts.md` once it exists; don't silently resolve them.
+- `data/family-tree.md`: Mermaid closing fences must sit at column 0 (4+ leading spaces makes CommonMark treat them as block content, silently breaking GitHub's rendering).
 - This is family history: living people are in the tree. Keep research in this repo; don't publish details about living relatives anywhere external without explicit instruction.
 
 ## Tooling
