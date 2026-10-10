@@ -2,7 +2,7 @@
 
 ## Entry 4 — Phase 2 complete: data/ built from all 9 sources (2026-10-10)
 
-**What**: Full person-based extraction of the corpus into `data/`: **62 people** (A01–A18 Borenstein, B01–B26 Mostkoff, C01–C16 Polak/Borukovich, X01–X18 unplaced), **49 evidence records** (EV-01–49), **28 conflicts** (CF-01–28, 6 resolved/leaning-resolved).
+**What**: Full person-based extraction of the corpus into `data/`: **77 people** (A01–A18 Borenstein, B01–B26 Mostkoff, C01–C16 Polak/Borukovich, X01–X18 unplaced), **49 evidence records** (EV-01–49), **26 conflicts** (CF-01–28 with CF-18/19 unused; 6 resolved/leaning-resolved).
 
 **Why**: Replace the scattered PDF notes with one cited, confidence-marked index (ROADMAP Phase 2; "no facts left behind in the PDFs").
 

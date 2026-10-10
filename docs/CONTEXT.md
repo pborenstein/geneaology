@@ -9,7 +9,7 @@ last_entry: chronicles/phase-2-extraction.md #4
 
 **Project**: Well-sourced genealogy of the Borenstein/Mostkoff family from Wendy's research. Sources: 9 PDFs in `base-documents/` (121 pp, fully extracted) + tania-project.com memoir. Repo: github.com/pborenstein/geneaology.
 
-**Current focus**: **Phase 2 (master extraction) is COMPLETE** — `data/` now holds the full person index (62 people, A/B/C/X lines), evidence log (EV-01–49), and conflicts log (CF-01–28). Phase 3 (tree assembly) is next; Phase 4 research can start anytime.
+**Current focus**: **Phase 2 (master extraction) is COMPLETE** — `data/` now holds the full person index (77 people, A/B/C/X lines), evidence log (EV-01–49), and conflicts log (26 entries, CF-01–28). Phase 3 (tree assembly) is next; Phase 4 research can start anytime.
 
 **Active tasks** (Phase 3, see IMPLEMENTATION.md):
 - [ ] Decide GEDCOM tooling (Gramps?) → load reconciled people from `data/people.md`
