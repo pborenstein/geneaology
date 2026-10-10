@@ -45,3 +45,13 @@
 **Key findings**: (1) the memoir's Russian original says **Несвиж/Nesvizh** outright — "Neswalok" was a misreading, and the interwar border resolves the "near Poland" tension; (2) the 1889 Minsk "Khaia Zaturinskii" marriage **cannot be Chaya's** (bride 20 vs Chaya ~1855–60 b.; Israel b. 1880 predates it) — new CF-29, with a younger-namesake-cousin reading that keeps the Nesvizh Zelik/Zaturensky natal-family hypothesis (H1) alive; (3) the Priluki 1877 Min'kov/Supanitskij pairing (EV-48) is the closest phonetic match and echoes the Mostkov+Sapotnitsky pair; (4) the name is attested as a real Slutsk/Minsk-region surname (Narrative p. 8) — the simplest hypothesis needs no exotic origin.
 
 **Files**: docs/investigations/sapotnitsky.md · data/{people,evidence-log,conflicts}.md (B02, EV-10, CF-29) · README · CONTEXT.
+
+## Entry 8 — Mermaid family tree (2026-10-10)
+
+**What**: `data/family-tree.md` — the tree as 5 GitHub-renderable Mermaid diagrams: (1) the three-line convergence to Philip/Edna; (2) Line A incl. the Glatt branch; (3) Line B elder generation; (4) Israel & Shifra's descendants; (5) Line C Polak/Borukovich.
+
+**Why**: Visual navigation of the 77-person index; Mermaid chosen over SVG for native GitHub rendering + text versioning + regenerability.
+
+**How**: Derived by hand from data/people.md with confidence encoding (dashed nodes/edges = open [?]; marriage hubs `(("m. year"))`). All 5 diagrams validated parse+render against Mermaid 10 (CDN test page in-browser; npm registry blocked). X-line candidates deliberately omitted (documented in the file).
+
+**Files**: data/family-tree.md · README · CONTEXT.

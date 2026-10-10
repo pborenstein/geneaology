@@ -14,6 +14,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 |---|---|
 | See where the project stands & what's next | [docs/CONTEXT.md](docs/CONTEXT.md) (hot state, read first) · [docs/IMPLEMENTATION.md](docs/IMPLEMENTATION.md) (phase checklists) |
 | Look up a person (any line, any spelling) | **[data/people.md](data/people.md)** — the deliverable: 77 entries, each with aliases, facts, citations, confidence |
+| **See the family tree visually** | [data/family-tree.md](data/family-tree.md) — 5 Mermaid diagrams (GitHub renders them natively): convergence overview + Lines A/B/C detail |
 | Check a known disagreement between sources | [data/conflicts.md](data/conflicts.md) — every open/resolved conflict (CF-##) |
 | Verify a record (birth, marriage, pinkas, obit, ship…) | [data/evidence-log.md](data/evidence-log.md) — 49 records with archive fonds/URLs (EV-##) |
 | Understand the family shape + open mysteries | [docs/FAMILY-OVERVIEW.md](docs/FAMILY-OVERVIEW.md) — sourced synthesis over `data/` |
@@ -29,7 +30,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 |---|---|---|
 | `base-documents/` | The 9 source PDFs (87 pp): master narrative, research notes, memoir summaries, record extracts | **Archival — never modified** (sole exception to date: DEC-008 verified trim) |
 | `extracted-text/` | One `.txt` per PDF (`pdftotext -layout`) | Derived — regenerate, never hand-edit |
-| `data/` | **The deliverable**: `people.md` (person index), `conflicts.md` (CF-##), `evidence-log.md` (EV-##) | Actively maintained; every fact cited + confidence-marked |
+| `data/` | **The deliverable**: `people.md` (person index), `conflicts.md` (CF-##), `evidence-log.md` (EV-##), `family-tree.md` (Mermaid tree) | Actively maintained; every fact cited + confidence-marked |
 | `docs/` | Tracking & planning (see table above); `docs/investigations/` = themed deep dives | Actively maintained |
 | `CLAUDE.md` | Agent instructions: pickup routine, hard rules, tooling | Read before any automated session |
 

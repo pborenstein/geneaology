@@ -26,4 +26,4 @@ last_entry: chronicles/phase-2-extraction.md #7
 
 **Next session**: Read this + `data/people.md` header; candidates: Phase 3 (GEDCOM tooling decision), the EV-35 UFDC mining pass, or the Sapotnitsky research program (docs/investigations/sapotnitsky.md §8 — archive pulls + JewishGen searches). Ask Philip which. Wrap-up runs the session-wrapup skill (chronicle next entry = 8).
 
-**Map**: docs/investigations/sapotnitsky.md (name investigation — new) · docs/FAMILY-OVERVIEW.md (sourced synthesis) · docs/SOURCE-SURVEY.md · docs/ROADMAP.md · docs/RESOURCES.md · docs/DECISIONS.md (DEC-004 decided) · docs/IMPLEMENTATION.md · docs/chronicles/.
+**Map**: data/family-tree.md (Mermaid family tree — new) · docs/investigations/sapotnitsky.md (name investigation) · docs/FAMILY-OVERVIEW.md (sourced synthesis) · docs/SOURCE-SURVEY.md · docs/ROADMAP.md · docs/RESOURCES.md · docs/DECISIONS.md (DEC-004 decided) · docs/IMPLEMENTATION.md · docs/chronicles/.
