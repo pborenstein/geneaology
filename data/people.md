@@ -60,7 +60,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | B17 | Ana "Shifra?" Mostkoff Linares | b. 29 Dec 1940 [C] | M. Joseph Borenstein → Philip, Edna/Jaye, Shifra |
 | B18 | Moises Mostkoff | b. 13 Jan 1942 [C] | S. Luis & Chelo |
 | B19 | Pola "Pesya?" Mostkoff | b. 13 Apr 1946 [C] | Dau. Luis & Chelo; may hold family information (Philip) |
-| B20 | Isodoro "Lazaro?" Mostkoff | b. 26 Mar 1950 [C] | S. Luis & Chelo |
+| B20 | Isidoro "Lazaro?" Mostkoff | b. 26 Mar 1950 [C] | S. Luis & Chelo |
 | B21 | Aida "Ida?" Mostkoff | b. 31 Mar 1957 [C] | Youngest dau. Luis & Chelo |
 | B22 | Ignacio Mostkoff Nudelman | b. ~1938 [L] · d. 15 Mar 2013 [C] | S. Abram [L]; m. Bella; structure vs. memoir — CF-20 |
 | B23 | Louise Mostkoff | — | Dau. of Isadore Mostkoff (B05) [L], Rosedale MS |
@@ -262,13 +262,14 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - m. Luis Mostkoff (B12) — license 23 Dec 1939 Narrative, p. 20.
 
 ### B16–B21 · Children of Luis & Chelo `[C family data]` Narrative, pp. 20–21
+- The six children (civil names): **Lucy, Ana, Moises, Pola, Isidoro, Aida** — corrected spelling & frame per Philip `[C — 2026-10-13]`: the Prensa Israelita reports their **Hebrew names**, which differ from the civil names; **Luis never had a daughter named Shifra** (the memoir's list errs there — CF-23).
 - **B16 Lucy** b. 10 Mar 1939 — born ~9 months *before* the civil marriage license (23 Dec 1939): religious marriage earlier? `[?]` (CF-06). Possible "Lucy Secher" of the Memphis obits `[?]` **CF-15**; Notes, pp. 5–6.
-- **B17 Ana** (memoir: "Shifra"?) b. 29 Dec 1940 — m. **Joseph Borenstein**; children **Philip (Felipe)**, **Edna/Jaye**, and **Shifra Borenstein** `[C — Philip, 2026-10-13]` (living; names only). Marriage announcement queued EV-35. NB: a daughter Shifra in this generation may explain the memoir's "Shifra" in Luis's children list (CF-23 annotation).
+- **B17 Ana** (memoir: "Shifra"?) b. 29 Dec 1940 — m. **Joseph Borenstein**; children **Philip (Felipe)**, **Edna/Jaye**, and **Shifra Borenstein** `[C — Philip, 2026-10-13]` (living; names only). Marriage announcement queued EV-35. Dau. **Shifra** was named after Ana's grandmother **Shifra Boruchovich** (C06) `[C — Philip, 2026-10-13]`.
 - **B18 Moises** b. 13 Jan 1942.
 - **B19 Pola** (memoir: "Pesya"?) b. 13 Apr 1946 — wedding announcement queued (EV-35); "connect with your sister Pola" (Philip, `[C]` Notes, p. 12).
-- **B20 Isodoro** (memoir: "Lazaro"?) b. 26 Mar 1950.
+- **B20 Isidoro** (earlier extracted as "Isodoro"; memoir: "Lazaro"?) b. 26 Mar 1950.
 - **B21 Aida** (memoir: "Ida"?) b. 31 Mar 1957.
-- Mapping caveat (CF-23): the memoir's order-based mapping (Shifra=Ana, Pesya=Pola, Lazaro=Isodoro, Ida=Aida) collides with Ashkenazi naming practice — grandmother Shifra was *living* when Ana was born (1940; Shifra d. 1962).
+- Hebrew vs. civil names (CF-23, partially resolved `[C — Philip, 2026-10-13]`): the Prensa Israelita reports the children's **Hebrew names**; the memoir's list errs in including "Shifra" — Luis never had a daughter of that name. Hebrew↔civil mapping (Pesya, Lazaro, Ida, …) pending EV-35 mining.
 
 ### B22 · Ignacio Mostkoff Nudelman
 - S. Abram (B10) & Clara Nudelman `[L — surname]`; b. ~1938 (75 at death) `[L]`; d. 15 Mar 2013, Mexico City; buried Panteón Anexo 1 `[C]` EV-24.
@@ -332,6 +333,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - First love, "some simple young man" (a shoemaker), not allowed ("did not permit marrying below one's class"); then matched with the red-haired returnee from America `tania-project (§§6, 33)`. Dowry: the haberdashery shop `tania-project (§7)`.
 - Seamstress in Slutsk `[C]` EV-04.
 - Left Slutsk end Nov 1928; entered Mexico Jan 1929 `[C]` EV-03.
+- Namesake: her great-granddaughter **Shifra Borenstein** (dau. of Joseph Borenstein & Ana Mostkoff Linares), named after her `[C — Philip, 2026-10-13]`.
 - d. 1962 Mexico City — death cert **26 Sep 1962** `[C]` EV-14 vs. memoir "**August 1962**" `tania-project (§35)` — **CF-21**; buried beside Israel, Panteon Israelita; obituary "Sofia/Chifra Boruchovitz" (image, Narrative, p. 25).
 
 ### C07 · Malka Boruchovich (Kharakh; "Malke")

@@ -170,7 +170,7 @@ graph TD
     MB1215 --> B17["Ana<br/>b.1940"]
     MB1215 --> B18["Moises<br/>b.1942"]
     MB1215 --> B19["Pola<br/>b.1946"]
-    MB1215 --> B20["Isodoro<br/>b.1950"]
+    MB1215 --> B20["Isidoro<br/>b.1950"]
     MB1215 --> B21["Aida<br/>b.1957"]
 
     A18["Joseph Borenstein b.1936"] --- MA1817(("m."))
@@ -191,7 +191,7 @@ graph TD
     style ABRAMKIDS stroke-dasharray:5 4
 ```
 
-*Memoir's Jewish names for Luis's children (Shifra, Pesya, Lazaro, Ida) map uncertainly onto the civil names — CF-23.*
+*Luis's children (civil): Lucy, Ana, Moises, Pola, Isidoro, Aida. The Prensa Israelita reports their Hebrew names; the memoir's list errs in including 'Shifra' — CF-23, partially resolved (Philip, 2026-10-13).*
 
 ## 5 · Line C — Polak / Borukovich (Minsk/Slutsk)
 
