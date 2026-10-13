@@ -71,3 +71,11 @@
 **What**: Philip corrected three things: (1) Luis & Chelo's children are Lucy, Ana, Moises, Pola, **Isidoro** (spelling), Aida; (2) the Prensa Israelita reports their **Hebrew names** — hence the memoir's differing list — and **Luis never had a daughter named Shifra** (entry 9's explanation for the memoir's "Shifra" is withdrawn; the memoir's list is simply wrong there); (3) Shifra Borenstein (Joseph & Ana's third child) was **named after Ana's grandmother Shifra Boruchovich** (C06). CF-23 → partially resolved; Hebrew↔civil mapping pending EV-35 mining.
 
 **Files**: data/{people,family-tree,conflicts}.md. Commit 02f1fc4.
+
+## Entry 11 — The full Pinkas of Slutsk arrives & is incorporated (2026-10-13)
+
+**What**: Philip added *Pinkas-of-Slutsk.pdf* (2,178 pp; full English translation of the Slutsk Chevra Kadisha register, 16,266 entries, 1736–1924; provenance TBD — Wendy's collection, likely via Ancestry). Machine-parsed with page mapping (16,266 entries; #1 = Apr 1924, numbers run backward); family extraction in **data/pinkas-hits.md**; EV-50–58.
+
+**Findings**: (1) **CF-17 resolved-leaning negative** — grandmother Chaya is *not in the register* (58 Khaya/Chaya deaths 1914–24 enumerated; 3 Khaya-wives-of-Leib across 1736–1924, none ours; 0 Mostkov) → she died near **Nesvizh**, not Slutsk; #870 weakened further (her husband Zev Volf Itskovits d. 1914, age 90). (2) **CF-13 resolved at full scale** — ≥4 distinct Berkovits/Borukhovich families in Slutsk; #1120's Avraham clusters with the Chaim-Zimil tailor clan (row 28). (3) **CF-10 restructured** — Tsiptsin is a cohesive Hacohen clan (10 entries, incl. the Chevra Kadisha's own beadle), Sapotnitsky has zero Slutsk burials; Bunin cousin-couple fixed: Y' Leib Boonin → Mendil (d. 11 Jan 1915; EV-52) m. Sheina Dvora Tsiptsin → sons Natan (d. 1909) & Yitskhak (killed 1922). (4) **4th child of Y' Mikhal Polak found** — Y' Leib Polak (d. by 1895, row 5; EV-51), making C16 Yosef his grandson. (5) Zaturensky family real in Slutsk (4 entries, no Zelik — EV-56); only Kharakh = Razoveh family (EV-57); Mrs. Zlateh (Pesheh's row-mate) = Zlateh Novik Krienes, no relation.
+
+**Files**: base-documents/Pinkas-of-Slutsk.pdf · extracted-text/ · data/{pinkas-hits,people,conflicts,evidence-log}.md · docs/{SOURCE-SURVEY,investigations/sapotnitsky}.md · README · CONTEXT.

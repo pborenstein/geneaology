@@ -30,7 +30,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 |---|---|---|
 | `base-documents/` | The 9 source PDFs (87 pp): master narrative, research notes, memoir summaries, record extracts | **Archival — never modified** (sole exception to date: DEC-008 verified trim) |
 | `extracted-text/` | One `.txt` per PDF (`pdftotext -layout`) | Derived — regenerate, never hand-edit |
-| `data/` | **The deliverable**: `people.md` (person index), `conflicts.md` (CF-##), `evidence-log.md` (EV-##), `family-tree.md` (Mermaid tree) | Actively maintained; every fact cited + confidence-marked |
+| `data/` | **The deliverable**: `people.md` (person index), `conflicts.md` (CF-##), `evidence-log.md` (EV-##), `family-tree.md` (Mermaid tree), `pinkas-hits.md` (register extraction) | Actively maintained; every fact cited + confidence-marked |
 | `docs/` | Tracking & planning (see table above); `docs/investigations/` = themed deep dives | Actively maintained |
 | `CLAUDE.md` | Agent instructions: pickup routine, hard rules, tooling | Read before any automated session |
 
@@ -42,8 +42,8 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 |---|---|
 | **Phase** | 2 (master extraction) **complete** → Phase 3 (tree assembly) next |
 | **People index** | 77 people — A01–A18 · B01–B26 · C01–C16 · X01–X18 |
-| **Evidence / conflicts** | EV-01…49 · CF-01…29 (27 entries, CF-18/19 unused; 7 resolved/leaning/partial) |
-| **Corpus** | 9 PDFs, 87 pp (Narrative trimmed 71→37 pp, DEC-008) + full memoir at tania-project.com |
+| **Evidence / conflicts** | EV-01…58 · CF-01…29 (27 entries, CF-18/19 unused; 9 resolved/leaning/partial after the Pinkas pass) |
+| **Corpus** | 10 PDFs, 2,265 pp — incl. the **full Slutsk Pinkas** (2026-10-13; extraction `data/pinkas-hits.md`) + memoir at tania-project.com |
 | **Queued research** | ~30 UFDC Prensa Israelita links (EV-35) — Phase 4 priority 1 |
 | **Family input** | Open stream (2026-10-13): Philip — more welcome; ask Pola |
 

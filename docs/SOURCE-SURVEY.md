@@ -15,8 +15,9 @@
 | MOSTKOFF | 2 | Memoir excerpt + LitvakSIG record | Raw notes |
 | SUPONITZKY | 2 | Link + 1877 Priluki marriage record | Lead file |
 | Borenstein family timeline | 2 | Borenstein-line chronology | Working timeline |
+| Pinkas-of-Slutsk | 2,178 | **Full Slutsk Chevra Kadisha burial register, English translation** (16,266 entries, 1736–1924; provenance TBD — Wendy's collection) | Reference database — search, don't read; extraction in `data/pinkas-hits.md` |
 
-Total: 87 pages, ~125 KB of text. Everything has a usable text layer (the ~38 MB narrative is text + many embedded photographs — mostly one shared set of photo objects).
+Total: 2,265 pages (10 PDFs), ~5.9 MB of text. Everything has a usable text layer (the ~38 MB narrative is text + many embedded photographs — mostly one shared set of photo objects).
 
 ## File-by-file
 

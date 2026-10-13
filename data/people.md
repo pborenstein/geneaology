@@ -2,7 +2,7 @@
 
 One entry per **family-connected person** (blood/marriage relatives and record-witnessed kin; background mentions stay in the source notes). Built in Phase 2 extraction passes (DEC-004: single markdown index; GEDCOM conversion deferred to Phase 3).
 
-**Pass status**: All five extraction passes complete (1 Narrative · 2 Notes · 3 Tanya material · 4 record collections · 5 timeline).
+**Pass status**: All five extraction passes complete (1 Narrative · 2 Notes · 3 Tanya material · 4 record collections · 5 timeline) · **Pinkas pass 2026-10-13** (full Slutsk Chevra Kadisha register → `data/pinkas-hits.md`).
 
 ## Conventions
 
@@ -14,6 +14,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
   - `Tanya-summary, p. N` = *Summarized Belarus memories of Tanya Mostkoff.pdf*
   - `Genealogy draft, p. N` = *Borenstein-Mostkoff Family Genealogy.pdf*
   - `chronicle, p. N` · `Slutsk Links, p. N` · `MOSTKOFF, p. N` · `SUPONITZKY, p. N` · `timeline, p. N` = same-named PDFs
+  - `Pinkas, p. N (entry #M)` = *Pinkas-of-Slutsk.pdf* (full Slutsk Chevra Kadisha register, 1736–1924); extraction in `data/pinkas-hits.md`
   - `tania-project (§N)` = full English translation of Tania's memoir (written 1976–80) at tania-project.com — `src/posts/provisional-translation-en.md`; sections are the memoir's own numbered `###` headers (EV-40).
   - `EV-##` = record in `data/evidence-log.md`; anything else cited by URL verbatim.
 - **Aliases**: every person keeps all known variants. Never merge same-named people without corroboration (CLAUDE.md rule). NB the two **Taybas**: the eldest daughter of Chaya & Leibe (B08) and her grandniece Tania herself (B11) — classic cross-branch name collision.
@@ -42,7 +43,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | A17 | Sidney Borenstein | b. 1927 Mexico City [C] | S. Fishel & Chana; m. Rebecca Finkler [L] |
 | A18 | Joseph "Jose" Borenstein | b. 1936 Mexico City [C] | S. Fishel & Chana; m. Ana Mostkoff Linares (B17) → Philip, Edna/Jaye, Shifra |
 | B01 | Aryeh Leib "Leibe/Lev" Mostkoff | b. ~1855–60 [L] · d. young [C memoir] | Patriarch; poor; house by the bridge (surname legend) |
-| B02 | Chaya (Sapotnitsky?) Mostkoff | b. ~1855–60 [L] · d. Slutsk, date unknown [?] | Matriarch; village near Nesvizh; lived with Israel's family |
+| B02 | Chaya (Sapotnitsky?) Mostkoff | b. ~1855–60 [L] · d. not in Slutsk register — likely near Nesvizh [?] | Matriarch; village near Nesvizh; lived with Israel's family |
 | B03 | Morduckh "Motl/Motel/Max" Mostkov | b. ~1877 [L] | Eldest known son; m. Dvora Portnoy 1906 Lida [C]; Lida children 1907–13 [C] |
 | B04 | Israel "Isrol Leibovich" Mostkoff | b. 1880 Ostrov [C memoir] · d. 1956/57 Mexico City [CF-02] | Mississippi ~1895–1905; m. Shifra ~1907; to Mexico 1924/25 |
 | B05 | Eiser "Isodoro/Isadore" Mostkoff | b. 1888 [C] | Brother; Mississippi fur trade; buried Clarksdale MS |
@@ -84,7 +85,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | C14 | Yakhna Borukhovich | alive 1941 [C memoir] | Nakhman's sister; grain shop, Slutsk; died in 1941 family suicide |
 | C15 | Khaim-Yudl Borukhovich | d. 1941 Slutsk [C memoir] | S. Yakhna; pharmacist (Gipchin's); poisoned household ahead of German action |
 | X01 | Yitskhak "Isaac" Bunin | d. 31 Jan 1922 [C] | Killed in Dalhinoveh massacre (Pinkas 229); father of Masha & Nina |
-| X02 | Mendil Bunin (Boonin) | d. ~1915 [?] | Father of Yitskhak; m. Sheina Dvora |
+| X02 | Mendil Bunin (Boonin) | d. 11 Jan 1915 [C] | S. Y' Leib Boonin; m. Sheina Dvora; sons Yitskhak & Natan |
 | X03 | Sheina Dvora (Tsiptsin) Bunin | d. 15 Aug 1916 [C] | Dau. of Yitskhak Tsiptsin — Sapotnitsky variant? CF-10 |
 | X04 | Masha Bunin/Guitiyk | — | Dau. of Isaac Bunin; grew up in the Mostkoff home |
 | X05 | Nina Bunin/Guitiyk | — | Dau. of Isaac Bunin; grew up in the Mostkoff home |
@@ -179,7 +180,8 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - "Lived her whole life in a distant village near the Polish border, near **Nesvizh**" `tania-project (§4)` — the older translation's "Neswalok" was a misreading: the memoir's Russian original says **Несвиж (Nesvizh)** outright, and the site's gazetteer places it (53.22°N 26.69°E) "near the Polish border of the time" (the interwar Riga border ran just west of Nesvizh). See **docs/investigations/sapotnitsky.md** for the full name investigation.
 - Lived with Israel's family on Sadovaya St. in Tania's childhood (corner of the bedroom; knitting; "I don't even remember when she left us, or perhaps died") `tania-project (§4)`.
 - "Many children": Tayba (eldest daughter), Motle, Ginde, Eizer, Israel + "others"; "all my father's brothers and sisters, along with their children and grandchildren, live in the USA" (as of 1976–80) `tania-project (§§4, 35)`.
-- Death: **timing unknown** — the Narrative's "1917–18, kidney disease, Tania 6–7" is almost certainly a misattribution of the *Pesya* memory (CF-22); pinkas #870 candidate (Chaya-Henya Itskovits, d. 3 Mar 1919 — but that would make Israel's patronym Itskovits) — **CF-17**.
+- Death: **timing unknown** — the Narrative's "1917–18, kidney disease, Tania 6–7" is almost certainly a misattribution of the *Pesya* memory (CF-22).
+- **Full-register verdict (2026-10-13)**: grandmother Chaya is **not in the Slutsk pinkas at all** — all 58 Khaya/Chaya deaths 1914–24 enumerated, every Khaya-wife-of-a-Leib across 1736–1924 checked, zero Mostkov burials (CF-17 resolved-leaning negative). She presumably died and was buried in her village region near **Nesvizh**. The #870 candidate (Chaya-Henya Itskovits) is further weakened: her husband Zev Volf Itskovits, tailor of Oreitsa, d. 7 Feb 1914 aged 90 `Pinkas, p. 258 (entry #1809)`.
 - Surname & natal family: see **docs/investigations/sapotnitsky.md** (the 1889 Minsk "Khaia Zaturinskii" marriage cannot be hers on age — CF-29 — but may be a younger namesake cousin of the same Nesvizh clan; father candidate Zelik `[?]`).
 
 ### B03 · Morduckh "Motl/Motel/Max" Mostkov (Mordukh; Mordoch)
@@ -301,6 +303,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### C01 · Y' Mikhal Polak
 - Father of Pesheh (C02), Ary Leib (C04), Tsieta (C05) per their pinkas burial records `[C]` EV-05/25/26; wife/mother unknown `[?]`. The draft puts his birth "about 1838 in Minsk" `[L]` Genealogy draft, p. 5 ("Y'" = honorific or a Hebrew name — Yisrael/Yehuda — unresolved).
 - "There had been rich people named Polyak… who probably fled to Moscow, Leningrad, or even abroad" `tania-project (§3)`.
+- **Fourth child confirmed (2026-10-13): Y' Leib Polak**, d. by Feb 1895 — "rests by rabbi mh"r r' Y' LEIB, the son of Y' MIKHAI. POLAK, in row five" `Pinkas, p. 620 (entry #4379)` — same row as his brother Ary Leib (C04). Children of C01 now: Pesheh, Ary Leib, Tsieta, Y' Leib `[C]`.
 - Candidate: **Mikhel Polak b. 13 Jun 1847 Minsk** (father Dovid) `[C record / ? identification]` EV-28 — note the tension with "~1838" `[?]`; brother-candidate **Moshek Polak b. 11 Oct 1852** (X14) EV-29.
 - Many *other* Slutsk pinkas Polaks exist (Tsvi-Hirsh s. Yacov-Moshe d. 1924; Avraham s. Zev-Volf, bachelor 15, d. 1922; Rakhel-Galdeh wife of Yakov Polak d. 1920; Yosef Polak d. 1912; Yosef Meir Polak d. 1898; Nenkeh dau. of Binyamin d. 1894; Leah Miryam wife of Tsvi Melamed Polak d. 1903; Feiga wife of Polak Melamed d. 1866) `[C pinkas / ? relation]` EV-45 — relations, if any, unknown. Same for the Slutsk **Berkovits "melamed" family** (Yehuda-Leib s. Chaim-Mosheh d. 1921; wife Khaya Bat-Sheva d. 1920) — EV-45 — possibly the family of the pinkas-#1120 "Yosef Halevy Berkovits" (see CF-13).
 
@@ -318,6 +321,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - **Furs and agricultural raw-materials specialist** — assessed skins, "never lying… his word was law"; from the 1920s hired by Soviet customs as a specialist at 25 rubles/month, trade-union member `Tanya-summary, p. 4`; mushrooms drying in his apartment `Tanya-summary, p. 4`. Lived on the outskirts of **Ostrov** near Slutsk `Tanya-summary, p. 3`.
 - **Alive in 1932**: "Grandfather moved to live with her [Malka] in Vitebsk, and I saw him one more time, in 1932, when I first came with Papa (Iosif) from Birobidzhan" `tania-project (§32)` → the pinkas #1120 death (21 Jan 1918, Slutsk) attributed to him **cannot be his** — **CF-13** (that Avraham Berkovits is another man; drop the 1918 death).
 - Death: after 1932, place unknown (Vitebsk?) `[?]`.
+- Register note: an unrelated "AVRAHAM s. Yehuda **BORUKHOVITS OSTREVER**" d. 28 Dec 1904 shows Ostrov-linked Borukhoviches beyond Nakhman's family `[C / ? relation]` `Pinkas, p. 430 (entry #2989)`; on the multiplicity of Slutsk Berkovits families see CF-13 (EV-55).
 
 ### C04 · Ary Leib Polak
 - S. Y' Mikhal Polak; d. 13 Jan 1895 (17 Tevet), Slutsk — pinkas: "the rabbi… r' ARY' LEIB… the 'melamed' of 'talmud tora'"; buried one grave from Aharon (d. 14 Feb 1894), row 5, town side `[C]` EV-25.
@@ -346,6 +350,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### C08 · Faivel Kharakh (Harakh/Charach; Fayvl)
 - m. Malka; "moved into Grandfather's apartment, to stay with him once I left to study in Moscow" `tania-project (§30)`; theater companion of Tania & Malka `tania-project (§32)`.
 - **"Fayvl the Town Sexton"** (Slutsk Yizkor chapter, EV-46): born a sexton — father **Reb Aaron** (Jewish Court of Justice sexton) died young, leaving widow **Esther Frume** with four small children; Fayvl took the position at **14** to feed the family; later head sexton of the Kalter shul; knew Tanach and Ein Yankev; in the 1920s, with the synagogues requisitioned, bought a horse and wagon — hauling loads and selling kegs of water to Soviet restaurants `[C Yizkor excerpt]` Slutsk Links, pp. 3–4. (If Hinde's "Charches" husband (B06) was a Kharakh, he'd be of this family `[?]`.)
+- Register note: the only Kharakh in the full pinkas is **Tsileh dau. of Yoseh Hacohen Kharakh of Razoveh** (m. Nadelson), d. 2 Oct 1918 `[C]` `Pinkas, p. 140 (entry #998)`; the sexton dynasty itself (Reb Aaron etc.) does not appear, and the word "sexton" never occurs in the register — relation of the Razoveh Kharakhs to Faivel's family unknown `[?]` (EV-57).
 
 ### C09 · Beila Borukovich (Yonas/Jonus)
 - d. 4 Feb 1919, suddenly — pinkas: "Mrs. **BEILA** dau. of mh"r r' Avraham Barukhovits, wife of r' **Shlomo Yonus**… new row 3" `[C]` EV-33; Geni profile "Beila Jonas" linked Notes, p. 13.
@@ -355,9 +360,9 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### C10 · Kalman Osher Basin — husband of Tsieta Polak (C05) `[C]` EV-26; probable children Mendel & Sora `[?]` Genealogy draft, p. 5.
 ### C11 · Shlomo Yonas (Yonus/Jonas) — husband of Beila (C09) `[C]` EV-33; Geni profile "Beila Jonas" Notes, p. 13.
 
-### C16 · Yosef Polak
-- "Young man" Yosef s. of **Y' Leib Polak**, d. suddenly 27 Jan 1915 (12 Shvat), Slutsk; buried two graves from M' Mendil (d. 24 Jan 1915), row 2, town side `[C]` EV-44 (chronicle, pp. 2, 4).
-- His father "Y' Leib Polak" is probably Ary Leib (C04, d. 1895) — making Yosef a grandson of Y' Mikhal — but Leib may be yet another son of Mikhal `[?]`.
+### C16 · Yosef Polak — grandson of Y' Mikhal (resolved 2026-10-13)
+- "Young man" Yosef s. of **Y' Leib Polak**, d. suddenly 27 Jan 1915 (12 Shvat), Slutsk; buried two graves from M' Mendil (d. 24 Jan 1915), row 2, town side `[C]` EV-44; `Pinkas, p. 239 (entry #1676)`.
+- His father Y' Leib Polak is **another son of Y' Mikhal** (d. by Feb 1895, buried row 5 beside brother Ary Leib — `Pinkas, p. 620 (entry #4379)`), so Yosef is Y' Mikhal's grandson `[C]`.
 
 ### C12 · Mikhail "Meishke/Moise?" Borukhovich
 - S. Nakhman & Pesya; the youngest of the four who grew up `tania-project (§33)`; the draft calls him "a/k/a Moise (born about 1916)" `[?]` Genealogy draft, p. 6 — **CF-25** (a 1916 birth is impossible for a medical student marrying in 1925; b. ~1900s per the memoir's arithmetic, as Shifra's younger brother).
@@ -386,7 +391,10 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - Father of Masha & Nina; brought the girls to relatives in Slutsk after their mother died of TB in Saratov; went to Minsk for goods; bandits overtook the convoy, robbed it, **tied him to a tree and burned him** `tania-project (§3)`.
 - Killed 31 Jan 1922 in the Dalhinoveh–Laseh massacre (Pinkas 229) `[C]` EV-07; Narrative, pp. 10, 27; s. of Mendil Bunin (X02) `[C]`.
 
-### X02 · Mendil Bunin (Boonin) — father of Yitskhak `[C]` EV-07; m. Sheina Dvora (X03) `[C]` EV-08; d. ~1915 (pinkas #1684, not in corpus) `[?]` Narrative, p. 27.
+### X02 · Mendil Bunin (Boonin) — s. of Y' Leib Boonin
+- Father of Yitskhak (X01) `[C]` EV-07; m. **Sheina Dvora (Tsiptsin)** (X03) `[C]` EV-08.
+- **Full record (2026-10-13)**: "an honest and G-D fearing man mh"r r' M' MENDIL the son of mh"r r' Y' LEIB BOONIN," d. **11 Jan 1915** (25 Tevet) `[C]` `Pinkas, p. 240 (entry #1684)` — confirms the Narrative's "probably died in 1915."
+- Children: **Yitskhak** (X01, killed 1922) and **Natan** — "a dear and G-D fearing man… NATAN the son of mh"r r' M' MENDIL BOONIN," d. 22 Jun 1909 `[C]` `Pinkas, p. 340 (entry #2362)`.
 
 ### X03 · Sheina Dvora (Tsiptsin) Bunin
 - d. 15 Aug 1916, Slutsk (Pinkas 1391) `[C]` EV-08; dau. of Yitskhak Hacohen **Tsiptsin** — "perhaps another idiosyncratic spelling of Sapotnisky??" `[?]` **CF-10**.
@@ -425,4 +433,4 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### X18 · David & Lipke ("Uncle David and Aunt Lipke")
 - Worked with animal hides; Bolotnaya Street, Slutsk; daughter **Luba** left for Poland — "a beauty (she is Khanele's mother, from New York)" `tania-project (§34)`. Which side of the family — unknown `[?]`.
 
-*Leads without entries: **1877 Priluki marriage** Min'kov/Supanitskij (EV-48 — Sapotnitsky-name lead); **Gravestone 17** — Yechiel Michel s. Aryeh, d. 10 Nov 1867, Slutsk (EV-49 — unplaced); **Glatt/Epelstein/Jarovinsky/Mitelhaus cluster** (Prensa Israelita queue, EV-35 — resolved in pass 5); **Secher/Pepper obit cluster** (Notes, pp. 5–6 — CF-15); **Rebeca Rubinstein de Bornstein** obit 2014 (Notes, p. 15 `[?]`); **Zaturensky family, Nesvizh 1851 revision list** (EV-36); **Herz Bauman** Warsaw cemetery links (Notes, p. 11 — pass 5); **Alberto Moskoff obit** (Notes, p. 7); **Boruchovich genealogy site** (maloratsky-vinitsky, Notes, p. 18); **Myrna Bilak obit 2001** (EV-39 — Angela Glatt line, pass 5); pinkas **#870 Chaya-Henya Itskovits** (EV-43 — grandmother-Khaya candidate, CF-17); **Dveira Ostrovskaya** (teacher near Minsk — the sweetheart's sister, NOT family `tania-project (§31)`).*
+*Leads without entries: **Israel Itskovits "from Baborisk"** d. 19 Feb 1922, buried Slutsk row 31 `Pinkas, p. 30 (entry #219)` — a Bobruisk Itskovits (cf. Movsha Borukhovich of Bobruysk, X16; Shifra's passport birthplace) `[?]`; **1877 Priluki marriage** Min'kov/Supanitskij (EV-48 — Sapotnitsky-name lead); **Gravestone 17** — Yechiel Michel s. Aryeh, d. 10 Nov 1867, Slutsk (EV-49 — unplaced); **Glatt/Epelstein/Jarovinsky/Mitelhaus cluster** (Prensa Israelita queue, EV-35 — resolved in pass 5); **Secher/Pepper obit cluster** (Notes, pp. 5–6 — CF-15); **Rebeca Rubinstein de Bornstein** obit 2014 (Notes, p. 15 `[?]`); **Zaturensky family, Nesvizh 1851 revision list** (EV-36); **Herz Bauman** Warsaw cemetery links (Notes, p. 11 — pass 5); **Alberto Moskoff obit** (Notes, p. 7); **Boruchovich genealogy site** (maloratsky-vinitsky, Notes, p. 18); **Myrna Bilak obit 2001** (EV-39 — Angela Glatt line, pass 5); pinkas **#870 Chaya-Henya Itskovits** (EV-43 — grandmother-Khaya candidate, CF-17); **Dveira Ostrovskaya** (teacher near Minsk — the sweetheart's sister, NOT family `tania-project (§31)`).*

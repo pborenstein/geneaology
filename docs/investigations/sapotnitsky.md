@@ -92,4 +92,15 @@ My read of the balance: **H1 and H2 together, as one picture** — a natal famil
 
 ---
 
+## Update — 2026-10-13, after the full Pinkas of Slutsk arrived (EV-50)
+
+The complete Slutsk Chevra Kadisha register (16,266 entries, 1736–1924) sharpens every hypothesis:
+
+- **Sapotnitsky: zero burials in Slutsk, ever** (EV-58). Inventory #4's database hits notwithstanding, the name has *no burial presence* in Slutsk itself — consistent with a natal family that lived and buried outside Slutsk (H1's Nesvizh reading) and weakening "a Slutsk-area Sapotnitsky family" (H2) as anything we can touch locally.
+- **Zaturensky: four Slutsk burials** (EV-56) — a real local family (fathers Avraham and Reuven-Meir; a Yitskhak; one "from Resk"), *no Zelik*. H1's phonetic gap is unchanged, but the name's Slutsk reality is now documented.
+- **Tsiptsin: a mapped clan, not a spelling** (EV-54) — ten entries, all Hacohen, including the burial society's own beadle. CF-10 restructures: the Bunin cousin-couple is fixed (Y' Leib Boonin → Mendil, m. Sheina Dvora Tsiptsin; sons Natan d. 1909 and Yitskhak killed 1922 — EV-52), so the "cousins of Chaya" link must run through **either** the Boonin **or** the Tsiptsin side. If Tsiptsin, Chaya née Tsiptsin and "Sapotnitsky" needs a new explanation entirely (H6 gains); if Boonin, same need.
+- **Chaya herself: not in the register** (CF-17 resolved-leaning negative, EV-58) — she likely died and was buried near **Nesvizh**. This relocates the whole search: Nesvizh-area revision lists, community records, and burial registers are now the primary target (research step 9 below).
+
+**9. Nesvizh-area records for Chaya herself** — her death/burial is not in Slutsk; pull Nesvizh-region sources (JewishGen Nesvizh pages, NHAB Minsk fond 333 revision lists, any Nesvizh burial register) for a Khaya/Chaya of the right years, wife of Leibe/Leib Mostkov, father Zelik (H1) or a Tsiptsin (CF-10).
+
 *Status: **open**. This document is analysis, not new records — no new people/EV entries were created from it. Updates belong here; record-level finds go to `data/evidence-log.md` with a pointer back.*
