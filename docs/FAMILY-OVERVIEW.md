@@ -4,7 +4,7 @@
 
 ## The shape of the family
 
-Three ancestral lines converge in Mexico City, where **Joseph Borenstein (b. 1936) married Ana Mostkoff Linares** — their children are Philip and Edna/Jaye. Lines: Borenstein (Kurow, Poland), Mostkoff (Ostrov/Slutsk, Belarus), and — through Ana's grandmother Shifra Boruchovich — Polak/Borukovich (Minsk/Slutsk).
+Three ancestral lines converge in Mexico City, where **Joseph Borenstein (b. 1936) married Ana Mostkoff Linares** — their children are Philip, Edna/Jaye, and Shifra. Lines: Borenstein (Kurow, Poland), Mostkoff (Ostrov/Slutsk, Belarus), and — through Ana's grandmother Shifra Boruchovich — Polak/Borukovich (Minsk/Slutsk).
 
 ```
 Kurow, Poland                          Slutsk/Ostrov, Belarus
@@ -24,7 +24,7 @@ Szol Kelman BORENSZTEJN                Aryeh Leib "Leibe" MOSTKOFF
         | (dau. of Luis & Chelo              Miguel 1917,       Shifra m. Israel
         |  Linares Lopez)                    Dora Aug 1921     (+ Malka, Mikhail,
         v                                                       8 more siblings)
-  Philip, Edna/Jaye                                        Ana → m. Joseph Borenstein
+  Philip, Edna/Jaye, Shifra                                Ana → m. Joseph Borenstein
 ```
 
 ## What changed in Phase 2 (corrections to earlier drafts)

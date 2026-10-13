@@ -43,6 +43,7 @@ graph TD
     B17 --- MA1817
     MA1817 --> PHILIP["Philip (Felipe) Borenstein"]
     MA1817 --> EDNA["Edna / Jaye Borenstein"]
+    MA1817 --> SHIFRA["Shifra Borenstein"]
 
     style B02 stroke-dasharray:5 4
     style C01 stroke-dasharray:5 4
@@ -176,6 +177,7 @@ graph TD
     B17 --- MA1817
     MA1817 --> PHILIP["Philip (Felipe)"]
     MA1817 --> EDNA["Edna / Jaye"]
+    MA1817 --> SHIFRA["Shifra"]
 
     B13 --- MB13B(("m. Berta 'Busi' Tolmatsky"))
     MB13B --> ALBERTO["Alberto<br/>d. at 13"]

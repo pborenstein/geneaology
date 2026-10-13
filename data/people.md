@@ -40,7 +40,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | A15 | Chana Mindel Bauman (Borenstein) | b. ~1903 [L] | M. Fishel (A05); sister Sura Ita; children 1926–42 |
 | A16 | Enrique Borenstein | b. 1926 Mexico City [C] | S. Fishel & Chana (Henry/Herszel/Hersh/Tvi) |
 | A17 | Sidney Borenstein | b. 1927 Mexico City [C] | S. Fishel & Chana; m. Rebecca Finkler [L] |
-| A18 | Joseph "Jose" Borenstein | b. 1936 Mexico City [C] | S. Fishel & Chana; m. Ana Mostkoff Linares (B17) → Philip, Edna/Jaye |
+| A18 | Joseph "Jose" Borenstein | b. 1936 Mexico City [C] | S. Fishel & Chana; m. Ana Mostkoff Linares (B17) → Philip, Edna/Jaye, Shifra |
 | B01 | Aryeh Leib "Leibe/Lev" Mostkoff | b. ~1855–60 [L] · d. young [C memoir] | Patriarch; poor; house by the bridge (surname legend) |
 | B02 | Chaya (Sapotnitsky?) Mostkoff | b. ~1855–60 [L] · d. Slutsk, date unknown [?] | Matriarch; village near Nesvizh; lived with Israel's family |
 | B03 | Morduckh "Motl/Motel/Max" Mostkov | b. ~1877 [L] | Eldest known son; m. Dvora Portnoy 1906 Lida [C]; Lida children 1907–13 [C] |
@@ -57,7 +57,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | B14 | Dvoira "Dveyra/Dora/Doris" Mostkoff (Glassman, Padawer) | b. Aug 1921 [C memoir] | Dau. Israel & Shifra; to St. Louis; m. David Glassman, later Lawrence Padawer |
 | B15 | Maria Consuelo "Chelo" Linares Lopez | b. 7 Aug 1917 Mexico [C] | M. Luis Mostkoff 1939; six children |
 | B16 | Lucy Mostkoff Linares | b. 10 Mar 1939 [C] | Eldest dau. Luis & Chelo; "Lucy Secher" of Memphis? CF-15 [?] |
-| B17 | Ana "Shifra?" Mostkoff Linares | b. 29 Dec 1940 [C] | M. Joseph Borenstein → Philip, Edna/Jaye |
+| B17 | Ana "Shifra?" Mostkoff Linares | b. 29 Dec 1940 [C] | M. Joseph Borenstein → Philip, Edna/Jaye, Shifra |
 | B18 | Moises Mostkoff | b. 13 Jan 1942 [C] | S. Luis & Chelo |
 | B19 | Pola "Pesya?" Mostkoff | b. 13 Apr 1946 [C] | Dau. Luis & Chelo; may hold family information (Philip) |
 | B20 | Isodoro "Lazaro?" Mostkoff | b. 26 Mar 1950 [C] | S. Luis & Chelo |
@@ -162,7 +162,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ### A16 · Enrique Borenstein — b. 1926, Mexico City `[C]` timeline, p. 1 (Henry/Herszel/Hersh/Tvi).
 ### A17 · Sidney Borenstein — b. 1927, Mexico City `[C]` timeline, p. 1; m. **Rebecca Finkler** `[L — obit/news link]` EV-35; almost certainly the "**Sydney Borenstein Bauman**" who was medical certifier on Shifra's 1962 death certificate `[C]` EV-14 (signed with both family surnames).
-### A18 · Joseph "Jose" Borenstein — b. 1936, Mexico City `[C]` timeline, p. 2; m. **Ana Mostkoff Linares** (B17; marriage announcement queued EV-35); children **Philip (Felipe; indexed Felipe Mostkoff / Felipe Mostkoff Borenstein / Felipe M. Borenstein)** and **Edna (indexed Edna or Jaye, switched between indexes)** — Genealogy draft, p. 2. Philip's bris announcement queued (EV-35).
+### A18 · Joseph "Jose" Borenstein — b. 1936, Mexico City `[C]` timeline, p. 2; m. **Ana Mostkoff Linares** (B17; marriage announcement queued EV-35); children **Philip (Felipe; indexed Felipe Mostkoff / Felipe Mostkoff Borenstein / Felipe M. Borenstein)**, **Edna (Jaye; indexed Edna or Jaye, switched between indexes)**, and **Shifra** — Philip & Edna per Genealogy draft, p. 2; Shifra per Philip `[C — 2026-10-13]` (living; names only). Philip's bris announcement queued (EV-35).
 
 ## Line B — Mostkoff (Ostrov/Slutsk, Belarus → Mexico City)
 
@@ -263,7 +263,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ### B16–B21 · Children of Luis & Chelo `[C family data]` Narrative, pp. 20–21
 - **B16 Lucy** b. 10 Mar 1939 — born ~9 months *before* the civil marriage license (23 Dec 1939): religious marriage earlier? `[?]` (CF-06). Possible "Lucy Secher" of the Memphis obits `[?]` **CF-15**; Notes, pp. 5–6.
-- **B17 Ana** (memoir: "Shifra"?) b. 29 Dec 1940 — m. **Joseph Borenstein**; children Philip, Edna/Jaye. Marriage announcement queued EV-35.
+- **B17 Ana** (memoir: "Shifra"?) b. 29 Dec 1940 — m. **Joseph Borenstein**; children **Philip (Felipe)**, **Edna/Jaye**, and **Shifra Borenstein** `[C — Philip, 2026-10-13]` (living; names only). Marriage announcement queued EV-35. NB: a daughter Shifra in this generation may explain the memoir's "Shifra" in Luis's children list (CF-23 annotation).
 - **B18 Moises** b. 13 Jan 1942.
 - **B19 Pola** (memoir: "Pesya"?) b. 13 Apr 1946 — wedding announcement queued (EV-35); "connect with your sister Pola" (Philip, `[C]` Notes, p. 12).
 - **B20 Isodoro** (memoir: "Lazaro"?) b. 26 Mar 1950.

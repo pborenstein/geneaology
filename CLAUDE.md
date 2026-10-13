@@ -27,6 +27,6 @@ Genealogy research project (not a code project): assembling the Borenstein/Mostk
 
 ## Project facts worth knowing
 
-- Three lines converge in Mexico City: Borenstein (Kurow, Poland), Mostkoff (Slutsk, Belarus), Polak/Borukovich (Minsk/Slutsk). Philip and Edna/Jaye are children of Joseph Borenstein and Ana Mostkoff Linares.
+- Three lines converge in Mexico City: Borenstein (Kurow, Poland), Mostkoff (Slutsk, Belarus), Polak/Borukovich (Minsk/Slutsk). Philip, Edna/Jaye, and Shifra are children of Joseph Borenstein and Ana Mostkoff Linares.
 - The master source is `base-documents/Mostkoff Family Narrative.pdf` (71 pp); the other 8 PDFs are satellite notes. Survey: docs/SOURCE-SURVEY.md; current picture + mysteries: docs/FAMILY-OVERVIEW.md.
 - Next phase (2): master extraction into `data/` — format decision pending (DEC-004, leaning markdown people index, GEDCOM at Phase 3).

@@ -55,3 +55,13 @@
 **How**: Derived by hand from data/people.md with confidence encoding (dashed nodes/edges = open [?]; marriage hubs `(("m. year"))`). All 5 diagrams validated parse+render against Mermaid 10 (CDN test page in-browser; npm registry blocked). X-line candidates deliberately omitted (documented in the file).
 
 **Files**: data/family-tree.md · README · CONTEXT.
+
+## Entry 9 — Shifra Borenstein added (2026-10-13)
+
+**What**: Third child of Joseph Borenstein (A18) & Ana Mostkoff Linares (B17) — **Shifra** — added wherever the children were listed: people.md (A18, B17, index), family-tree diagrams 1 & 4, FAMILY-OVERVIEW, CLAUDE.md facts. Living person: name only, no dates.
+
+**Why**: Family correction — the first direct family-input fact since the corpus was assembled. Source: Philip (session, 2026-10-13) [C].
+
+**Note**: A daughter Shifra in this generation may explain the memoir's "Shifra" among Luis's children (CF-23 annotated — the memoir's letter-source may have mixed generations).
+
+**Files**: data/{people,family-tree,conflicts}.md · docs/FAMILY-OVERVIEW.md · CLAUDE.md.
