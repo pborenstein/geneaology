@@ -42,9 +42,10 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 |---|---|
 | **Phase** | 2 (master extraction) **complete** → Phase 3 (tree assembly) next |
 | **People index** | 77 people — A01–A18 · B01–B26 · C01–C16 · X01–X18 |
-| **Evidence / conflicts** | EV-01…49 · CF-01…29 (27 entries, CF-18/19 unused; 6 resolved/leaning) |
+| **Evidence / conflicts** | EV-01…49 · CF-01…29 (27 entries, CF-18/19 unused; 7 resolved/leaning/partial) |
 | **Corpus** | 9 PDFs, 87 pp (Narrative trimmed 71→37 pp, DEC-008) + full memoir at tania-project.com |
 | **Queued research** | ~30 UFDC Prensa Israelita links (EV-35) — Phase 4 priority 1 |
+| **Family input** | Open stream (2026-10-13): Philip — more welcome; ask Pola |
 
 ## Conventions (quick reference)
 

@@ -1,15 +1,15 @@
 ---
 phase: 2 (complete); Phase 3 next
-updated: 2026-10-10
-last_commit: 107a2b9
-last_entry: chronicles/phase-2-extraction.md #7
+updated: 2026-10-13
+last_commit: 47cdb35
+last_entry: chronicles/phase-2-extraction.md #10
 ---
 
 # Context — Borenstein/Mostkoff Genealogy
 
 **Project**: Well-sourced genealogy of the Borenstein/Mostkoff family from Wendy's research. Sources: 9 PDFs in `base-documents/` (121 pp, fully extracted) + tania-project.com memoir. Repo: github.com/pborenstein/geneaology.
 
-**Current focus**: Phase 2 complete and stable (77 people / EV-01–49 / CF-01–29 in `data/`). Post-Phase-2: README is now the repo's navigation portal (keep fresh per CLAUDE.md step 4), and the first themed investigation — **the Sapotnitsky name** — is open at docs/investigations/sapotnitsky.md with an 8-step research program. Phase 3 (tree assembly) or Phase 4 research next.
+**Current focus**: Phase 2 complete and stable (77 people / EV-01–49 / CF-01–29 in `data/`). A **family-input stream has opened** (2026-10-13, Philip): Shifra Borenstein added as third child of Joseph & Ana; Isidoro spelling; Hebrew-names-in-Prensa frame → CF-23 partially resolved. Family facts are recorded like any source (`[C — Philip, date]`). Phase 3 or Phase 4 next.
 
 **Active tasks** (Phase 3, see IMPLEMENTATION.md):
 - [ ] Decide GEDCOM tooling (Gramps?) → load reconciled people from `data/people.md`
@@ -24,6 +24,6 @@ last_entry: chronicles/phase-2-extraction.md #7
 - Big corrections this phase: Israel b. 1880; Nakhman alive ≥1932 (pinkas 1918 death re-attributed); Lyubka/Etl = Israel's sisters; Pesya-not-Chaya kidney-death memory; Rachmeil=Mendel=Manuel Glatt.
 - 62 people ≈ every family-connected person in the corpus; background-only names live as lead notes in people.md's tail + EV-35.
 
-**Next session**: Read this + `data/people.md` header; candidates: Phase 3 (GEDCOM tooling decision), the EV-35 UFDC mining pass, or the Sapotnitsky research program (docs/investigations/sapotnitsky.md §8 — archive pulls + JewishGen searches). Ask Philip which. Wrap-up runs the session-wrapup skill (chronicle next entry = 8).
+**Next session**: Read this + `data/people.md` header; candidates: Phase 3 (GEDCOM tooling decision), the EV-35 UFDC mining pass, or the Sapotnitsky research program (docs/investigations/sapotnitsky.md §8 — archive pulls + JewishGen searches). Ask Philip which. Wrap-up runs the session-wrapup skill (chronicle next entry = 11). Family-input facts to chase: Pola's information; more names/dates from Philip's recollection.
 
 **Map**: data/family-tree.md (Mermaid family tree — new) · docs/investigations/sapotnitsky.md (name investigation) · docs/FAMILY-OVERVIEW.md (sourced synthesis) · docs/SOURCE-SURVEY.md · docs/ROADMAP.md · docs/RESOURCES.md · docs/DECISIONS.md (DEC-004 decided) · docs/IMPLEMENTATION.md · docs/chronicles/.
