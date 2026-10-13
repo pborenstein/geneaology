@@ -1,18 +1,20 @@
 # How Do You Rebuild a Family That History Tried to Erase?
 
-*Posted 13 October 2026 · an introduction to the Borenstein–Mostkoff family history project — what it is, how it works, and the story so far at 10,000 feet*
+*Posted 13 October 2026 · an introduction to the Borenstein–Mostkoff family history project — what it is, how it works, and the story so far at 10,000 feet.*
+
+*— Philip Borenstein (tech) & Wendy Cadieux (research)*
 
 ---
 
-Every family has a shoebox of photographs nobody can name anymore. Ours had something better and more frustrating: hundreds of pages of research, documents, links, memoir excerpts, and half-remembered stories — gathered with real love, but scattered across PDFs and notes and two languages and three countries.
+I'm Philip Borenstein — son of Ana Mostkoff and Joseph Borenstein, both of Mexico City. Every family has a shoebox of photographs nobody can name anymore. Ours had something better and more frustrating: hundreds of pages of research, documents, links, memoir excerpts, and half-remembered stories — gathered with real love, but scattered across PDFs and notes and two languages and three countries.
 
-This post is the guided tour. What the project is, how it's put together, and — because it's actually a ripping story — the history itself, from the shtetls of Eastern Europe to Mexico City, Memphis, and St. Louis.
+This project is the two of us: **Wendy Cadieux does the research** — the databases, the archives, the detective work; **I do the tech** — organizing it all into a structured archive you can actually search and trust. This post is the guided tour. What the project is, how it's put together, and — because it's actually a ripping story — the history itself, from the shtetls of Eastern Europe to Mexico City, Memphis, and St. Louis.
 
 ## What this project is
 
 The short version: we are building a **sourced, honest family history** of the Borensteins and the Mostkoffs — and everyone they married.
 
-It began in 2020, in the early pandemic, when Wendy  (Philip's partner) ran out of dead ends in her own family tree and turned to the mystery of his. Philip had done a rough genealogy years before; those scribbles became the seed crystal. Since then it has grown into a structured archive: every person we know of, every fact about them, and — this is the part that makes it different from most family trees — **a source and a confidence mark on every single claim**.
+It began in 2020, in the early pandemic, when Wendy ran out of dead ends in her own family tree and turned to the mystery of mine. I had done a rough genealogy many years before; those scribbles became the seed crystal. Since then it has grown into a structured archive: every person we know of, every fact about them, and — this is the part that makes it different from most family trees — **a source and a confidence mark on every single claim**.
 
 Three marks, on everything:
 
@@ -20,13 +22,13 @@ Three marks, on everything:
 - **[L]** — likely. Someone credible said so, or the pieces fit, but no document has stepped forward yet.
 - **[?]** — an open question. We keep these *visible on purpose*. Most family trees quietly smooth over their guesses until the guesses harden into "facts." We do the opposite: we keep a whole logbook of open questions and family disagreements, on the theory that a mystery you can see is a mystery you can solve.
 
-Right now the archive holds 77 relatives, some known as thoroughly as their era allows, and some known only by a single line in a burial book. It lives in a private repository that Wendy and Philip can share with any cousin who's curious.
+Right now the archive holds 77 relatives, some known as thoroughly as their era allows, and some known only by a single line in a burial book. It lives in a private repository that Wendy and I can share with any cousin who's curious.
 
 ## The 10,000-foot view: three families, one convergence
 
 Here's the whole story in one breath, then we'll slow down:
 
-> Poor Jewish families in Poland and Belarus at the end of the 1800s sent their children out into the world — some to peddle furs in Mississippi, some to Moscow's universities, some to Mexico City, which was taking Jewish immigrants when America's doors were closing. Two of those families — the **Borensteins** from Kurow in Poland and the **Mostkoffs** from the Slutsk region of Belarus — converged in Mexico City, where **Joseph Borenstein married Ana Mostkoff**. Their children are Philip, Edna Jaye, and Shifra. That's us. Everything this project does is the story of how those two families, and the families they married into, got to that wedding.
+> Poor Jewish families in Poland and Belarus at the end of the 1800s sent their children out into the world — some to peddle furs in Mississippi, some to Moscow's universities, some to Mexico City, which was taking Jewish immigrants when America's doors were closing. Two of those families — the **Borensteins** from Kurow in Poland and the **Mostkoffs** from the Slutsk region of Belarus — converged in Mexico City, where **Joseph Borenstein married Ana Mostkoff**. Their children are me, my sister Edna Jaye, and my sister Shifra. Everything this project does is the story of how those two families, and the families they married into, got to that wedding.
 
 ### The names will try to confuse you (a warning)
 
@@ -72,13 +74,13 @@ They had three children: **Philip, Edna Jaye, and Shifra** — the last named fo
 
 A word on method, because it's the project's real innovation. Every fact gets traced to its source — Wendy's documents and master narrative, Tania's memoir, Polish and Belarusian and Mexican records, newspaper clippings, obituaries, ship manifests, and now a 2,178-page burial register. Family memory counts too, and gets recorded the same way. When sources disagree (they do: Israel's birth year appears as 1878 and 1880; his death year as 1956 and 1957), both versions are kept and the disagreement is logged, not hidden.
 
-The work of organizing it is AI-assisted — a research agent that reads the documents, extracts people and facts with their citations, and flags the contradictions — but the substance is human: Wendy's decade of research, Tania's memoir, and the memories of the family. The machines just keep the index.
+On my side of the desk, the organizing is AI-assisted — a research agent reads the documents, extracts people and facts with their citations, and flags the contradictions — but the substance is human: Wendy's years of research, Tania's memoir, and the memories of the family. The machine just keeps the index.
 
 ## What we'd love from you
 
 If you've read this far and you're a cousin — welcome. Here's the secret of family history: **the archive is never finished, and the missing pieces are usually in someone's head or someone's attic.** Photographs we've never seen. A grandmother's maiden name. Why someone moved, who they wrote letters to, where somebody's grave is.
 
-If your branch is Pola's or Isidoro's or Lucy's, if you're an Iskiwitz from Memphis or a Padawer from St. Louis or a Glatt from anywhere — you know something we don't. Get in touch with Philip or Wendy. Even a name and a date, "even if it's not 100% correct," as one of our sources put it, has led to great things.
+If your branch is Pola's or Isidoro's or Lucy's, if you're an Iskiwitz from Memphis or a Padawer from St. Louis or a Glatt from anywhere — you know something we don't. Get in touch with me or with Wendy. Even a name and a date, "even if it's not 100% correct," as one of our sources put it, has led to great things.
 
 ---
 
