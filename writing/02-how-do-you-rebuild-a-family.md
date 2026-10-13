@@ -12,7 +12,7 @@ This post is the guided tour. What the project is, how it's put together, and �
 
 The short version: we are building a **sourced, honest family history** of the Borensteins and the Mostkoffs — and everyone they married.
 
-It began in 2020, in the early pandemic, when Wendy (my dad Philip's partner) ran out of dead ends in her own family tree and turned to the mystery of his. Philip had done a rough genealogy years before; those scribbles became the seed crystal. Since then it has grown into a structured archive: every person we know of, every fact about them, and — this is the part that makes it different from most family trees — **a source and a confidence mark on every single claim**.
+It began in 2020, in the early pandemic, when Wendy  (Philip's partner) ran out of dead ends in her own family tree and turned to the mystery of his. Philip had done a rough genealogy years before; those scribbles became the seed crystal. Since then it has grown into a structured archive: every person we know of, every fact about them, and — this is the part that makes it different from most family trees — **a source and a confidence mark on every single claim**.
 
 Three marks, on everything:
 
