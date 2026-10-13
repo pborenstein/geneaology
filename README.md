@@ -23,7 +23,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 | See the plan / phases | [docs/ROADMAP.md](docs/ROADMAP.md) |
 | Find out *why* something is the way it is | [docs/DECISIONS.md](docs/DECISIONS.md) — DEC-001… · [docs/chronicles/](docs/chronicles/) — session-by-session history |
 | Dig into a research theme (e.g. the Sapotnitsky name) | [docs/investigations/](docs/investigations/) — deep dives: corpus inventory + hypotheses + research programs |
-| **Read the family-facing posts** | [writing/](writing/) — blog-style, for cousins: 01 project orientation · 02 what the Pinkas revealed. **Written by Z.ai GLM-5.3** (AI-drafted; DEC-009) |
+| **Read the family-facing posts** | [writing/](writing/) — blog-style, for cousins, **in English & Spanish (MX)**: 01 project orientation · 02 what the Pinkas revealed. **Written by Z.ai GLM-5.3** (AI-drafted; DEC-009) |
 
 ## Repository map
 

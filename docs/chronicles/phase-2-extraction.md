@@ -95,3 +95,11 @@
 **Why**: Philip: "If my name is on it, I wrote it." AI-drafted prose must carry the AI's name; LLM use may be openly celebrated. Recorded as **DEC-009**.
 
 **Files**: writing/{01,02}*.md · README · CONTEXT · DECISIONS.md.
+
+## Entry 14 — Writing series goes bilingual (2026-10-13)
+
+**What**: Mexican-Spanish versions of both posts: `01-como-se-reconstruye-una-familia.es.md` · `02-el-libro-que-recuerda-a-todos.es.md`, cross-linked with the English originals (`.es.md` suffix pairs files). Bylines per DEC-009 (Z.ai GLM-5.3). Rationale: half the family's leaves — Pola's, Isidoro's, Lucy's, Aida's, Moisés' branches — live in Spanish; prose reports will run bilingually going forward.
+
+**How**: Written as native Mexican Spanish (idioms: "a sus órdenes", "pan de cada día", "a vuelo de pájaro"), not calques; family names and all facts identical to the sourced English versions; one stray-CJK corruption caught and fixed before commit.
+
+**Files**: writing/ (4 files) · README.

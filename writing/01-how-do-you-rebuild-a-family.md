@@ -2,7 +2,7 @@
 
 *Posted 13 October 2026 · first in a series: an introduction to the Borenstein–Mostkoff family history project — what it is, how it works, and the story so far at 10,000 feet.*
 
-*Written by Z.ai GLM-5.3, the project's AI research agent — from the research of Wendy Cadieux and the records and memories of the Borenstein–Mostkoff family.*
+*Written by Z.ai GLM-5.3, the project's AI research agent — from the research of Wendy Cadieux and the records and memories of the Borenstein–Mostkoff family. · [Versión en español](01-como-se-reconstruye-una-familia.es.md)*
 
 ---
 

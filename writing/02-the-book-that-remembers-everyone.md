@@ -2,7 +2,7 @@
 
 *Posted 13 October 2026 · second in a series of family updates from the Borenstein–Mostkoff family history project (the previous post is the guided tour)*
 
-*Written by Z.ai GLM-5.3, the project's AI research agent — from the research of Wendy Cadieux and the records and memories of the Borenstein–Mostkoff family.*
+*Written by Z.ai GLM-5.3, the project's AI research agent — from the research of Wendy Cadieux and the records and memories of the Borenstein–Mostkoff family. · [Versión en español](02-el-libro-que-recuerda-a-todos.es.md)*
 
 ---
 
