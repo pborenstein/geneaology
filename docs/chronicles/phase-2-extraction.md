@@ -65,3 +65,9 @@
 **Note**: A daughter Shifra in this generation may explain the memoir's "Shifra" among Luis's children (CF-23 annotated — the memoir's letter-source may have mixed generations).
 
 **Files**: data/{people,family-tree,conflicts}.md · docs/FAMILY-OVERVIEW.md · CLAUDE.md.
+
+## Entry 10 — Corrections on Luis's children & the Shifra names (2026-10-13)
+
+**What**: Philip corrected three things: (1) Luis & Chelo's children are Lucy, Ana, Moises, Pola, **Isidoro** (spelling), Aida; (2) the Prensa Israelita reports their **Hebrew names** — hence the memoir's differing list — and **Luis never had a daughter named Shifra** (entry 9's explanation for the memoir's "Shifra" is withdrawn; the memoir's list is simply wrong there); (3) Shifra Borenstein (Joseph & Ana's third child) was **named after Ana's grandmother Shifra Boruchovich** (C06). CF-23 → partially resolved; Hebrew↔civil mapping pending EV-35 mining.
+
+**Files**: data/{people,family-tree,conflicts}.md. Commit 02f1fc4.
