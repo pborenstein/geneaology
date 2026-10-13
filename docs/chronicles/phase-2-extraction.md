@@ -87,3 +87,11 @@
 **Care taken**: two invented dates removed before commit (Joseph–Ana wedding year, Shifra Borenstein's implied birth) — the archive doesn't hold them; posts only claim what's sourced.
 
 **Files**: writing/{01,02}*.md · README · CONTEXT.
+
+## Entry 13 — Attribution & ordering corrected in writing/ (2026-10-13)
+
+**What**: Posts reordered (01 = orientation, 02 = the Pinkas) and reattributed: bylines now "Written by Z.ai GLM-5.3, the project's AI research agent"; the first-person "I'm Philip" framing removed (AI narrates as itself, third person for family). Project credit unchanged: Wendy Cadieux (research) & Philip Borenstein (tech).
+
+**Why**: Philip: "If my name is on it, I wrote it." AI-drafted prose must carry the AI's name; LLM use may be openly celebrated. Recorded as **DEC-009**.
+
+**Files**: writing/{01,02}*.md · README · CONTEXT · DECISIONS.md.
