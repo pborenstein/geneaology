@@ -1,8 +1,8 @@
 ---
 phase: 2 (complete); Phase 3 next
 updated: 2026-10-13
-last_commit: 970756a
-last_entry: chronicles/phase-2-extraction.md #12
+last_commit: 5198104
+last_entry: chronicles/phase-2-extraction.md #13
 ---
 
 # Context — Borenstein/Mostkoff Genealogy
@@ -24,6 +24,6 @@ last_entry: chronicles/phase-2-extraction.md #12
 - Big corrections this phase: Israel b. 1880; Nakhman alive ≥1932 (pinkas 1918 death re-attributed); Lyubka/Etl = Israel's sisters; Pesya-not-Chaya kidney-death memory; Rachmeil=Mendel=Manuel Glatt.
 - 62 people ≈ every family-connected person in the corpus; background-only names live as lead notes in people.md's tail + EV-35.
 
-**Next session**: Read this + `data/people.md` header; candidates: Phase 3 (GEDCOM tooling decision), EV-35 UFDC mining, the Sapotnitsky program §8–9 (now incl. Nesvizh records for Chaya), or more `writing/` posts (Sapotnitsky-name post is teed up). Ask Philip which. Chase: Pola's information; family memory via the posts. Wrap-up runs the session-wrapup skill (chronicle next entry = 13).
+**Next session**: Read this + `data/people.md` header; candidates: Phase 3 (GEDCOM tooling decision), EV-35 UFDC mining, the Sapotnitsky program §8–9 (now incl. Nesvizh records for Chaya), or more `writing/` posts (Sapotnitsky-name post is teed up). Ask Philip which. Chase: Pola's information; family memory via the posts. Wrap-up runs the session-wrapup skill (chronicle next entry = 14).
 
 **Map**: writing/ (family-facing posts — new) · data/pinkas-hits.md (Pinkas extraction) · data/family-tree.md (Mermaid family tree) · docs/investigations/sapotnitsky.md (name investigation, updated 2026-10-13) · docs/FAMILY-OVERVIEW.md (sourced synthesis) · docs/SOURCE-SURVEY.md · docs/ROADMAP.md · docs/RESOURCES.md · docs/DECISIONS.md (DEC-004 decided) · docs/IMPLEMENTATION.md · docs/chronicles/.
