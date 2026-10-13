@@ -47,6 +47,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 | **Corpus** | 10 PDFs, 2,265 pp — incl. the **full Slutsk Pinkas** (2026-10-13; extraction `data/pinkas-hits.md`) + memoir at tania-project.com |
 | **Queued research** | ~30 UFDC Prensa Israelita links (EV-35) — Phase 4 priority 1 |
 | **Family input** | Open stream (2026-10-13): Philip — more welcome; ask Pola |
+| **Writing** | 2 family posts live in `writing/` (the Pinkas · project intro) — voice: Philip's |
 
 ## Conventions (quick reference)
 
