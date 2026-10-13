@@ -1,6 +1,6 @@
 # CLAUDE.md — agent instructions
 
-Genealogy research project (not a code project): assembling the Borenstein/Mostkoff family history from Wendy's PDF research notes. See README.md for layout and docs/ROADMAP.md for the plan.
+Genealogy research project (not a code project): assembling the Borenstein/Mostkoff family history from Wendy Cadieux's research (project: Wendy Cadieux — research; Philip Borenstein — tech). See README.md for layout and docs/ROADMAP.md for the plan.
 
 ## Session pickup
 

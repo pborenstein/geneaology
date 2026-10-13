@@ -7,7 +7,7 @@ last_entry: chronicles/phase-2-extraction.md #10
 
 # Context — Borenstein/Mostkoff Genealogy
 
-**Project**: Well-sourced genealogy of the Borenstein/Mostkoff family from Wendy's research. Sources: 9 PDFs in `base-documents/` (121 pp, fully extracted) + tania-project.com memoir. Repo: github.com/pborenstein/geneaology.
+**Project**: Well-sourced genealogy of the Borenstein/Mostkoff family — Wendy Cadieux (research) & Philip Borenstein (tech). Sources: 9 PDFs in `base-documents/` (121 pp, fully extracted) + tania-project.com memoir. Repo: github.com/pborenstein/geneaology.
 
 **Current focus**: Phase 2 stable + **Pinkas pass done (2026-10-13)**: the full Slutsk register (EV-50; extraction `data/pinkas-hits.md`) fixed the Bunin clan (X02: d. 11 Jan 1915, son Natan), found a 4th Polak child (Y' Leib), resolved CF-13 at full scale, and gave CF-17 a strong negative (Chaya is NOT in Slutsk — search Nesvizh). Corpus now 10 PDFs / 2,265 pp (77 people / EV-01–58 / CF-01–29 in `data/`). A **family-input stream has opened** (2026-10-13, Philip): Shifra Borenstein added as third child of Joseph & Ana; Isidoro spelling; Hebrew-names-in-Prensa frame → CF-23 partially resolved. Family facts are recorded like any source (`[C — Philip, date]`). Phase 3 or Phase 4 next.
 

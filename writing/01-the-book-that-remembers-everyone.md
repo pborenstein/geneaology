@@ -2,6 +2,8 @@
 
 *Posted 13 October 2026 · first in a series of family updates from the Borenstein–Mostkoff family history project*
 
+*— Philip Borenstein (tech) & Wendy Cadieux (research)*
+
 ---
 
 Imagine a book, kept for 188 years, in which the town of Slutsk wrote down the name of every single person it buried — with their father's name, often their age, the row where they were laid to rest, and, most remarkably of all, **who they were buried next to**.

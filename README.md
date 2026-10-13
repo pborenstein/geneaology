@@ -1,6 +1,6 @@
 # Borenstein/Mostkoff Family Genealogy — Entry Portal
 
-Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, from the research of Wendy (partner of Philip Borenstein), begun 2020. Three lines converge in Mexico City, where Joseph Borenstein (b. 1936) married Ana Mostkoff Linares:
+Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** — **Wendy Cadieux (research)** & **Philip Borenstein (tech)**, begun 2020. Three lines converge in Mexico City, where Joseph Borenstein (b. 1936) married Ana Mostkoff Linares:
 
 - **Line A — Borenstein** (Kurow, Lublin gubernia, Poland → Warsaw → Mexico City)
 - **Line B — Mostkoff** (Ostrov/Slutsk region, Belarus → Mississippi interlude → Mexico City)
