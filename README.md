@@ -23,6 +23,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family**, 
 | See the plan / phases | [docs/ROADMAP.md](docs/ROADMAP.md) |
 | Find out *why* something is the way it is | [docs/DECISIONS.md](docs/DECISIONS.md) — DEC-001… · [docs/chronicles/](docs/chronicles/) — session-by-session history |
 | Dig into a research theme (e.g. the Sapotnitsky name) | [docs/investigations/](docs/investigations/) — deep dives: corpus inventory + hypotheses + research programs |
+| **Read the family-facing posts** | [writing/](writing/) — blog-style, for cousins: what the Pinkas revealed · intro to the whole project |
 
 ## Repository map
 

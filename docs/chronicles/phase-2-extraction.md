@@ -79,3 +79,11 @@
 **Findings**: (1) **CF-17 resolved-leaning negative** — grandmother Chaya is *not in the register* (58 Khaya/Chaya deaths 1914–24 enumerated; 3 Khaya-wives-of-Leib across 1736–1924, none ours; 0 Mostkov) → she died near **Nesvizh**, not Slutsk; #870 weakened further (her husband Zev Volf Itskovits d. 1914, age 90). (2) **CF-13 resolved at full scale** — ≥4 distinct Berkovits/Borukhovich families in Slutsk; #1120's Avraham clusters with the Chaim-Zimil tailor clan (row 28). (3) **CF-10 restructured** — Tsiptsin is a cohesive Hacohen clan (10 entries, incl. the Chevra Kadisha's own beadle), Sapotnitsky has zero Slutsk burials; Bunin cousin-couple fixed: Y' Leib Boonin → Mendil (d. 11 Jan 1915; EV-52) m. Sheina Dvora Tsiptsin → sons Natan (d. 1909) & Yitskhak (killed 1922). (4) **4th child of Y' Mikhal Polak found** — Y' Leib Polak (d. by 1895, row 5; EV-51), making C16 Yosef his grandson. (5) Zaturensky family real in Slutsk (4 entries, no Zelik — EV-56); only Kharakh = Razoveh family (EV-57); Mrs. Zlateh (Pesheh's row-mate) = Zlateh Novik Krienes, no relation.
 
 **Files**: base-documents/Pinkas-of-Slutsk.pdf · extracted-text/ · data/{pinkas-hits,people,conflicts,evidence-log}.md · docs/{SOURCE-SURVEY,investigations/sapotnitsky}.md · README · CONTEXT.
+
+## Entry 12 — Family-facing writing series opened (2026-10-13)
+
+**What**: `writing/` — two blog-style posts for family members at the leaves: (1) *The Book That Remembers Everyone* — what the Pinkas is, why it matters, the three mysteries it moved (Chaya not in Slutsk; the 1918 Berkovits re-attribution; the Bunin cousins given dates); (2) *How Do You Rebuild a Family…* — project intro: method ([C]/[L]/[?], sources, conflicts kept visible), 10,000-ft history (three lines → Mexico City convergence), and an invitation to cousins. Jargon-free; no CF/EV keys; privacy footer (family-only).
+
+**Care taken**: two invented dates removed before commit (Joseph–Ana wedding year, Shifra Borenstein's implied birth) — the archive doesn't hold them; posts only claim what's sourced.
+
+**Files**: writing/{01,02}*.md · README · CONTEXT.
