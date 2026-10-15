@@ -103,3 +103,13 @@
 **How**: Written as native Mexican Spanish (idioms: "a sus órdenes", "pan de cada día", "a vuelo de pájaro"), not calques; family names and all facts identical to the sourced English versions; one stray-CJK corruption caught and fixed before commit.
 
 **Files**: writing/ (4 files) · README.
+
+## Entry 15 — Sapotnitsky post (03, EN+ES) + EV-35 Prensa Israelita fully mined (2026-10-14)
+
+**What**: (1) Third family-facing post, the promised Sapotnitsky-name story — "Three Names for One Grandmother" EN + ES-MX pair, cross-linked from post 02 in both languages. (2) The ~30 queued UFDC Prensa Israelita links (EV-35) mined end-to-end: 22 notices → **EV-59–80** + `data/prensa-hits.md`.
+
+**How**: UFDC's viewer is a JS app, but the static layer is citable — `ufdcimages.uflib.ufl.edu/AA/00/06/55/27/{vol}/{img}.jpg` + same-path `.txt` OCR (Notes' `NN/NNx` citations don't map to image numbers; notices relocated by searching full-issue OCR; 2 pivotal obits verified against page images).
+
+**Headline findings**: **CF-16 record-confirmed** (Menahem Mendl Glatt d. 1965 at 68 = Mendel Borensztejn b. 1897 Kurow — five notices converge); **A06 corrected** ("Tía Mania" = Felipe's *widow*, d. 15 Jun 1969, not his sister → new CF-30 vs. Chana Mindel Bauman); Shifra's own obit found ("Sofía Mostkoff," 24 Sep 1962, 85 — CF-21/31); CF-23 resolved (Pesele=Pola, Hinde=Aida, Anita=Ana, Sara=Chelo); CF-15 leaning resolved (Lucy m. Harry Pepper, Memphis); Toibe's obit (d. 1973 at 79 = Kurow 1894 ✓) with Sheindl alive 1973 in Israel; new people A19–A29, X19–X21; Moscow Baskins greet Ana's 1959 wedding; Alberto Jarovinsky & son Salomón died together 2 Jan 1970; stray "Leib Minkov" in the community (Sapotnitsky lead).
+
+**Files**: data/prensa-hits.md (new) · data/evidence-log.md · data/people.md · data/conflicts.md · writing/03-* (new, EN+ES) · writing/01-02 (links) · docs/investigations/sapotnitsky.md · CONTEXT.
