@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Borenstein/Mostkoff place gazetteer</name>
+<description>Generated from data/places.md — do not edit by hand.</description>
+<Placemark>
+<name>P01 · Slutsk</name>
+<description><b>P01 · Slutsk</b><br/>Today: Slutsk, Minsk Region, Belarus<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Minsk gubernia) → Byelorussian SSR → Belarus (1991)<br/><br/><b>People &amp; events</b><br/>B02 lived with Israel's family (Sadovaya St., corner of the bedroom) `tania-project (§4)`<br/>B04 residence 1905–24, haberdashery shop, left Dec 1924/25 `tania-project (§§4, 28)`<br/>C06 b. 1880, seamstress, res. to Nov 1928 `tania-project (§35)`<br/>`EV-04`<br/>B10 b. 1909, school `tania-project (§35)`<br/>B11 b. Jun 1911, school + Bund `tania-project (§35)`<br/>Narrative, p. 14<br/>B12/B13/B14 b. 1914/17/21 `tania-project (§35)`<br/>B26 d. ~1921 `tania-project (§7)`<br/>C02 d. 1922 `EV-05`<br/>C03 res. (outskirts, at Ostrov) `Tanya-summary, p. 3`<br/>C04 d. 1895 `EV-25`<br/>C05 d. 1912 `EV-26`<br/>C07 2nd-grade teacher `tania-project (§16)`<br/>C08 head sexton of the Kalter shul `Slutsk Links, pp. 3–4`<br/>C09 d. 1919 `EV-33`<br/>C14 grain shop `tania-project (§32)`<br/>C15 pharmacist (Gipchin's), 1941 family suicide `tania-project (§33)`<br/>C16 d. 1915 `EV-44`<br/>X01 buried 5 Feb 1922, martyrs' row `EV-06`<br/>X02 d. 1915 `EV-52`<br/>X03 d. 1916 `EV-07`<br/>X04/X05 grew up in the Mostkoff home `tania-project (§3)`<br/>X18 Bolotnaya St. hides workshop `tania-project (§34)`<br/><br/><i>The corpus's center of gravity; the whole pinkas (EV-50) is the Slutsk Chevra Kadisha register. Micro-locations (kept here, not separate points): **Sadovaya Street** (Wolfson's courtyard, near the new synagogue, ~20–40 m from the Sluch river) `tania-project (§§2–3)`; **Proletarskaya Street** (the 1924 departure cart) `tania-project (§28)`; the **Sluch river**; the Kalter shul; Gipchin's pharmacy.</i><br/><br/><i>coords: 53.0275, 27.5528 — Wikidata Q201243 · GeoNames 621741; corroborated `tania-project (locations)`</i></description>
+<Point><coordinates>27.5528,53.0275,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P02 · Ostrov (near Slutsk)</name>
+<description><b>P02 · Ostrov (near Slutsk)</b><br/>Today: village/outskirts near Slutsk, Minsk Region, Belarus — exact settlement unidentified<br/>Confidence: [?] · precision: approximate<br/>Jurisdictions: as Slutsk<br/><br/><b>People &amp; events</b><br/>B04 b. 1880 "in the shtetl of Ostrov" `tania-project (§§4, 35)`<br/>`MOSTKOFF, p. 1`<br/>C03 + C02 lived on the outskirts of Ostrov near Slutsk `Tanya-summary, p. 3`<br/><br/><i>**Disambiguation:** this is *not* Ostrów Mazowiecka or any Polish Ostrov — the corpus itself fixes it next to Slutsk ("Lived on the outskirts of Ostrov near Slutsk"; a Slutsk-pinkas Borukhovich is "Ostrever"). Wikidata has no Ostrov in Slutsk raion; the memoir site marks it approximate. Pin down via JewishGen Gazetteer / 19th-c. lists when possible.</i><br/><br/><i>coords: 53.0, 27.5 — `tania-project (locations)`, approximate</i></description>
+<Point><coordinates>27.5,53.0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P03 · Nesvizh</name>
+<description><b>P03 · Nesvizh</b><br/>Today: Niasviž, Minsk Region, Belarus<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Minsk gubernia) → Poland 1921–39 (Riga border ran just west of town — why the memoir says "near the Polish border") → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>B02 Chaya — natal village region ("lived her whole life in a distant village near the Polish border, near Nesvizh")<br/>presumably died/buried there (CF-17 strong negative: not in the Slutsk register) `tania-project (§4)`<br/>Zaturensky revision-list lead (EV-36, EV-10)<br/><br/><i>The natal *village* itself is unidentified — a place to search (Nesvizh-area revision lists). See `docs/investigations/sapotnitsky.md`.</i><br/><br/><i>coords: 53.2189, 26.6819 — Wikidata Q201230 · GeoNames 624700; corroborated `tania-project (locations)` 53.22/26.69</i></description>
+<Point><coordinates>26.6819,53.2189,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P04 · Urechye</name>
+<description><b>P04 · Urechye</b><br/>Today: Urecha, Lyuban district, Minsk Region, Belarus<br/>Confidence: [L] · precision: town<br/>Jurisdictions: Russian Empire (Minsk gubernia) → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>B24 Etl (Israel's sister) + Samuil Reznik — summer home at Urechye station (Samuil in charge of fuel supplies<br/>big official wooden house)<br/>children Masha/Musya &amp; Anya `tania-project (§§34, 36)`<br/>`MOSTKOFF, p. 1`<br/><br/><i>"20–30 km from us" `tania-project (§36)` — Q1169315 is ~25 km SSE of Slutsk, fits. **Discrepancy:** `tania-project (locations)` places Urechye ~53.13/27.85 and calls it Slutsk district; Wikidata has it in Lyuban district at 52.945/27.898. Wikidata coordinates used; reconcile against a period map.</i><br/><br/><i>coords: 52.9453, 27.8983 — Wikidata Q1169315 · GeoNames 620558</i></description>
+<Point><coordinates>27.8983,52.9453,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P05 · Lida</name>
+<description><b>P05 · Lida</b><br/>Today: Lida, Grodno Region, Belarus<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Vilna gubernia, Lida uyezd) → Poland 1920–39 → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>B03 m. Dvora Portnoy 30 May 1906 `EV-01`<br/>children Ginda b. 1907, Khaim Leyb b. 1909, Avraam b. 1913 `EV-19–21`<br/><br/><i>The marriage/birth records say "of Dvoretz" (see P06) — Lida is the registry town.</i><br/><br/><i>coords: 53.8956, 25.2958 — Wikidata Q241475 · GeoNames 626081</i></description>
+<Point><coordinates>25.2958,53.8956,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P06 · Dvoretz</name>
+<description><b>P06 · Dvoretz</b><br/>Today: Dvarets, Dziatlava district, Grodno Region, Belarus<br/>Confidence: [L] · precision: town<br/>Jurisdictions: Russian Empire → Poland 1920–39 (Nowogródek voivodeship) → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>B03 "of Dvoretz" (petty bourgeois) `EV-01`<br/>B05 b. Dvoretz per naturalization petition `Narrative, p. 11`<br/><br/><i>Several Belarusian Dvoretzes exist; the Lida-uyezd marriage points to the Dziatlava-district Dvorets (former shtetl), but the uyezd attribution deserves a JewishGen check. Variant spellings kept.</i><br/><br/><i>coords: 53.4069, 25.5697 — Wikidata Q3918885 · GeoNames 628692</i></description>
+<Point><coordinates>25.5697,53.4069,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P07 · Radun</name>
+<description><b>P07 · Radun</b><br/>Today: Raduń, Voronava district, Grodno Region, Belarus<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Vilna gubernia, Lida uyezd) → Poland 1920–39 → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>Dvora (Dveyra) Portnoy (B03's bride) "of Radun, dau. of Pinkhus" `EV-01`<br/><br/><i>Well-known yeshiva town (the Chofetz Chaim's).</i><br/><br/><i>coords: 54.0531, 24.9978 — Wikidata Q2995176 · GeoNames 622869</i></description>
+<Point><coordinates>24.9978,54.0531,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P08 · Minsk</name>
+<description><b>P08 · Minsk</b><br/>Today: Minsk, Belarus (capital)<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Minsk gubernia seat) → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>B01/B02 candidate civil marriage 1889 `EV-10` (CF-29: cannot be Chaya's own)<br/>C01 candidate birth "Mikhel b. 1847" `EV-28` + brother X14 b. 1852 `EV-29`<br/>C03 candidate Nokhim b. 1838 `EV-30`<br/>1894 town-dwellers list `EV-37`<br/>C12 school inspector (Belorussian Commissariat of Education) `tania-project (§30)`<br/>X01 convoy origin — "ten men from the town of Minsk" `Pinkas, p. 31 (entry #229)`<br/>memoir: the first love's pedagogical college<br/>train transfer `tania-project (locations)`<br/><br/><i>C01's rich Polyaks "fled to Moscow, Leningrad, or abroad" `tania-project (§3)`.</i><br/><br/><i>coords: 53.9022, 27.5618 — Wikidata Q2280 · GeoNames 625143; corroborated `tania-project (locations)`</i></description>
+<Point><coordinates>27.5618,53.9022,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P09 · Bobruisk</name>
+<description><b>P09 · Bobruisk</b><br/>Today: Babruysk, Mogilev Region, Belarus<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Minsk gubernia) → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>X16 Movsha Borukhovich family — births of Yenta 1888, Iakha 1884, Girsha 1885 `EV-42`<br/>X16 Enta born &amp; raised `tania-project (§33)`<br/>C06 Shifra's passport birthplace — **CF-11** (leaning Slutsk) `Narrative`<br/>C07 Malka education inspector `tania-project (§30)`<br/><br/><i>Pinkas #219 "Israel Itskovitch from Baborisk" d. 1922 `EV-53` — a Bobruisk Itskovits, cf. CF-17/CF-12 threads.</i><br/><br/><i>coords: 53.15, 29.2333 — Wikidata Q207294 · GeoNames 630468</i></description>
+<Point><coordinates>29.2333,53.15,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P10 · Vitebsk</name>
+<description><b>P10 · Vitebsk</b><br/>Today: Vitebsk, Belarus<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Vitebsk gubernia seat) → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>C07 Malka's family home from ~1930<br/>Tania's visits 1932 &amp; 1934/35 `tania-project (§§30–32)`<br/>C03 Nakhman moved in with Malka by 1932, alive that year, death place unknown (Vitebsk?) `tania-project (§32)`<br/>B11's dau. Nyusenka b. ~1934/35 at Malka's `tania-project (§§16, 31)`<br/><br/><i>coords: 55.1833, 30.1667 — Wikidata Q102217 · GeoNames 620127</i></description>
+<Point><coordinates>30.1667,55.1833,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P11 · Vilnius</name>
+<description><b>P11 · Vilnius</b><br/>Today: Vilnius, Lithuania (capital)<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Vilna gubernia seat) → Poland 1920–39 (Wilno) → Lithuania<br/><br/><b>People &amp; events</b><br/>X08 Chaim Owzer Mostow d. 2 Mar 1935 `EV-08`<br/>X09 Movshe Mostkov d. 12 Jun 1911 `EV-09` (both candidate siblings of Israel, patronymic Leyb/Lejb)<br/>X15 Samuel Mostkow passports 1916/1923, Piwna St. 2-33 `EV-41`<br/><br/><i>coords: 54.6872, 25.28 — Wikidata Q216 · GeoNames 593116</i></description>
+<Point><coordinates>25.28,54.6872,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P12 · Novogrudok</name>
+<description><b>P12 · Novogrudok</b><br/>Today: Navahrudak, Grodno Region, Belarus<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Minsk gubernia, Novogrudok uyezd) → Poland 1920–39 → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>X15 Samuel Mostkow b. 1883 (mother Khaya Sara Grodzienska) `EV-41`<br/><br/><i>coords: 53.5992, 25.8256 — Wikidata Q278743 · GeoNames 624785</i></description>
+<Point><coordinates>25.8256,53.5992,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P13 · Dalhinoveh</name>
+<description><b>P13 · Dalhinoveh</b><br/>Today: Daŭhinava (agrotown), Vileika district, Minsk Region, Belarus<br/>Confidence: [L] · precision: town<br/>Jurisdictions: Russian Empire (Vilna gubernia, Vileika uyezd) → Poland 1920–39 → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>X01 Yitskhak Bunin killed there 31 Jan 1922 in the massacre of the Minsk merchants `Pinkas, p. 31 (entry #229)`<br/>`EV-06`<br/>`tania-project (§3)`<br/><br/><i>Name is a transliteration off the pinkas translation ("by the village Dalhinoveh not far from the town Laseh"). The Vileika-district Daŭhinava is the known former shtetl on the Minsk–Vileika road — identification likely, not confirmed. See P16 Laseh.</i><br/><br/><i>coords: 54.6453, 27.4772 — Wikidata Q2029657 · GeoNames 628990 (corroborated by Q30007302 "Dolginovo ghetto", same site)</i></description>
+<Point><coordinates>27.4772,54.6453,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P14 · Braslaw</name>
+<description><b>P14 · Braslaw</b><br/>Today: Braslaw, Vitebsk Region, Belarus<br/>Confidence: [L] · precision: town<br/>Jurisdictions: Russian Empire (Vilna gubernia, Braslaw uyezd) → Poland 1920–39 → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>"The author's relatives" killed in the Braslav ghetto, 1942 — memoir foreword, via `tania-project (locations)` — which relatives is not established `[?]`<br/><br/><i>Only the foreword names it; not in the memoir body. Kept [L] for the place, [?] for the kinship.</i><br/><br/><i>coords: 55.6417, 27.0333 — Wikidata Q628623 · GeoNames 629640</i></description>
+<Point><coordinates>27.0333,55.6417,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P18 · Kurow</name>
+<description><b>P18 · Kurow</b><br/>Today: Kurów, Lublin Voivodeship, Poland<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Congress Poland / Russian Empire (Lublin gubernia) → Poland (1918–)<br/><br/><b>People &amp; events</b><br/>A01 Szol Kelman m. A02 Sura Brandla 1890, akta 4 `EV-31`<br/>births of A03 Toibe 1894, A04 Mendel 1897, A05 Fiszel 1901 `EV-32`<br/>possible A12–A14 (Chaim 1891, Cyrla 1892, Necha 1895) `timeline, p. 1`<br/><br/><i>**Disambiguation:** many Kuróws exist; ours is fixed by the JRI-Poland Fond 1751, **Lublin Archive** holdings (`Notes, p. 17` — Kurow PSA births 1862–98, marriages 1868–1908, deaths 1871–76/82–98/1901–08).</i><br/><br/><i>coords: 51.3894, 22.185 — Wikidata Q2316 · GeoNames 766980</i></description>
+<Point><coordinates>22.185,51.3894,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P19 · Warsaw</name>
+<description><b>P19 · Warsaw</b><br/>Today: Warsaw, Poland (capital)<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Congress Poland / Russian Empire (Warsaw gubernia) → Poland (1918–)<br/><br/><b>People &amp; events</b><br/>A02 d. 1925 + gravestone, Warsaw Jewish cemetery `EV-47` (**CF-28**, one timeline line says 1935)<br/>A01 possibly d. 1942 Warsaw `[?] timeline, p. 2`<br/>A05 family trip 1934/35 ("showing off Chana's jewels") `[?] timeline, pp. 1–2`<br/>A03's dau. Ana Mitelhaus b. Warsaw per most records (**CF-27**)<br/>Herz Bauman gravestone leads `Notes, p. 11`<br/><br/><i>coords: 52.23, 21.0111 — Wikidata Q270 · GeoNames 756135</i></description>
+<Point><coordinates>21.0111,52.23,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P20 · Bialystok</name>
+<description><b>P20 · Bialystok</b><br/>Today: Białystok, Podlaskie Voivodeship, Poland<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Grodno gubernia) → Poland (1918–)<br/><br/><b>People &amp; events</b><br/>A08 Angela Glatt b. 1923 `timeline, p. 1`<br/><br/><i>coords: 53.1324, 23.1687 — Wikidata Q761 · GeoNames 776069</i></description>
+<Point><coordinates>23.1687,53.1324,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P21 · Moscow</name>
+<description><b>P21 · Moscow</b><br/>Today: Moscow, Russia (capital)<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire → RSFSR/USSR → Russia<br/><br/><b>People &amp; events</b><br/>B11 lived 1926–30/31 (first with Aunt Enta at Bolshaya Pirogovskaya 2a<br/>Timiryazev college<br/>expulsion &amp; reinstatement<br/>mother's 1930 visit) `tania-project (§§31, 36)`<br/>C07 Malka at the Krupskaya Academy from 1925 `tania-project (§§13, 21)`<br/>X16 Yenta (Enta) at the Krupskaya Academy `tania-project (§33)`<br/>C13 Khaya Pastron + dau. Genya lived by Chistye Prudy `tania-project (§37)`<br/>C12's widow &amp; Genya in Moscow `tania-project (§30)`<br/>B04's emigration train left Moscow 10 Dec 1924 `EV-02`<br/>C01's Polyaks "probably fled to Moscow" `tania-project (§3)`<br/><br/><i>Birobidzhan trips 1932+ pass through (see P29).</i><br/><br/><i>coords: 55.7506, 37.6175 — Wikidata Q649 · GeoNames 524894; corroborated `tania-project (locations)`</i></description>
+<Point><coordinates>37.6175,55.7506,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P22 · Leningrad</name>
+<description><b>P22 · Leningrad</b><br/>Today: Saint Petersburg, Russia<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (imperial capital, Petrograd 1914–24) → RSFSR/USSR (Leningrad) → Russia (Saint Petersburg, 1991)<br/><br/><b>People &amp; events</b><br/>X12 Bronya + Grisha (B09 Lyubka's children) `tania-project (§34)`<br/>C12 Mikhail — medical institute, married Khaya Pastron ~1925 `tania-project (§16)`<br/>a Klara studied there (likely B11's dau.) `[L] tania-project (§33)`<br/>"second cousins Manya and Nina in Leningrad" `tania-project (§21)`<br/>C01's Polyaks "fled to… Leningrad" `tania-project (§3)`<br/><br/><i>coords: 59.95, 30.3167 — Wikidata Q656 · GeoNames 498817</i></description>
+<Point><coordinates>30.3167,59.95,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P23 · Saratov</name>
+<description><b>P23 · Saratov</b><br/>Today: Saratov, Saratov Oblast, Russia<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Saratov gubernia) → RSFSR/USSR → Russia<br/><br/><b>People &amp; events</b><br/>X01's wife (mother of Masha &amp; Nina Bunin) died of TB in Saratov `tania-project (§3)`<br/><br/><i>coords: 51.53, 46.035 — Wikidata Q5332 · GeoNames 498677</i></description>
+<Point><coordinates>46.035,51.53,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P24 · Penza</name>
+<description><b>P24 · Penza</b><br/>Today: Penza, Penza Oblast, Russia<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Penza gubernia) → RSFSR/USSR → Russia<br/><br/><b>People &amp; events</b><br/>C07 Malka's wartime evacuation<br/>met Yakhna's Russian-married daughter there `tania-project (§33)`<br/>that daughter had earlier settled in Penza `tania-project (§33)`<br/><br/><i>coords: 53.2, 45.0 — Wikidata Q5540 · GeoNames 511565; corroborated `tania-project (locations)`</i></description>
+<Point><coordinates>45.0,53.2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P25 · Velikiye Luki</name>
+<description><b>P25 · Velikiye Luki</b><br/>Today: Velikiye Luki, Pskov Oblast, Russia<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Pskov gubernia) → RSFSR/USSR → Russia<br/><br/><b>People &amp; events</b><br/>B11's later home `tania-project (§33)`<br/>X16 Enta's friends there `tania-project (§§33, 36)`<br/><br/><i>coords: 56.35, 30.5167 — Wikidata Q101825 · GeoNames 476077</i></description>
+<Point><coordinates>30.5167,56.35,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P26 · Pronsk district</name>
+<description><b>P26 · Pronsk district</b><br/>Today: Pronsky District, Ryazan Oblast, Russia<br/>Confidence: [C] · precision: town<br/>Jurisdictions: RSFSR/USSR → Russia<br/><br/><b>People &amp; events</b><br/>B11 sent for collectivization fieldwork, spring 1929 `tania-project` (via locations table)<br/><br/><i>District centroid; `tania-project (locations)` gives ~53.85/39.58 (approximate) — either way, district-level.</i><br/><br/><i>coords: 54.1172, 39.6133 — Wikidata Q1644769 · GeoNames 504714</i></description>
+<Point><coordinates>39.6133,54.1172,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P27 · Khabarovsk</name>
+<description><b>P27 · Khabarovsk</b><br/>Today: Khabarovsk, Khabarovsk Krai, Russia<br/>Confidence: [C] · precision: town<br/>Jurisdictions: RSFSR/USSR → Russia<br/><br/><b>People &amp; events</b><br/>B11 arrived Feb 1931 (first assignment)<br/>typhoid in Khabarovsk hospital 1933 `tania-project (§§31, 16)`<br/>`tania-project (locations)`<br/><br/><i>coords: 48.4833, 135.0667 — Wikidata Q4454 · GeoNames 2022890</i></description>
+<Point><coordinates>135.0667,48.4833,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P28 · Pokrovka</name>
+<description><b>P28 · Pokrovka</b><br/>Today: Pokrovka, Khabarovsk Krai, Russia (near Khabarovsk)<br/>Confidence: [L] · precision: approximate<br/>Jurisdictions: RSFSR/USSR → Russia<br/><br/><b>People &amp; events</b><br/>B11's first posting — state-farm training stop before Birobidzhan `tania-project (locations)`<br/><br/><i>coords: 48.3, 135.2 — `tania-project (locations)`, approximate</i></description>
+<Point><coordinates>135.2,48.3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P29 · Birobidzhan</name>
+<description><b>P29 · Birobidzhan</b><br/>Today: Birobidzhan, Jewish Autonomous Oblast, Russia<br/>Confidence: [C] · precision: town<br/>Jurisdictions: RSFSR/USSR — Jewish Autonomous Oblast from 1934 (station renamed Birobidzhan 1931) → Russia<br/><br/><b>People &amp; events</b><br/>B11 &amp; Iosif Baskin by 1935 `tania-project (§32)`<br/>B11 arrived at Tikhonkaya station to join the Valdheim kolkhoz `tania-project (locations)`<br/><br/><i>B11 visited grandfather Nakhman in Vitebsk in 1932 "from Birobidzhan" `tania-project (§32)`.</i><br/><br/><i>coords: 48.7833, 132.9333 — Wikidata Q7769 · GeoNames 2026643; corroborated `tania-project (locations)`</i></description>
+<Point><coordinates>132.9333,48.7833,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P30 · Valdheim kolkhoz</name>
+<description><b>P30 · Valdheim kolkhoz</b><br/>Today: Valdgeym, Jewish Autonomous Oblast, Russia<br/>Confidence: [L] · precision: approximate<br/>Jurisdictions: RSFSR/USSR → Russia<br/><br/><b>People &amp; events</b><br/>B11 working there as an agronomist where the memoir's surviving pages end `tania-project (locations)`<br/><br/><i>coords: 48.7, 132.7 — `tania-project (locations)`, approximate</i></description>
+<Point><coordinates>132.7,48.7,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P31 · Odessa</name>
+<description><b>P31 · Odessa</b><br/>Today: Odesa, Ukraine<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Kherson gubernia) → Ukrainian SSR → Ukraine<br/><br/><b>People &amp; events</b><br/>B11's first love went there to study theater<br/>she saw him perform years later with a touring troupe `tania-project (§31)`<br/>`tania-project (locations)`<br/><br/><i>coords: 46.4775, 30.7326 — Wikidata Q1874 · GeoNames 698740</i></description>
+<Point><coordinates>30.7326,46.4775,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P32 · Mississippi (peddler circuit)</name>
+<description><b>P32 · Mississippi (peddler circuit)</b><br/>Today: Mississippi, USA<br/>Confidence: [L] · precision: approximate<br/>Jurisdictions: USA (state since 1817)<br/><br/><b>People &amp; events</b><br/>B04 peddler/haberdashery years ~1895–1905, having arrived at 15 with elder brothers/uncles `tania-project (§5)`<br/>B05 fur trade along the Mississippi and up the Arkansas River `EV-22`<br/><br/><i>A region, not a point — the state-centroid pin is a visual anchor only; the known towns are P33 Rosedale and P34 Clarksdale.</i><br/><br/><i>coords: 32.7, -89.7 — `tania-project (locations)`, approximate (state)</i></description>
+<Point><coordinates>-89.7,32.7,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P33 · Rosedale</name>
+<description><b>P33 · Rosedale</b><br/>Today: Rosedale, Mississippi, USA<br/>Confidence: [C] · precision: town<br/>Jurisdictions: USA (Mississippi)<br/><br/><b>People &amp; events</b><br/>B05 Isadore's fur trade base (bought pelts along the Mississippi/Arkansas<br/>companions Johnny Mott, Fred Couey) `EV-22`<br/>B23 Louise ran the family clothing store `EV-22`<br/>X11 Harold "Skeeter" b. ~1918 `EV-38`<br/><br/><i>CF-14 (identification of the blog's Isadore with Eiser b. 1888 — likely, timing loose).</i><br/><br/><i>coords: 33.8536, -91.0269 — Wikidata Q2065882 · GeoNames 4828755</i></description>
+<Point><coordinates>-91.0269,33.8536,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P34 · Clarksdale</name>
+<description><b>P34 · Clarksdale</b><br/>Today: Clarksdale, Mississippi, USA<br/>Confidence: [C] · precision: town<br/>Jurisdictions: USA (Mississippi)<br/><br/><b>People &amp; events</b><br/>B05 buried Beth Israel Cemetery, Clarksdale `Narrative, p. 21`<br/><br/><i>coords: 34.2006, -90.5702 — Wikidata Q990145 · GeoNames 4421935</i></description>
+<Point><coordinates>-90.5702,34.2006,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P35 · Memphis</name>
+<description><b>P35 · Memphis</b><br/>Today: Memphis, Tennessee, USA<br/>Confidence: [C] · precision: town<br/>Jurisdictions: USA (Tennessee)<br/><br/><b>People &amp; events</b><br/>B07 Keili's line — grandson Israel Iskiwitz m. Dora Bernstein<br/>Baron Hirsch Cemetery burials `EV-23`<br/>`Notes, p. 12` (CF-12: Israel vs. Reuben Iscovitch)<br/><br/><i>CF-15 — "Lucy Secher of Memphis" possibly B16 Lucy `[?]`.</i><br/><br/><i>coords: 35.1461, -90.0519 — Wikidata Q16563 · GeoNames 4641239</i></description>
+<Point><coordinates>-90.0519,35.1461,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P36 · St. Louis</name>
+<description><b>P36 · St. Louis</b><br/>Today: St. Louis, Missouri, USA<br/>Confidence: [C] · precision: town<br/>Jurisdictions: USA (Missouri)<br/><br/><b>People &amp; events</b><br/>B14 Dora's later life<br/>m. David Glassman, later Lawrence Padawer<br/>children Jerry, Mel, Paul `EV-34`<br/><br/><i>coords: 38.6264, -90.1994 — Wikidata Q38022 · GeoNames 4407066</i></description>
+<Point><coordinates>-90.1994,38.6264,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P37 · Baton Rouge</name>
+<description><b>P37 · Baton Rouge</b><br/>Today: Baton Rouge, Louisiana, USA<br/>Confidence: [C] · precision: town<br/>Jurisdictions: USA (Louisiana)<br/><br/><b>People &amp; events</b><br/>X11 Harold "Skeeter" Mostkoff d. 31 Jul 2006<br/>wife Doris Rhea d. 2006<br/>founded Baton Rouge Restaurant Supply `EV-38`<br/><br/><i>coords: 30.4475, -91.1786 — Wikidata Q28218 · GeoNames 4315588</i></description>
+<Point><coordinates>-91.1786,30.4475,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P38 · Las Vegas</name>
+<description><b>P38 · Las Vegas</b><br/>Today: Las Vegas, Nevada, USA<br/>Confidence: [C] · precision: town<br/>Jurisdictions: USA (Nevada)<br/><br/><b>People &amp; events</b><br/>A09 Myrna Bilak d. 4 Sep 2001 `EV-39`<br/><br/><i>coords: 36.1672, -115.1486 — Wikidata Q23768 · GeoNames 5506956</i></description>
+<Point><coordinates>-115.1486,36.1672,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P39 · New York</name>
+<description><b>P39 · New York</b><br/>Today: New York City, New York, USA<br/>Confidence: [C] · precision: town<br/>Jurisdictions: USA<br/><br/><b>People &amp; events</b><br/>"Khanele" — dau. of Luba (X18's dau.), "a beauty (she is Khanele's mother, from New York)" `tania-project (§34)`<br/><br/><i>"All my father's brothers and sisters… live in the USA" (1976–80) `tania-project (§35)` — the US Mostkoff diaspora is mostly unplaced.</i><br/><br/><i>coords: 40.7128, -74.0061 — Wikidata Q60 · GeoNames 5128581; corroborated `tania-project (locations)`</i></description>
+<Point><coordinates>-74.0061,40.7128,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P40 · Mexico City</name>
+<description><b>P40 · Mexico City</b><br/>Today: Mexico City, Mexico (capital)<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Mexico<br/><br/><b>People &amp; events</b><br/>B04 entered Mexico 1924 `EV-02/03` (**CF-03** date), d. 1957, buried Panteon Israelita `EV-13/15`<br/>B10 sent for ~1926 `EV-03`<br/>C06 + B12/B13/B14 entered Jan 1929 `EV-03`<br/>C06 d. 1962 `EV-14`<br/>B12 m. B15 1939 `EV-16`<br/>B16–B21 b. 1939–57 `EV-17`<br/>A05 to Mexico ~1919–25<br/>A16–A18 b. 1926–36 `timeline, pp. 1–2`<br/>A18 m. B17 — children Philip, Edna/Jaye, Shifra `[C — Philip, 2026-10-13]`<br/>B22 d. 2013, buried Panteón Anexo 1 `EV-24`<br/>A09 b. 1946 `EV-39`<br/><br/><i>The three lines converge here (CLAUDE.md): Borenstein (Kurow), Mostkoff (Slutsk), Polak/Borukovich (Minsk/Slutsk).</i><br/><br/><i>coords: 19.3538, -99.1359 — Wikidata Q1489 · GeoNames 3527646</i></description>
+<Point><coordinates>-99.1359,19.3538,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P41 · Guadalajara</name>
+<description><b>P41 · Guadalajara</b><br/>Today: Guadalajara, Jalisco, Mexico<br/>Confidence: [L] · precision: town<br/>Jurisdictions: Mexico<br/><br/><b>People &amp; events</b><br/>A11 Alfredo Ringel (Angela's son) — "brother Alfredo Ringel (Guadalajara)" `EV-39`<br/><br/><i>coords: 20.677, -103.347 — city-center coordinates (Wikidata Q9022, not re-verified by a second source this session)</i></description>
+<Point><coordinates>-103.347,20.677,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P42 · Marbella</name>
+<description><b>P42 · Marbella</b><br/>Today: Marbella, Spain<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Spain<br/><br/><b>People &amp; events</b><br/>A10 Janette (Ringel) Epstein — "sister Janette Epstein (Marbella)" `EV-39`<br/><br/><i>coords: 36.5114, -4.8834 — Wikidata Q484799 · GeoNames 6359474</i></description>
+<Point><coordinates>-4.8834,36.5114,0</coordinates></Point>
+</Placemark>
+</Document></kml>

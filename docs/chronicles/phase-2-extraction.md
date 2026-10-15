@@ -113,3 +113,13 @@
 **Headline findings**: **CF-16 record-confirmed** (Menahem Mendl Glatt d. 1965 at 68 = Mendel Borensztejn b. 1897 Kurow — five notices converge); **A06 corrected** ("Tía Mania" = Felipe's *widow*, d. 15 Jun 1969, not his sister → new CF-30 vs. Chana Mindel Bauman); Shifra's own obit found ("Sofía Mostkoff," 24 Sep 1962, 85 — CF-21/31); CF-23 resolved (Pesele=Pola, Hinde=Aida, Anita=Ana, Sara=Chelo); CF-15 leaning resolved (Lucy m. Harry Pepper, Memphis); Toibe's obit (d. 1973 at 79 = Kurow 1894 ✓) with Sheindl alive 1973 in Israel; new people A19–A29, X19–X21; Moscow Baskins greet Ana's 1959 wedding; Alberto Jarovinsky & son Salomón died together 2 Jan 1970; stray "Leib Minkov" in the community (Sapotnitsky lead).
 
 **Files**: data/prensa-hits.md (new) · data/evidence-log.md · data/people.md · data/conflicts.md · writing/03-* (new, EN+ES) · writing/01-02 (links) · docs/investigations/sapotnitsky.md · CONTEXT.
+
+## Entry 16 — Place gazetteer + map layer (2026-10-14, the "mapping" session)
+
+**What**: Same day as the Prensa round (entry 15, the parallel session), this session built the **place layer**: `docs/MAPPING-PLAN.md` (the plan), `data/places.md` (gazetteer — 42 Tier-1 places + ~30 Tier-2 background toponyms), and the generated `data/places.geojson` (39 points; primary interchange for uMap/QGIS/geojson.io) + `data/places.kml` (Google Earth) via `scripts/places-to-geojson.py`. The README gained a **What's New** section covering both 2026-10-14 rounds.
+
+**Why**: A labeled map of the family's Eastern Europe and migration arc — and Phase 3 groundwork: a place authority for the GEDCOM/Gramps load. Recorded as **DEC-010**.
+
+**How**: Extraction pass over people.md / evidence-log / pinkas-hits / memoir; every coordinate carries provenance (Wikidata QID + GeoNames ID, cross-checked against the memoir site's own locations table — a dozen independent corroborations). Disambiguation wins: **Ostrov = the shtetl near Slutsk** (the memoir's own words, not Ostrów Mazowiecka); **Kurow = Kurów, Lublin** (archive fond); Dvoretz → Dziatlava-district Dvarets `[L]`. Flagged: a Wikidata-vs-memoir-site discrepancy on Urechye (district + coordinates); Oreitsa/Laseh/Ozdeh deliberately un-geocoded `[?]`. QA note: a from-memory "Saratov" QID turned out to be the South Pole — every QID was verified against returned labels before use.
+
+**Files**: docs/MAPPING-PLAN.md (new) · data/places.md (new) · data/places.geojson · data/places.kml · scripts/places-to-geojson.py (new) · README · DECISIONS.md (DEC-010) · IMPLEMENTATION.md · CONTEXT.

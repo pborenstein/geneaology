@@ -38,7 +38,7 @@ Plan of attack (details in ROADMAP.md):
 
 ## Phase 3: Tree assembly (high level)
 
-Decide GEDCOM tooling (Gramps?) → load reconciled people → resolve conflicts → charts + regenerated GEDCOM → updated overview.
+Decide GEDCOM tooling (Gramps?) → load reconciled people → resolve conflicts → charts + regenerated GEDCOM → updated overview. **Place authority: done 2026-10-14** (`data/places.md` gazetteer + generated `places.geojson`/`.kml`, DEC-010 — see docs/MAPPING-PLAN.md for the deferred migration-route layer, Leaflet family map, and GEDCOM place strings).
 
 ## Phase 4: Targeted research (high level)
 
