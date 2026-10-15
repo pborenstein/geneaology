@@ -42,7 +42,7 @@ Decide GEDCOM tooling (Gramps?) → load reconciled people → resolve conflicts
 
 ## Phase 4: Targeted research (high level)
 
-Priority order: UFDC Prensa Israelita links → family outreach (Pola, memoir, old trees) → JRI-Poland Kurow/Warsaw → Minsk archive pull (1889 marriage) → USA records (Arizona crossing, Mississippi/Memphis) → Shoah databases. Mystery list maintained in FAMILY-OVERVIEW.md.
+Priority order: ~~UFDC Prensa Israelita links~~ **✅ mined 2026-10-14** (EV-59–80, `data/prensa-hits.md`; residue: Felipe Borenstein's own death notice ~1959/60) → family outreach (Pola, memoir, old trees) → JRI-Poland Kurow/Warsaw → Minsk archive pull (1889 marriage) → USA records (Arizona crossing, Mississippi/Memphis) → Shoah databases. Mystery list maintained in FAMILY-OVERVIEW.md.
 
 ## Phase 5: Publication (high level)
 

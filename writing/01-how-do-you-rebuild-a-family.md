@@ -66,7 +66,7 @@ In **October 1941**, the Jews of Slutsk were murdered — nearly all of them, in
 
 ### The convergence
 
-In Mexico City, **Joseph Borenstein**, Felipe and Chana's youngest, married **Ana Mostkoff Linares**, Luis and Chelo's second daughter (their wedding announcement ran in the community paper — we have it queued to retrieve). Two lines that had spent centuries sixty miles apart in the Pale of Settlement, and forty years circling the same few neighborhoods of Mexico City, finally joined.
+In Mexico City, **Joseph Borenstein**, Felipe and Chana's youngest, married **Ana Mostkoff Linares**, Luis and Chelo's second daughter (their wedding announcement ran in the community paper — and the archive now holds it: a 1959 page naming the whole family, both sets of parents, the grandmother, and even the Moscow branch). Two lines that had spent centuries sixty miles apart in the Pale of Settlement, and forty years circling the same few neighborhoods of Mexico City, finally joined.
 
 They had three children: **Philip, Edna Jaye, and Shifra** — the last named for Ana's grandmother **Shifra Boruchovich**, the seamstress from Slutsk who came to Mexico at forty-eight and died there in 1962.
 

@@ -2,7 +2,7 @@
 
 One entry per **family-connected person** (blood/marriage relatives and record-witnessed kin; background mentions stay in the source notes). Built in Phase 2 extraction passes (DEC-004: single markdown index; GEDCOM conversion deferred to Phase 3).
 
-**Pass status**: All five extraction passes complete (1 Narrative · 2 Notes · 3 Tanya material · 4 record collections · 5 timeline) · **Pinkas pass 2026-10-13** (full Slutsk Chevra Kadisha register → `data/pinkas-hits.md`).
+**Pass status**: All five extraction passes complete (1 Narrative · 2 Notes · 3 Tanya material · 4 record collections · 5 timeline) · **Pinkas pass 2026-10-13** (full Slutsk Chevra Kadisha register → `data/pinkas-hits.md`) · **Prensa Israelita pass 2026-10-14** (EV-35 queue mined → EV-59–80, `data/prensa-hits.md`).
 
 ## Conventions
 
@@ -26,22 +26,33 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 |----|----------------|-------|----------|
 | A01 | Szol Kelman Borensztejn | m. 1890 [C] | Kurow patriarch; m. Sura Brandla Ajzenszmidt |
 | A02 | Sura Brandla Ajzenszmidt (Borenstein) | d. 1925 Warsaw [L] | Kurow matriarch |
-| A03 | Toibe "Touba" Borensztejn (Mitelhaus) | b. 1894 Kurow [C] | Dau. A01/A02; m. Rachmeil Mitelhaus [L] |
-| A04 | Mendel Borensztejn | b. 1897 Kurow [C] | S. A01/A02; possibly = "Rachmeil" of other notes (CF-16) |
-| A05 | Fiszel "Fishel/Felipe" Borenstein | b. 1901 Kurow [C] | S. A01/A02; to Mexico; m. Chana Mindel Bauman |
-| A06 | "Tía Mania/Mane" Borenstein | — | Likely sibling of Fishel [?]; obit queued (EV-35) |
-| A07 | Sophia/Sheindel Chanovesky (Glatt) | b. ~1900s · alive 1966 [C] | M. Rachmeil Mendel (A04) 1915–22 [L] |
-| A08 | Angela Glatt (Ringel) | b. 1923 Bialystok [L] | Dau. of A04/A07; mother of Myrna Bilak [L] |
+| A03 | Toibe "Touba" Borensztejn (Mitelhaus) | b. 1894 Kurow [C] · d. 23 May 1973 Mexico City [C] | Dau. A01/A02; m. Rachmeil Mitelhaus; children Ana, José, Enrique, Sara [C] |
+| A04 | Mendel "Menahem Mendl/Manuel" Borensztejn (Glatt) | b. 1897 Kurow [C] · d. 5 Sep 1965 Mexico City [C] | S. A01/A02; the Glatt patriarch (CF-16 confirmed); six children |
+| A05 | Fiszel "Fishel/Felipe" Borenstein | b. 1901 Kurow [C] · d. ~1959/60 Mexico City [C] | S. A01/A02; to Mexico; m. Chana Mindel Bauman |
+| A06 | Mania "Mane/Malke" Borenstein | b. ~1902 [C] · d. 15 Jun 1969 Mexico City [C] | **Felipe's widow & matriarch** (corrected 2026-10-14); = A15? CF-30 |
+| A07 | Sophia/Sheindel "Sheine Miriam" Chanovesky (Glatt) | b. ~1900s · alive May 1973, Israel [C] | M. Menahem Mendl Glatt (A04); née Chanovesky confirmed [C] |
+| A08 | Angela Glatt (Ringel) | b. 1923 Bialystok [L] | Dau. of A04/A07; m. Isaac Ringel [C]; mother of Myrna, Freddie, Janette |
 | A09 | Myrna (Ringel) Bilak | b. 4 Feb 1946 Mexico City · d. 4 Sep 2001 [C] | Dau. of Angela; obit EV-39 |
 | A10 | Janette (Ringel) Epstein | — | Dau. of Angela [C obit] |
 | A11 | Alfredo Ringel | — | S. of Angela [C obit] |
 | A12 | Chaim Borensztejn? | b. 1891 Kurow? [?] | Possible child of A01/A02 (timeline) |
 | A13 | Cyrla Borensztejn? | b. 1892 Kurow? [?] | Possible child of A01/A02 (timeline) |
 | A14 | Necha Borensztejn? | b. 1895 Kurow? [?] | Possible child of A01/A02 (timeline) |
-| A15 | Chana Mindel Bauman (Borenstein) | b. ~1903 [L] | M. Fishel (A05); sister Sura Ita; children 1926–42 |
-| A16 | Enrique Borenstein | b. 1926 Mexico City [C] | S. Fishel & Chana (Henry/Herszel/Hersh/Tvi) |
-| A17 | Sidney Borenstein | b. 1927 Mexico City [C] | S. Fishel & Chana; m. Rebecca Finkler [L] |
-| A18 | Joseph "Jose" Borenstein | b. 1936 Mexico City [C] | S. Fishel & Chana; m. Ana Mostkoff Linares (B17) → Philip, Edna/Jaye, Shifra |
+| A15 | Chana Mindel Bauman (Borenstein) | b. ~1903 [L] · d. 15 Jun 1969 [C via CF-30] | M. Fishel (A05); sister Sura Ita; children 1926–42; likely = "Mania" (A06) — CF-30 |
+| A16 | Enrique Borenstein | b. 1926 Mexico City [C] | S. Fishel & Chana (Henry/Herszel/Hersh/Tvi); m. Emma [C]; 5 children [C] |
+| A17 | Sidney Borenstein | b. 1927 Mexico City [C] | S. Fishel & Chana; m. Rebecca Finkler [C]; children Susana, Saúl, Ruth [C] |
+| A18 | Joseph "Jose" Borenstein | b. 1936 Mexico City [C] | S. Fishel & Chana; m. Ana Mostkoff Linares (B17) 15 Mar 1959 [C] → Philip, Edna/Jaye, Shifra |
+| A19 | Max Glatt | b. ~1920s | S. A04/A07; m. Elena; daughters Susy, Nelly, Nancy, Julie [C] |
+| A20 | Lic. Jacobo Glatt | b. ~1920s | S. A04/A07; m. Irene Russek; sons Sigui (A21), Siggie, Eddie, Carlos [C] |
+| A21 | Sigui "Shaul" Glatt Russek | b. ~1950 | S. A20; bar mitzvah 1963 [C]; grandfathers Manuel Glatt & Gabriel Russek |
+| A22 | Benny Glatt | b. ~1920s | S. A04/A07; m. Eugenia; later Israel [C] |
+| A23 | Sonia Glatt (Schwarz) | b. ~1920s | Dau. A04/A07; m. Marcus Schwarz; children Teddy, Vivian, Jacqueline [C] |
+| A24 | Anita/Nejume Glatt (Epelstein) | b. ~1930s | Dau. A04/A07; m. Isaac Shajne Epelstein 1953 [C]; son Elías b. 1956 |
+| A25 | Isaac Ringel | b. ~1920s | M. Angela Glatt (A08) [C]; s. of Bernardo Ringel |
+| A26 | Freddie Ringel | b. ~1940s | S. Isaac & Angela [C]; brother of Myrna (A09), Janette (A10), Alfredo (A11) |
+| A27 | Sara Borenstein (Jarovinsky) | b. ~1900 | **Sister of Felipe/Toibe/Mendel** [L — structural]; m. Víctor Jarovinsky (A28) |
+| A28 | Víctor Jarovinsky (Yarowinsky) | b. ~1890s | M. Sara Borenstein (A27); the Jarovinsky in-law patriarch |
+| A29 | Alberto Jarovinsky | b. ~1932 · d. 2 Jan 1970 [C] | S. A27/A28; m. Rosa/Reizl; died Acapulco–Iguala road with son Salomón (10) |
 | B01 | Aryeh Leib "Leibe/Lev" Mostkoff | b. ~1855–60 [L] · d. young [C memoir] | Patriarch; poor; house by the bridge (surname legend) |
 | B02 | Chaya (Sapotnitsky?) Mostkoff | b. ~1855–60 [L] · d. not in Slutsk register — likely near Nesvizh [?] | Matriarch; village near Nesvizh; lived with Israel's family |
 | B03 | Morduckh "Motl/Motel/Max" Mostkov | b. ~1877 [L] | Eldest known son; m. Dvora Portnoy 1906 Lida [C]; Lida children 1907–13 [C] |
@@ -51,18 +62,18 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | B07 | Keili "Clara?" Mostkoff (Iskiwitz) | — | Dau. B01/B02; m. Iskiwitz (Israel vs. Reuben — CF-12); Memphis line |
 | B08 | Taiba/Tayba Mostkoff (Tsukovich?) | — | "Eldest daughter" (memoir); son Israel Tsukovich |
 | B09 | Lyubka Mostkoff | — | **Israel's sister** (memoir, explicit); mother of Bronya & Grisha (Leningrad) |
-| B10 | Abram "Abraham/Avram" Mostkoff | b. Apr 1909 [C memoir] | S. Israel & Shifra; to Mexico 1926; married twice |
-| B11 | Tania "Tayba/Tanya/Tatyana" Mostkoff (Baskin) | b. Jun 1911 Slutsk [C memoir] | Memoir author; Moscow 1926; USSR; m. Iosif Baskin; 3 children |
+| B10 | Abram "Abraham/Avram" Mostkoff | b. Apr 1909 [C memoir] | S. Israel & Shifra; to Mexico 1926; m. Clara Nudelman, later Leonor [C]; grandchildren incl. Nachman, Rubén, Motele, Violeta [C] |
+| B11 | Tania "Tayba/Tanya/Tatyana" Mostkoff (Baskin) | b. Jun 1911 Slutsk [C memoir] | Memoir author; Moscow 1926; USSR; m. Iosif Baskin; 3 children; "Yosef y Taia Baskin" greet Ana's 1959 wedding from Moscow [C] |
 | B12 | Aryeh Leib "Leiba/Luis" Mostkoff | b. Aug 1914 [C memoir] | S. Israel & Shifra; "the potato-eater"; m. Chelo Linares 1939; six children |
-| B13 | Mikhail "Mikhl/Miguel/Miquel" Mostkoff | b. Nov 1917 [C memoir] | S. Israel & Shifra; m. Berta Tolmatsky; children Alberto, Silvia |
-| B14 | Dvoira "Dveyra/Dora/Doris" Mostkoff (Glassman, Padawer) | b. Aug 1921 [C memoir] | Dau. Israel & Shifra; to St. Louis; m. David Glassman, later Lawrence Padawer |
+| B13 | Mikhail "Mikhl/Miguel/Miquel" Mostkoff | b. Nov 1917 [C memoir] | S. Israel & Shifra; m. Berta Tolmatsky; children Alberto (d. 1959, 14), Silvia |
+| B14 | Dvoira "Dveyra/Dora/Doris" Mostkoff (Glassman, Padawer) | b. Aug 1921 [C memoir] | Dau. Israel & Shifra; Memphis by 1959 [C], later St. Louis; m. David Glassman, later Lawrence Padawer |
 | B15 | Maria Consuelo "Chelo" Linares Lopez | b. 7 Aug 1917 Mexico [C] | M. Luis Mostkoff 1939; six children |
-| B16 | Lucy Mostkoff Linares | b. 10 Mar 1939 [C] | Eldest dau. Luis & Chelo; "Lucy Secher" of Memphis? CF-15 [?] |
-| B17 | Ana "Shifra?" Mostkoff Linares | b. 29 Dec 1940 [C] | M. Joseph Borenstein → Philip, Edna/Jaye, Shifra |
+| B16 | Lucy Mostkoff Linares | b. 10 Mar 1939 [C] | Eldest dau. Luis & Chelo; m. Harry Pepper, Memphis [C] — CF-15 leaning resolved |
+| B17 | Ana "Anita" Mostkoff Linares | b. 29 Dec 1940 [C] | M. Joseph Borenstein 15 Mar 1959 [C] → Philip, Edna/Jaye, Shifra |
 | B18 | Moises Mostkoff | b. 13 Jan 1942 [C] | S. Luis & Chelo |
-| B19 | Pola "Pesya?" Mostkoff | b. 13 Apr 1946 [C] | Dau. Luis & Chelo; may hold family information (Philip) |
+| B19 | Pola "Pesele" Mostkoff (Bierzwinski) | b. 13 Apr 1946 [C] | Dau. Luis & Chelo; m. Jaime Bierzwinski 18 Dec 1965 [C]; may hold family information (Philip) |
 | B20 | Isidoro "Lazaro?" Mostkoff | b. 26 Mar 1950 [C] | S. Luis & Chelo |
-| B21 | Aida "Ida?" Mostkoff | b. 31 Mar 1957 [C] | Youngest dau. Luis & Chelo |
+| B21 | Aida "Hinde" Mostkoff | b. 31 Mar 1957 [C] | Youngest dau. Luis & Chelo; Hebrew name Hinde [C] |
 | B22 | Ignacio Mostkoff Nudelman | b. ~1938 [L] · d. 15 Mar 2013 [C] | S. Abram [L]; m. Bella; structure vs. memoir — CF-20 |
 | B23 | Louise Mostkoff | — | Dau. of Isadore Mostkoff (B05) [L], Rosedale MS |
 | B24 | Etl Mostkoff (Reznik) | — | Sister of Israel (memoir); Urechye; m. Samuil Reznik |
@@ -73,7 +84,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | C03 | Avraham Nakhman Borukovich | alive ≥1932 [C memoir] | Furs/customs specialist; pinkas-1918 death NOT his (CF-13) |
 | C04 | Ary Leib Polak | d. 13 Jan 1895 Slutsk [C] | S. Y' Mikhal Polak; melamed of Talmud Torah |
 | C05 | Tsieta Polak (Basin) | d. 31 Mar 1912 Slutsk [C] | Dau. Y' Mikhal Polak; m. Kalman Osher Basin |
-| C06 | Shifra/Chifra/Sofia Boruchovich (Mostkoff) | b. 1880 Slutsk [C memoir] · d. 1962 Mexico City [C] | Dau. C02/C03; seamstress; m. Israel Mostkoff |
+| C06 | Shifra/Chifra/Sofia Boruchovich (Mostkoff) | b. 1880 Slutsk [C memoir] (obit age → ~1877, CF-31) · d. 24 Sep 1962 Mexico City [C obit] | Dau. C02/C03; seamstress; m. Israel Mostkoff; obit under "Sofía" [C] |
 | C07 | Malka Boruchovich (Kharakh) | — | Dau. C02/C03; Krupskaya Academy; Bobruisk→Vitebsk; m. Faivel; children Misha, Polya |
 | C08 | Faivel Kharakh (Harakh/Charach) | — | M. Malka; Slutsk "town sexton" of the Yizkor chapter (pass 4) |
 | C09 | Beila Borukovich (Yonas) | d. 4 Feb 1919 Slutsk [C] | Dau. of Avraham Barukhovits [C]; m. Shlomo Yonas; probable 4th sibling [L] |
@@ -101,8 +112,11 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | X16 | Movsha Borukhovich | — | Bobruysk records; likely Nakhman's brother [L]; wife Feiga; children Yenta, Iakha, Girsha |
 | X17 | "Navy brother" Borukovich | — | Youngest s. Pesya & Nakhman; ran away to the navy, never returned [C memoir] |
 | X18 | David & Lipke (—?) | — | "Uncle David and Aunt Lipke," hide workers, Bolotnaya St. Slutsk; dau. Luba → Poland [?] |
+| X19 | David Tolmatsky | d. after 1962 | Father of Berta (B13's wife) [C]; widower of Busi (X20); mejutan in Shifra's obit |
+| X20 | Busi Tolmatsky | d. Dec 1958/Jan 1959 [C] | Mother of Berta [C]; obit names "Ydele y Silvita" as granddaughters |
+| X21 | Java Finkler | b. ~1885 Ukraine [L] · d. 20 Nov 1959 [C] | Mother of Rebecca Finkler (A17's wife) [L]; "de Ucrania" |
 
-*Spouses without separate entries (one-liners): Dvora Portnoy (B03) [C]; Annie Frank (B05); Iosef/Iosif Baskin (B11); Berta "Busi" Tolmatsky (B13); David Glassman & Lawrence Padawer (B14); Clara Nudelman & Leonor Esquinazzi (B10); Bella (B22's widow); Samuil Reznik (B24); Genya Borukhovich (dau. of C12). Glatt/Mitelhaus/Jarovinsky clusters (EV-35) get entries in pass 5.*
+*Spouses without separate entries (one-liners): Dvora Portnoy (B03) [C]; Annie Frank (B05); Iosef/Iosif Baskin (B11); Berta "Busi" Tolmatsky (B13 — parents X19/X20); David Glassman & Lawrence Padawer (B14); Clara Nudelman & Leonor Esquinazzi (B10); Bella (B22's widow); Samuil Reznik (B24); Genya Borukhovich (dau. of C12); Emma/Ema (A16); Rebecca Finkler (A17 — mother X21); Elena (A19); Irene née Russek (A20 — dau. of Gabriel Russek); Eugenia (A22); Marcus/Marcos Schwarz (A23 — mother Jane Rivke Schwarz); Isaac Shajne Epelstein (A24 — father Alter Yaacov); Rosa/Reizl (A29); Jaime Bierzwinski (B19); Harry Pepper (B16).*
 
 ## Line A — Borenstein (Kurow, Lublin gubernia, Poland → Mexico City)
 
@@ -118,34 +132,45 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - d. **1925 Warsaw** `[L]` timeline, p. 1; gravestone in the Warsaw Jewish cemetery (cemetery.jewish.org.pl, list c_1) `[C link]` EV-47 — the timeline once writes "1935" for this death (p. 2) — **CF-28**.
 
 ### A03 · Toibe "Touba" Borensztejn (Mitelhaus)
-- b. 1894, Kurow, akta 7 `[C]` EV-32.
-- m. **Rachmeil Mitelhaus** ~1933 `[L]` timeline, p. 2 (Prensa Mitelhaus items queued EV-35).
-- Children `[C timeline, p. 2]`: **Ana Mitelhaus** b. 1934 — Warsaw per most records, Mexico per one (**CF-27**); **Jose Mitelhaus** b. 1937, Mexico.
+- b. 1894, Kurow, akta 7 `[C]` EV-32; d. **23 May 1973, Mexico City, age 79** — obituary "Sra. Vda. Toibe Mitelhaus Borenstein" (exact match to the Kurow birth year) `[C]` EV-73.
+- m. **Rachmeil Mitelhaus** ~1933 `[L]` timeline, p. 2.
+- Children (full set, Prensa 1969/73) `[C]` EV-72/73: **Ana Mitelhaus** b. 1934 — Warsaw per most records, Mexico per one (**CF-27**); m. Fayerman, dau. **Lilia**; **Jose Mitelhaus** b. 1937, d. **10 Jun 1969** `[C]` EV-72; **Dr. Enrique Mitelhaus**; **Sara Mitelhaus**. (Timeline knew only Ana & José.)
+- Buried beside son José, in the plot she chose the day he died `[C]` EV-73.
+- Repeatedly the "Tía Toibe" of Prensa notices (EV-59/60/61) — the surviving sister of the Kurow generation.
 
-### A04 · Rachmeil Mendel "Manuel" Borensztejn (Glatt)
-- b. 1897, Kurow, akta 63 — JRI record name **Mendel** `[C]` EV-32; the timeline's "Rachmeil (confirmed)" + "Mendel/Manuel Glatt" note = one man with the Rachmeil-Mendel double name, later Glatt `[L]` timeline, p. 1 — **CF-16 resolved**.
+### A04 · Mendel "Menahem Mendl/Manuel" Borensztejn (Glatt)
+- b. 1897, Kurow, akta 63 — JRI record name **Mendel** `[C]` EV-32; d. **5 Sep 1965, Mexico City, age 68** — obituary "Menahem Mendl Glatt" `[C]` EV-63 (b. ~1897 ✓).
+- **The Glatt patriarch — CF-16 confirmed by convergence (2026-10-14)**: one man with the Rachmeil-Mendel double name, later Glatt. Evidence: his 1965 obit gives b. ~1897 = the Kurow record; "Fishl y Mane Borenstein (Tíos de la novia)" at his daughter Anita's 1953 engagement (EV-64) — Felipe his brother; "Mendl Glatt" among the "Tíos" at Philip's 1961 bris alongside Toibe Mitelhaus and Víctor Jarovinsky (EV-60); his children appear as Felipe's "Sobrinos" (EV-61) and among Mania's "Sobrinos" (EV-62); Sheindl is Toibe's "Cuñada" (EV-73); grandson Sigui's bar mitzvah names grandfather "**Manuel** Glatt" (EV-66). Why the surname diverges (Borensztejn in Kurow records vs. Glatt from the Bialystok years on) remains open `[?]` — cf. Angela b. 1923 Bialystok as "Glatt."
 - m. **Sophia/Sheindel Chanovesky** (A07) between 1915–22, place unknown `[L]` timeline, p. 1.
-- Dau. **Angela Glatt** b. 1923, Bialystok `[L]` timeline, p. 1 (A08). Glatt cluster: Menahem Mendel Glatt obit 1965 (possibly him — Sheindl still alive 1966), Sigui Glatt Russek "cousin to Joseph/Enrique/Sidney Borenstein" — EV-35 `[?]`.
+- Children `[C]` EV-63/66/67: **Max** (A19), **Lic. Jacobo** (A20), **Benny** (A22), **Angela** (A08, b. 1923 Bialystok), **Sonia** (A23), **Anita** (A24).
+- Funeral rabbis: Rafalón, Avigdor, Hershberg, Rosenbaum, Goldberg `[C]` EV-63.
 
 ### A05 · Fiszel "Fishel/Felipe/Philip" Borenstein (Efraim Fishel; once indexed "Peroim Pizzel")
-- b. 1901, Kurow, akta 42 `[C]` EV-32.
-- m. **Chana Mindel Bauman** (A15) between 1919–25, place unknown `[L]` timeline, p. 1; emigrated to Mexico ~1919–25 (with Chana?) `[?]` timeline, p. 1.
+- b. 1901, Kurow, akta 42 `[C]` EV-32; **d. ~1959/60, Mexico City** — matzevah unveiling 14 Aug 1960 `[C]` EV-61 (death notice itself still unfound); rabbis Rafalón & Goldberg at the unveiling.
+- m. **Chana Mindel Bauman** (A15; the Prensa's "Malke"/"Mania" — CF-30) between 1919–25, place unknown `[L]` timeline, p. 1; emigrated to Mexico ~1919–25 (with Chana?) `[?]` timeline, p. 1.
 - Children, b. Mexico City `[C timeline, p. 1–2]`: **Enrique** 1926 (Henry/Herszel/Hersh/Tvi — A16), **Sidney** 1927 (A17), **Joseph/Jose** 1936 (A18), an unnamed son d. at birth 1942.
 - **May 1934: crossed into Arizona without family — destination/purpose unknown** (open mystery; border-crossing records queued — Ancestry collection 1528, Notes, p. 11) `[?]` timeline, p. 1.
 - **1934/35: Warsaw trip** — Joseph remembers Fishel, Chana, Enrique and Sidney going; family story of "going back to Poland to show off Chana's jewels" `[?]` timeline, pp. 1–2.
 - 1942: "Fishel told of parents' deaths" — but Sara d. 1925; perhaps Saul d. 1942, or Chana's parents, or siblings — check Shoah records `[?]` timeline, p. 2.
-- Unveiling/obituary in Prensa Israelita queued (EV-35).
+- Prensa trail: "Fishl y Malke Borenstein (Padres del novio)" at José's 1959 wedding; "Fishl y Mane Borenstein (Tíos de la novia)" 1953; his own unveiling 1960 (EV-59/61/64).
 
-### A06 · "Tía Mania/Mane" Borenstein — unidentified, likely a sibling of Fishel `[?]`
-- "tia Mania Borenstein" in the Sara Jarovinsky wedding announcement; "Fishl and Mane as uncles of the bride" at the Glatt/Epelstein wedding; "Mane Borenstein" obit queued (all EV-35) — Notes, pp. 7–9.
+### A06 · Mania "Mane/Malke" Borenstein — Felipe's widow and matriarch (corrected 2026-10-14)
+- **Not a sibling of Fishel** (the earlier inference from "Fishl and Mane as uncles of the bride" is corrected): the Prensa shows her consistently as **Felipe's wife** — "(Esposa)" at his 1960 unveiling; "(Abuelita)" at Philip's 1961 bris; her own obituary names Enrique, Dr. Sidney and Dr. José as her sons `[C]` EV-60/61/62.
+- b. ~1902 (67 at death); d. **Sunday 15 Jun 1969, Mexico City**, buried same day; rabbi Rafalón `[C]` EV-62.
+- Printed name variants: **Mania / Mane / Malke** (1953–69) `[C]` — cf. **Chana Mindel Bauman** (A15): almost certainly the same woman (Chana Mindel → Manya), tracked as **CF-30**.
+- Grandchildren at her death: Gerardo, Fernando, Eduardo, Esther, Felipe (Enrique's); Susana, Saúl, Ruth (Sidney's); Edna, Felipe, Shifra (José's) `[C]` EV-62.
+- Her obituary was ordered and administered by Rebeca (Sidney's wife), per the paper's 1969 collection notice `[C]` EV-62.
 
-### A07 · Sophia/Sheindel Chanovesky (Chovesky; Glatt)
-- m. Rachmeil Mendel (A04) between 1915–22 `[L]` timeline, p. 1; alive 1966 ("Teddy Schwartz bar mitzvah — still shows Sheindl Glatt alive") `[C annotation]` EV-35.
+### A07 · Sophia/Sheindel Chanovesky (Chovesky; Glatt) — "Sheine Miriam"
+- m. Menahem Mendl Glatt (A04) between 1915–22 `[L]` timeline, p. 1; the Prensa prints her as **"Sheindl"/"Sheine Miriam"** `[C]` EV-63/65/72.
+- **Née Chanovesky confirmed**: her husband's 1965 obit lists **Zalmen & Dov Chanowsky** (her brothers) and US relatives Sara Cohen / Jack Cohen family `[C]` EV-63.
+- **Alive May 1973, living in Israel** — "(Cuñada-Israel)" in Toibe's obituary `[C]` EV-73 (upgrades "alive 1966").
+- Children: Max, Jacobo, Benny, Angela, Sonia, Anita (see A04).
 
 ### A08 · Angela Glatt (Ringel)
-- b. 1923, Bialystok `[L]` timeline, p. 1; dau. of A04/A07.
-- = "Angela Ringel of Mexico City," mother of Myrna Bilak `[L — obit]` EV-39; m. a Mr. Ringel `[L]`.
-- Children `[C obit EV-39]`: Myrna (A09), Janette (A10), Alfredo (A11).
+- b. 1923, Bialystok `[L]` timeline, p. 1; dau. of A04/A07 — confirmed as "(Hija y yerno)" with Isaac in her father's 1965 obit `[C]` EV-63.
+- m. **Isaac Ringel** `[C]` EV-63/67 (A25; father Bernardo Ringel, the 1953 "consuegro," EV-64).
+- Children `[C]` EV-39/66/67: Myrna (A09), Janette/Jeanette (A10), Alfredo (A11), **Freddie** (A26).
 
 ### A09 · Myrna Bilak (Ringel)
 - b. 4 Feb 1946, Mexico City; d. 4 Sep 2001, Las Vegas `[C]` EV-39; sons Dorian, Olivier, Marcel Bilak; sister Janette Epstein (Marbella), brother Alfredo Ringel (Guadalajara).
@@ -160,10 +185,23 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### A15 · Chana Mindel Bauman (Borenstein)
 - b. ~1903 `[L]` timeline, p. 1; sister **Sura Ita Bauman** b. ~1904 `[L]`.
 - m. Fishel (A05) 1919–25 `[L]`; the 1934/35 Warsaw "showing off Chana's jewels" story `[?]`; her parents unknown — **Herz Bauman** gravestone links (Notes, p. 11) may be her father `[?]`.
+- **Almost certainly = "Mania/Mane/Malke" Borenstein (A06)**, Felipe's widow: the Prensa names Felipe's wife under those variants 1953–69, d. 15 Jun 1969 at 67 (b. ~1902 ≈ Chana Mindel's ~1903) — **CF-30**; if confirmed, merge into A06. No natal relatives of Mania appear in her obit (consistent with the Baumans being outside Mexico).
 
-### A16 · Enrique Borenstein — b. 1926, Mexico City `[C]` timeline, p. 1 (Henry/Herszel/Hersh/Tvi).
-### A17 · Sidney Borenstein — b. 1927, Mexico City `[C]` timeline, p. 1; m. **Rebecca Finkler** `[L — obit/news link]` EV-35; almost certainly the "**Sydney Borenstein Bauman**" who was medical certifier on Shifra's 1962 death certificate `[C]` EV-14 (signed with both family surnames).
-### A18 · Joseph "Jose" Borenstein — b. 1936, Mexico City `[C]` timeline, p. 2; m. **Ana Mostkoff Linares** (B17; marriage announcement queued EV-35); children **Philip (Felipe; indexed Felipe Mostkoff / Felipe Mostkoff Borenstein / Felipe M. Borenstein)**, **Edna (Jaye; indexed Edna or Jaye, switched between indexes)**, and **Shifra** — Philip & Edna per Genealogy draft, p. 2; Shifra per Philip `[C — 2026-10-13]` (living; names only). Philip's bris announcement queued (EV-35).
+### A16 · Enrique Borenstein — b. 1926, Mexico City `[C]` timeline, p. 1 (Henry/Herszel/Hersh/Tvi). m. **Emma/Ema** `[C]` EV-60/62. Children `[C]` EV-62: **Gerardo, Fernando, Eduardo, Esther, Felipe**.
+### A17 · Sidney Borenstein — b. 1927, Mexico City `[C]` timeline, p. 1; m. **Rebecca Finkler** `[C]` EV-59/62 ("Dr. Sidney y Rebeca"); children `[C]` EV-62: **Susana, Saúl, Ruth**. Rebecca's mother **Java Finkler** d. 1959 (X21, EV-71); Rebecca administered Mania's 1969 obituary `[C]` EV-62. Almost certainly the "**Sydney Borenstein Bauman**" who was medical certifier on Shifra's 1962 death certificate `[C]` EV-14 (signed with both family surnames).
+### A18 · Joseph "Jose" Borenstein — b. 1936, Mexico City `[C]` timeline, p. 2; m. **Ana Mostkoff Linares** (B17) **15 Mar 1959, Centro Deportivo Israelita** `[C]` EV-59; in the US June 1969 (José Mitelhaus's obit) `[C]` EV-72; children **Philip (Felipe; indexed Felipe Mostkoff / Felipe Mostkoff Borenstein / Felipe M. Borenstein)**, **Edna (Jaye; indexed Edna or Jaye, switched between indexes)**, and **Shifra** — Philip & Edna per Genealogy draft, p. 2; Shifra per Philip `[C — 2026-10-13]` (living; names only). Philip's bris (as **Fishl**) 9 Jan 1961, mohel David Klipp `[C]` EV-60; "Edna y Fishele" greet Shifra's 1962 obit `[C]` EV-68.
+
+### A19 · Max Glatt — s. of A04/A07 `[C]` EV-63; m. **Elena**; padrino at Elías Epelstein's 1956 bris `[C]` EV-65; daughters **Susy, Nelly, Nancy, Julie** `[C]` EV-66/67. His father's "mejutan" circle (Braun, Ellstein, Rudoy, Port, Gershberg) = the in-law network.
+### A20 · Lic. Jacobo Glatt — s. of A04/A07 `[C]` EV-63; m. **Irene Russek** (dau. of Gabriel Russek, the 1953 "consuegro" — EV-64) `[C — structural]` EV-66; sons **Sigui/Shaul (A21), Siggie, Eddie, Carlos** `[C]` EV-66/67.
+### A21 · Sigui "Shaul" Glatt Russek — s. of A20; bar mitzvah 24 Oct 1963, Shul Agudas Ajim (Thursday — both grandfathers are gabaim and avoid Shabbat driving) `[C]` EV-66; the Notes' "cousin to Joseph/Enrique/Sidney Borenstein" ✓ (first cousin once removed via A04).
+### A22 · Benny Glatt — s. of A04/A07 `[C]` EV-63; m. **Eugenia** ("Hegenia"/"Hee" in OCR) `[C]` EV-63/67; later Israel (sobrino "(Israel)" in Toibe's 1973 obit) `[C]` EV-73.
+### A23 · Sonia Glatt (Schwarz) — dau. of A04/A07 `[C]` EV-63; m. **Marcus/Marcos Schwarz** `[C]` EV-63/67; children **Teddy** (bar mitzvah 12 Feb 1966, b. ~1952/53 — already named in EV-66, 1963), **Vivian, Jacqueline** `[C]` EV-66/67; grandmother Jane Rivke Schwarz; Marcos's family linked to Venezuela (mejutanim, EV-63).
+### A24 · Anita/Nejume Glatt (Epelstein) — dau. of A04/A07 `[C]` EV-63; her 1953 engagement notice prints the bride as "**Nejume**" (Nechemá?) with the 1956 bris naming her **Anita** — same couple `[L]` EV-64/65; m. **Isaac Shajne Epelstein** (father Alter Yaacov) 1953 `[C]` EV-64; children **Becky, Alex, Silvia, Mónicque**; son **Elías** b. Aug 1956 (bris 5 Aug 1956, mohel David Klipp) `[C]` EV-65.
+### A25 · Isaac Ringel — m. Angela Glatt (A08) `[C]` EV-63/67; s. of **Bernardo Ringel** (the Glatt family's "consuegro," 1953) `[C]` EV-64; "tío" at the 1953 engagement and 1956 bris; father of Myrna (A09), Janette (A10), Alfredo (A11), Freddie (A26).
+### A26 · Freddie Ringel — s. of Isaac & Angela `[C]` EV-66/67 ("Fredy"/"Freddie," with Myrna and Janet, 1963/1966); no further records yet.
+### A27 · Sara Borenstein (Jarovinsky) — sister of Felipe (A05), Toibe (A03) and Mendel (A04) `[L — structural]`: "Víctor Yarowinski y fam. (Cuñados)" at Felipe's unveiling (EV-61); "Víctor y Sara Yarowinsky" tíos at Philip's bris (EV-60); her daughter's 1964 wedding lists the Borenstein boys as "Primos" and Mania as "Tía" (EV-76). Appears as "Víctor y Sara Jarovinski (Padres de la novia)." Kurow birth record not yet located (A12–A14 candidates?) `[?]`.
+### A28 · Víctor Jarovinsky (Yarowinsky/Jarovinski) — m. Sara Borenstein (A27) `[L]`; the family's pervasive in-law: "tío" at José's 1959 wedding, "cuñado" at Felipe's 1960 unveiling; his son Alberto (A29) m. Rosa/Reizl; daughter Sara m. Abraham 1964 `[C — events]` EV-59/61/76. A second Jarovinsky brother m. **Sheindl Mac** (d. Mar 1970, sister of Keren Hayesod's Aarón Mac) `[?]` EV-75; the Macs appear as "mejutanim" at Mostkoff-Borenstein events EV-59/60/62.
+### A29 · Alberto Jarovinsky — s. of A27/A28; b. ~1932; m. **Rosa/Reizl** `[C]` EV-59/62/76; children **Salomón, Tzipora, Esther** (the 1964 "sobrinos") `[C]` EV-76. **Died with his son Salomón (10) in a road accident on the Acapulco–Iguala highway, Friday 2 Jan 1970**; buried 4 Jan `[C]` EV-74.
 
 ## Line B — Mostkoff (Ostrov/Slutsk, Belarus → Mexico City)
 
@@ -229,7 +267,9 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - Finished seven grades in Slutsk; never studied in Mexico — helped Papa `tania-project (§35)`.
 - Sent for ~1926 ("about a year" after Israel's 1925 departure) `tania-project (§28)`; Mexico immigration card 1926 `[C]` EV-03; "the late **Avram**" in Dora's obit `[C]` EV-34.
 - **Married twice**: first wife two children (**Nokhem and Pesya**), second wife three more children `tania-project (§35)` — vs. the obit-based structure (wives Clara Nudelman then Leonor Esquinazzi; son Ignacio) — **CF-20**.
-- Known wives: **Clara Nudelman**, later **Leonor Esquinazzi** Narrative, p. 12. Known son: **Ignacio Mostkoff Nudelman** (B22) `[L]`.
+- Known wives: **Clara Nudelman**, later **Leonor Esquinazzi** Narrative, p. 12 — **Leonor confirmed by Prensa** ("Abraham y Leonor Mostkoff" as tíos at the 1959 wedding; "(Hijo y nuera)" in Shifra's 1962 obit) `[C]` EV-59/68.
+- Grandchildren named in Shifra's 1962 obit `[C]` EV-68: **Nachman** Mostkoff (listed separately) and **Rubén, Motele y Violeta Mostkoff**; great-granddaughter **Alicia Nudelman** (US, m. Richard) — feeds CF-20 (how do these map onto Ignacio (B22, d. 2013, children Moises/Luba/Clara, sister Alicia)? Note Alicia appears in both records — cf. EV-24).
+- Appears with Leonor at José's 1959 wedding and Alberto Mostkoff's 1959 obit `[C]` EV-59/69.
 
 ### B11 · Tania "Tayba/Tanya/Tatyana (Татьяна)" Mostkova, later Baskin
 - Dau. of Israel & Shifra; b. **June 1911**, Slutsk `tania-project (§35)`; fire memory "7 or 8 years" before/after the revolution → ~1911/12 `Tanya-summary, p. 1`; formally Tatyana (Taiba) **Izrailevna** Mostkova `Tanya-summary, p. 1`.
@@ -249,8 +289,9 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - TM's "child Lyova born 1914" (Narrative, p. 6) is Luis himself `[L]` (CF-08).
 
 ### B13 · Mikhail "Mikhl/Miguel/Miquel" Mostkoff
-- S. Israel & Shifra; b. **November 1917** `tania-project (§35)`; "the late **Miquel**" in Dora's obit `[C]` EV-34; to Mexico Jan 1929; m. **Berta "Busi" Tolmatsky** Narrative, p. 12 (Prensa reference EV-35).
-- Children per memoir: son **Alberto** (d. at 13 of Botkin's disease) and dau. **Silvia** (b. 1956) `tania-project (§35)`.
+- S. Israel & Shifra; b. **November 1917** `tania-project (§35)`; "the late **Miquel**" in Dora's obit `[C]` EV-34; to Mexico Jan 1929; m. **Berta "Busi" Tolmatsky** Narrative, p. 12 — confirmed "Miguel y Bertha Mostkoff" throughout the Prensa `[C]` EV-59/68/69.
+- Berta's parents: **David Tolmatsky (X19)** & **Busi Tolmatsky (X20)** `[C]` EV-68/69/78.
+- Children per memoir: son **Alberto** (d. at 13 of Botkin's disease) and dau. **Silvia** (b. 1956) `tania-project (§35)` — **Alberto's obituary (EV-69)**: d. Saturday **16 May 1959, age 14** (so b. ~1945, not "at 13"), 3rd-year student (Yavne school), buried 17 May; grandmother Shifre + grandfather David Tolmatsky named. Silvia: "Silvita"/"Silvia" in 1959–62 notices `[C]`; a granddaughter **"Ydele"** appears once beside Silvita (EV-78) — unattested elsewhere (d. young? misprint?) `[?]`. A **Furszyfer cousinhood** is implied by "José Furszyfer y fam. (Primos)" at Alberto's obit (EV-69) and the Mostkoff brothers greeting Silvia Furszyfer's 1966 wedding (EV-77) — link unresolved `[?]`.
 
 ### B14 · Dvoira "Dveyra/Dora/Doris" Mostkoff (Glassman; Padawer)
 - Dau. Israel & Shifra; b. **August 1921**, "the year of famine" `tania-project (§35)` — **CF-05 resolved** (obit's "83" is off by ~1; Narrative's "1922" wrong).
@@ -265,18 +306,18 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ### B16–B21 · Children of Luis & Chelo `[C family data]` Narrative, pp. 20–21
 - The six children (civil names): **Lucy, Ana, Moises, Pola, Isidoro, Aida** — corrected spelling & frame per Philip `[C — 2026-10-13]`: the Prensa Israelita reports their **Hebrew names**, which differ from the civil names; **Luis never had a daughter named Shifra** (the memoir's list errs there — CF-23).
-- **B16 Lucy** b. 10 Mar 1939 — born ~9 months *before* the civil marriage license (23 Dec 1939): religious marriage earlier? `[?]` (CF-06). Possible "Lucy Secher" of the Memphis obits `[?]` **CF-15**; Notes, pp. 5–6.
-- **B17 Ana** (memoir: "Shifra"?) b. 29 Dec 1940 — m. **Joseph Borenstein**; children **Philip (Felipe)**, **Edna/Jaye**, and **Shifra Borenstein** `[C — Philip, 2026-10-13]` (living; names only). Marriage announcement queued EV-35. Dau. **Shifra** was named after Ana's grandmother **Shifra Boruchovich** (C06) `[C — Philip, 2026-10-13]`.
-- **B18 Moises** b. 13 Jan 1942.
-- **B19 Pola** (memoir: "Pesya"?) b. 13 Apr 1946 — wedding announcement queued (EV-35); "connect with your sister Pola" (Philip, `[C]` Notes, p. 12).
-- **B20 Isidoro** (earlier extracted as "Isodoro"; memoir: "Lazaro"?) b. 26 Mar 1950.
-- **B21 Aida** (memoir: "Ida"?) b. 31 Mar 1957.
-- Hebrew vs. civil names (CF-23, partially resolved `[C — Philip, 2026-10-13]`): the Prensa Israelita reports the children's **Hebrew names**; the memoir's list errs in including "Shifra" — Luis never had a daughter of that name. Hebrew↔civil mapping (Pesya, Lazaro, Ida, …) pending EV-35 mining.
+- **B16 Lucy** b. 10 Mar 1939 — born ~9 months *before* the civil marriage license (23 Dec 1939): religious marriage earlier? `[?]` (CF-06). **m. Harry Pepper, Memphis** — "Harry y Lucy Pepper (Nietos, Memphis)" in Shifra's 1962 obit `[C]` EV-68; this anchors the Memphis Lucy of the Notes' obit cluster (**CF-15 leaning resolved**: the "Lucy Secher" reading remains unexplained — possibly a first marriage or a garble — but Lucy Mostkoff of Memphis is now documented).
+- **B17 Ana** (Prensa: "**Anita**") b. 29 Dec 1940 — m. **Joseph Borenstein** 15 Mar 1959 `[C]` EV-59 (the paper prints her as "Anita Mostkoff," a profesora); children **Philip (Felipe)**, **Edna/Jaye**, and **Shifra Borenstein** `[C — Philip, 2026-10-13]` (living; names only). Dau. **Shifra** was named after Ana's grandmother **Shifra Boruchovich** (C06) `[C — Philip, 2026-10-13]`.
+- **B18 Moises** b. 13 Jan 1942 (Prensa "Moishe/Moises" ✓ EV-59/60).
+- **B19 Pola** (Prensa Hebrew name "**Pesele**" ✓ EV-59 — CF-23) b. 13 Apr 1946 — **m. Jaime Bierzwinski 18 Dec 1965**, Templo Rab Yehuda Halevi, Mexico City `[C]` EV-70; "connect with your sister Pola" (Philip, `[C]` Notes, p. 12).
+- **B20 Isidoro** (earlier extracted as "Isodoro"; memoir: "Lazaro"?) b. 26 Mar 1950 (Prensa "Isidoro" ✓ EV-60).
+- **B21 Aida** (Prensa Hebrew name "**Hinde**" ✓ EV-59 — CF-23; memoir: "Ida"?) b. 31 Mar 1957.
+- Hebrew vs. civil names (**CF-23 resolved 2026-10-14**): the Prensa prints Hebrew names — **Pesele=Pola, Hinde=Aida, Anita=Ana, Sara/Sarita=Chelo** — and the memoir's list ("Lucy, Shifra, Pesya, Moises, Lazaro, Ida") maps as Lucy=Lucy, Pesya=Pola, Moises=Moises, Ida=Aida, Lazaro=Isidoro `[L]`; its "Shifra" remains an error (no such daughter).
 
 ### B22 · Ignacio Mostkoff Nudelman
 - S. Abram (B10) & Clara Nudelman `[L — surname]`; b. ~1938 (75 at death) `[L]`; d. 15 Mar 2013, Mexico City; buried Panteón Anexo 1 `[C]` EV-24.
 - Widow **Bella Mostkoff**; children Moises, Luba, Clara Mostkoff; sister Alicia Mostkoff `[C]` EV-24.
-- Tension with the memoir's "Nokhem and Pesya + three more" structure for Abram's children — **CF-20**.
+- Tension with the memoir's "Nokhem and Pesya + three more" structure for Abram's children — **CF-20** (now fed by the 1962 obit's grandchildren: Nachman, Rubén, Motele, Violeta — EV-68).
 
 ### B23 · Louise Mostkoff
 - Dau. of Isadore Mostkoff (B05) `[L]`; ran the family clothing store in Rosedale, MS with her half-nephew Skeeter Michael `[C blog]` EV-22.
@@ -338,7 +379,8 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - Seamstress in Slutsk `[C]` EV-04.
 - Left Slutsk end Nov 1928; entered Mexico Jan 1929 `[C]` EV-03.
 - Namesake: her great-granddaughter **Shifra Borenstein** (dau. of Joseph Borenstein & Ana Mostkoff Linares), named after her `[C — Philip, 2026-10-13]`.
-- d. 1962 Mexico City — death cert **26 Sep 1962** `[C]` EV-14 vs. memoir "**August 1962**" `tania-project (§35)` — **CF-21**; buried beside Israel, Panteon Israelita; obituary "Sofia/Chifra Boruchovitz" (image, Narrative, p. 25).
+- d. 1962 Mexico City — death cert **26 Sep 1962** `[C]` EV-14 vs. obituary **"Sofía Mostkoff… Monday 24 Sep 1962, aged 85, buried 25 Sep"** `[C]` EV-68 vs. memoir "**August 1962**" `tania-project (§35)` — **CF-21** (leaning: died 24 Sep, registered 26; obit age → b. ~1877 vs memoir 1880, **CF-31**); buried beside Israel, Panteon Israelita; earlier obituary image "Sofia/Chifra Boruchovitz" (Narrative, p. 25).
+- Her 1962 obituary (EV-68) names the full surviving family: all four children with spouses; grandchildren Jerry Melwyn & Paul Padawer, Nachman, Moisés/Pola/Isidoro/Aida, Silvia, Rubén/Motele/Violeta, Harry & Lucy Pepper; great-grandchildren Alicia & Richard Nudelman, Edna & Fishele Borenstein. The Baskins (USSR) do not appear.
 
 ### C07 · Malka Boruchovich (Kharakh; "Malke")
 - Dau. of Pesya & Nakhman; Shifra's younger sister `tania-project (§§33, 35)`.
@@ -433,4 +475,13 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### X18 · David & Lipke ("Uncle David and Aunt Lipke")
 - Worked with animal hides; Bolotnaya Street, Slutsk; daughter **Luba** left for Poland — "a beauty (she is Khanele's mother, from New York)" `tania-project (§34)`. Which side of the family — unknown `[?]`.
 
-*Leads without entries: **Israel Itskovits "from Baborisk"** d. 19 Feb 1922, buried Slutsk row 31 `Pinkas, p. 30 (entry #219)` — a Bobruisk Itskovits (cf. Movsha Borukhovich of Bobruysk, X16; Shifra's passport birthplace) `[?]`; **1877 Priluki marriage** Min'kov/Supanitskij (EV-48 — Sapotnitsky-name lead); **Gravestone 17** — Yechiel Michel s. Aryeh, d. 10 Nov 1867, Slutsk (EV-49 — unplaced); **Glatt/Epelstein/Jarovinsky/Mitelhaus cluster** (Prensa Israelita queue, EV-35 — resolved in pass 5); **Secher/Pepper obit cluster** (Notes, pp. 5–6 — CF-15); **Rebeca Rubinstein de Bornstein** obit 2014 (Notes, p. 15 `[?]`); **Zaturensky family, Nesvizh 1851 revision list** (EV-36); **Herz Bauman** Warsaw cemetery links (Notes, p. 11 — pass 5); **Alberto Moskoff obit** (Notes, p. 7); **Boruchovich genealogy site** (maloratsky-vinitsky, Notes, p. 18); **Myrna Bilak obit 2001** (EV-39 — Angela Glatt line, pass 5); pinkas **#870 Chaya-Henya Itskovits** (EV-43 — grandmother-Khaya candidate, CF-17); **Dveira Ostrovskaya** (teacher near Minsk — the sweetheart's sister, NOT family `tania-project (§31)`).*
+### X19 · David Tolmatsky — father of Berta (B13's wife)
+- "David Tolmatsky (Abuelito)" in Alberto Mostkoff's 1959 obit `[C]` EV-69; "David Tolmatsky (Esposo)" in Busi's obit `[C]` EV-78; mejután in Shifra's 1962 obit `[C]` EV-68; alive 1962, predeceased by Busi.
+
+### X20 · Busi Tolmatsky — mother of Berta
+- d. a Sunday in late Dec 1958/early Jan 1959 (day digit illegible in OCR) `[C]` EV-78; "Miguel y Bertha Mostkoff (Hija y yerno)"; granddaughters "Ydele y Silvita" — see B13 for the Ydele question `[?]`.
+
+### X21 · Java Finkler — mother of Rebecca Finkler (A17's wife)
+- d. Friday 20 Nov 1959, age 74 (b. ~1885), "de Ucrania" `[C]` EV-71; the mourning families "Finkler, Rubinstein, Lerner y Borenstein"; Dr. Sidney y Rebeca Borenstein chief mourners ⇒ mother of Rebecca `[L]`. A **Jaim Finkler** among Mania's 1969 mourners `[C]` EV-62 — Rebecca's father or brother `[?]`.
+
+*Leads without entries: **Felipe Borenstein's own death notice** (~1959/60, Prensa issue unidentified — only his unveiling is in hand, EV-61); **Frida Borenstein m. Kurt Efter 1960** — a different, unrelated Borenstein family (Moishe y Sara Borenstein; brother Abraham — likely the 1964 groom of Sara Jarovinsky, EV-76) `prensa-hits §7.2`; **Israel Itskovits "from Baborisk"** d. 19 Feb 1922, buried Slutsk row 31 `Pinkas, p. 30 (entry #219)` — a Bobruisk Itskovits (cf. Movsha Borukhovich of Bobruysk, X16; Shifra's passport birthplace) `[?]`; **"Leib Minkov"** in the Mostkoffs' Mexico City community 1959 (EV-79 — Sapotnitsky/Min'kovich lead); **1877 Priluki marriage** Min'kov/Supanitskij (EV-48 — Sapotnitsky-name lead); **Gravestone 17** — Yechiel Michel s. Aryeh, d. 10 Nov 1867, Slutsk (EV-49 — unplaced); **Secher** — the one unexplained name in Lucy's Memphis record (CF-15); **Rebeca Rubinstein de Bornstein** obit 2014 (Notes, p. 15 `[?]`); **Zaturensky family, Nesvizh 1851 revision list** (EV-36); **Herz Bauman** Warsaw cemetery links (Notes, p. 11 — pass 5); **Boruchovich genealogy site** (maloratsky-vinitsky, Notes, p. 18); pinkas **#870 Chaya-Henya Itskovits** (EV-43 — grandmother-Khaya candidate, CF-17); **Dveira Ostrovskaya** (teacher near Minsk — the sweetheart's sister, NOT family `tania-project (§31)`).*

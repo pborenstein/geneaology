@@ -57,7 +57,7 @@ Una familia que existía en el archivo como dos nombres en el párrafo más tris
 
 ## Lo que el libro *no* dijo
 
-A veces el silencio es el hallazgo. No hay un solo **Sapotnitsky** en 16,266 actas — ni un solo entierro en Slutsk, jamás, bajo el supuesto apellido de soltera de la abuela Chaya. Eso profundiza el misterio de dónde salió ese apellido (historia para otra entrega), y afila el panorama: su familia, fuera quien fuera, vivió y murió *fuera* de Slutsk. Cerca de Nesvizh, lo más probable. Para allá va la búsqueda.
+A veces el silencio es el hallazgo. No hay un solo **Sapotnitsky** en 16,266 actas — ni un solo entierro en Slutsk, jamás, bajo el supuesto apellido de soltera de la abuela Chaya. Eso profundiza el misterio de dónde salió ese apellido (esa historia es [la siguiente entrega](03-tres-apellidos-para-una-abuela.es.md)), y afila el panorama: su familia, fuera quien fuera, vivió y murió *fuera* de Slutsk. Cerca de Nesvizh, lo más probable. Para allá va la búsqueda.
 
 ---
 

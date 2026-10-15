@@ -57,7 +57,7 @@ A family that existed in the archive as two names in a memoir's saddest paragrap
 
 ## What the book did *not* say
 
-Sometimes silence is the finding. There is not one **Sapotnitsky** in 16,266 entries — not a single burial in Slutsk, ever, under grandmother Chaya's supposed maiden name. That deepens the mystery of where that name came from (a story for another post), and it sharpens the picture: her family, whoever they were, lived and died *outside* Slutsk. Near Nesvizh, most likely. That's where the search goes next.
+Sometimes silence is the finding. There is not one **Sapotnitsky** in 16,266 entries — not a single burial in Slutsk, ever, under grandmother Chaya's supposed maiden name. That deepens the mystery of where that name came from (that story is [the next post](03-three-names-for-one-grandmother.md)), and it sharpens the picture: her family, whoever they were, lived and died *outside* Slutsk. Near Nesvizh, most likely. That's where the search goes next.
 
 ---
 

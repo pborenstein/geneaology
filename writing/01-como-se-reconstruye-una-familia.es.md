@@ -66,7 +66,7 @@ En **octubre de 1941**, los judíos de Slutsk fueron asesinados — casi todos, 
 
 ### La convergencia
 
-En la Ciudad de México, **Joseph Borenstein**, el menor de Felipe y Chana, se casó con **Ana Mostkoff Linares**, la segunda hija de Luis y Chelo (el anuncio de su boda salió en el periódico de la comunidad — lo tenemos en la fila para rescatar). Dos líneas que habían pasado siglos a sesenta kilómetros de distancia en la Zona de Residencia, y cuarenta años rondando los mismos barrios de la Ciudad de México, por fin se unieron.
+En la Ciudad de México, **Joseph Borenstein**, el menor de Felipe y Chana, se casó con **Ana Mostkoff Linares**, la segunda hija de Luis y Chelo (el anuncio de su boda salió en el periódico de la comunidad — y ya está en el archivo: una página de 1959 que nombra a toda la familia, a los padres de ambos, a la abuela, y hasta a la rama de Moscú). Dos líneas que habían pasado siglos a sesenta kilómetros de distancia en la Zona de Residencia, y cuarenta años rondando los mismos barrios de la Ciudad de México, por fin se unieron.
 
 Tuvieron tres hijos: **Philip, Edna Jaye y Shifra** — la última nombrada por su bisabuela **Shifra Boruchovich**, la costurera de Slutsk que llegó a México a los cuarenta y ocho años y murió ahí en 1962.
 

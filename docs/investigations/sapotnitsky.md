@@ -104,3 +104,9 @@ The complete Slutsk Chevra Kadisha register (16,266 entries, 1736–1924) sharpe
 **9. Nesvizh-area records for Chaya herself** — her death/burial is not in Slutsk; pull Nesvizh-region sources (JewishGen Nesvizh pages, NHAB Minsk fond 333 revision lists, any Nesvizh burial register) for a Khaya/Chaya of the right years, wife of Leibe/Leib Mostkov, father Zelik (H1) or a Tsiptsin (CF-10).
 
 *Status: **open**. This document is analysis, not new records — no new people/EV entries were created from it. Updates belong here; record-level finds go to `data/evidence-log.md` with a pointer back.*
+
+---
+
+## Update — 2026-10-14, Prensa Israelita mining (EV-79)
+
+A small but curious datum for the Min'kovich thread: at an unrelated Mexico City wedding greeting (4 Jan 1959), a "**Leib Minkov y Sra.**" appears in the same congratulators' column as "Luis Mostkoff y Fam." (EV-79; also nearby: a Gerson Bercovich). No stated relation — but a **Minkov family existed in the Mostkoffs' own Mexico City community in 1959**, within a decade of Israel's death there. If the 1889 Bobruysk groom "Leizer Zis'man Min'kovich" (EV-10) has descendants who emigrated, this is where they would surface. Cheap follow-up: search Prensa Israelita's run for Minkov/Minkovich notices; cross-check JewishGen Mexico burial registries (Panteón Israelita).
