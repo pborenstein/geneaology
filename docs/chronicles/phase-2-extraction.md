@@ -123,3 +123,13 @@
 **How**: Extraction pass over people.md / evidence-log / pinkas-hits / memoir; every coordinate carries provenance (Wikidata QID + GeoNames ID, cross-checked against the memoir site's own locations table — a dozen independent corroborations). Disambiguation wins: **Ostrov = the shtetl near Slutsk** (the memoir's own words, not Ostrów Mazowiecka); **Kurow = Kurów, Lublin** (archive fond); Dvoretz → Dziatlava-district Dvarets `[L]`. Flagged: a Wikidata-vs-memoir-site discrepancy on Urechye (district + coordinates); Oreitsa/Laseh/Ozdeh deliberately un-geocoded `[?]`. QA note: a from-memory "Saratov" QID turned out to be the South Pole — every QID was verified against returned labels before use.
 
 **Files**: docs/MAPPING-PLAN.md (new) · data/places.md (new) · data/places.geojson · data/places.kml · scripts/places-to-geojson.py (new) · README · DECISIONS.md (DEC-010) · IMPLEMENTATION.md · CONTEXT.
+
+## Entry 17 — Post 04: the Prensa-mining story, EN+ES (2026-10-18)
+
+**What**: Fourth family-facing post — *The Paper That Knew Everyone* / *El periódico que conocía a todos* — telling the EV-35 Prensa Israelita round to the family: the Hebrew-names key (CF-23), the 1959 wedding portrait (incl. the Moscow Baskins' printed greetings), the Mania correction (A06/CF-30), Mendel = Manuel Glatt (CF-16) with the Thursday-gabaim bar mitzvah, Shifra's "Sofía Mostkoff" obit (CF-21/31 dates dance), Toibe's chosen plot (EV-73), and the Leib Minkov sighting (EV-79) as the forward hook from post 03's Sapotnitsky story. Family asks: Felipe's missing death notice, Mania's other name (Bauman?), the Glatt surname residue, "Ydele," family clippings — plus a direct invitation to Pola.
+
+**Why**: Philip picked post 04 from the CONTEXT "next session" candidates; the Prensa round (entry 15) was the series' untold story, and posts 01–03 already promised the newspaper dossier.
+
+**How**: All facts from `data/prensa-hits.md` + `conflicts.md` + `people.md`; four pre-ship inaccuracies caught in fact-check (Linares guests include grandfather Leobardo, not only uncles; Rebeca's balance notice = six weeks post-obit; Chanowskys = named kin, not brothers; bris→obit interval phrasing). Post 03 EN+ES gained forward links in the "wild card" paragraph; README posts table, What's New (2026-10-18), Snapshot count → 4. Housekeeping: stray byte-identical `data/places 2.kml` (Finder duplicate from the mapping session) deleted.
+
+**Files**: writing/04-* (new, EN+ES) · writing/03-* (links) · README · CONTEXT. Commit b7354ce.

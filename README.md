@@ -48,7 +48,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 
 **Source key for citations** (full conventions in [data/people.md](data/people.md)): `Narrative, p. N` · `Notes, p. N` · `Tanya-summary, p. N` · `Genealogy draft, p. N` · `chronicle` / `Slutsk Links` / `MOSTKOFF` / `SUPONITZKY` / `timeline, p. N` — all referring to the same-named PDFs · `tania-project (§N)` = the memoir's English translation · `EV-##` / `CF-##` = the two `data/` logs.
 
-## Snapshot (2026-10-14 — refreshed at each wrap-up)
+## Snapshot (2026-10-18 — refreshed at each wrap-up)
 
 | | |
 |---|---|
