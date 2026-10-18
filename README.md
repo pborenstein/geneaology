@@ -23,13 +23,14 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 | See the plan / phases | [docs/ROADMAP.md](docs/ROADMAP.md) |
 | Find out *why* something is the way it is | [docs/DECISIONS.md](docs/DECISIONS.md) — DEC-001… · [docs/chronicles/](docs/chronicles/) — session-by-session history |
 | Dig into a research theme (e.g. the Sapotnitsky name) | [docs/investigations/](docs/investigations/) — deep dives: corpus inventory + hypotheses + research programs |
-| **Read the family-facing posts** | [writing/](writing/) — blog-style, for cousins, **in English & Spanish (MX)**: 01 project orientation · 02 what the Pinkas revealed · 03 the Sapotnitsky name (EN+ES pairs each). **Written by Z.ai GLM-5.3** (AI-drafted; DEC-009) |
+| **Read the family-facing posts** | [writing/](writing/) — blog-style, for cousins, **in English & Spanish (MX)**: 01 project orientation · 02 what the Pinkas revealed · 03 the Sapotnitsky name · 04 what *Prensa Israelita* revealed (EN+ES pairs each). **Written by Z.ai GLM-5.3** (AI-drafted; DEC-009) |
 | **Put the places on a map** | [data/places.md](data/places.md) — the place gazetteer (42 places, every fact cited) → generated [data/places.geojson](data/places.geojson) / [data/places.kml](data/places.kml): drop into [uMap](https://umap.openstreetmap.fr), geojson.io, QGIS, or Google Earth; each pin lists its people & events. Plan: [docs/MAPPING-PLAN.md](docs/MAPPING-PLAN.md) |
 
 ## What's New
 
 *Newest first. The full session-by-session history lives in [docs/chronicles/](docs/chronicles/); decisions in [docs/DECISIONS.md](docs/DECISIONS.md).*
 
+- **2026-10-18 — Fourth family post** 📰 — *The Paper That Knew Everyone* (EN+ES) tells the story of the *Prensa Israelita* mining round: the Hebrew-names key, the 1959 wedding portrait with Moscow's greetings, the Mania correction, Shifra as "Sofía," Toibe's plot — and the family asks (Felipe's missing death notice, Mania's other name, the Glatt surname, little Ydele, family clippings). Post 03 (EN+ES) now cross-links forward.
 - **2026-10-14 — The family map** 🗺️ — Every place in the corpus is now a gazetteer entry ([data/places.md](data/places.md), 42 places from Slutsk to Mexico City) and a real map layer (`data/places.geojson` / `.kml`) viewable in uMap, QGIS or Google Earth, pins labeled with people & events and their citations. Two old questions settled by the sources themselves: the family's **Ostrov is the shtetl next to Slutsk**, and **Kurow is Kurów in Lublin**. Decisions in [docs/MAPPING-PLAN.md](docs/MAPPING-PLAN.md) (DEC-010).
 - **2026-10-14 — The community paper, mined** 📰 — All 22 queued *Prensa Israelita* notices extracted → EV-59–80 ([data/prensa-hits.md](data/prensa-hits.md)). Headlines: **"Tía Mania" was Felipe's widow, not his sister** (new CF-30); Mendel = Manuel Glatt record-confirmed (CF-16); the Hebrew-vs-civil-names puzzle solved — Pesele=Pola, Hinde=Aida, Anita=Ana, Sara=Chelo (CF-23); Shifra's own obit found ("Sofía Mostkoff," 1962); 11 new people. Third family post live: *Three Names for One Grandmother* (EN+ES).
 - **2026-10-13 — The Pinkas at full scale** 📖 — The entire 2,178-page Slutsk burial register extracted ([data/pinkas-hits.md](data/pinkas-hits.md)): grandmother Chaya is **not** in it — her trail moves to Nesvizh; the Bunin cousin-clan fixed; a fourth Polak child found. The writing series went **bilingual** (EN + ES-MX).
@@ -58,7 +59,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 | **Corpus** | 10 PDFs, 2,265 pp — incl. the **full Slutsk Pinkas** + memoir at tania-project.com + UFDC *Prensa Israelita* images |
 | **Queued research** | Felipe Borenstein's own death notice (~1959/60 issue unidentified) · Phase 4: family outreach (Pola — key to CF-20/CF-30), JRI Kurow/Warsaw, NHAB archive pulls, USA records |
 | **Family input** | Open stream (2026-10-13): Philip — more welcome; ask Pola |
-| **Writing** | 3 family posts in `writing/` (EN+ES pairs each) — bylined Z.ai GLM-5.3 (DEC-009) |
+| **Writing** | 4 family posts in `writing/` (EN+ES pairs each) — bylined Z.ai GLM-5.3 (DEC-009) |
 
 ## Conventions (quick reference)
 

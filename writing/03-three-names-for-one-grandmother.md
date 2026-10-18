@@ -46,6 +46,8 @@ The weak link, and I won't pretend otherwise: **Zaturensky to Sapotnitsky is not
 
 And there is one maddening wild card. Five hundred miles away in Ukraine, in 1877 — twelve years before the Bobruysk wedding — another archive record registers a marriage between a groom named **Min'kov** and a bride named **Supanitskij**. Supanitskij is the *closest phonetic match to Sapotnitsky in the entire corpus*. Two weddings, a decade apart, on opposite ends of the old Pale, each pairing a Min'kov groom with a Sapotnitsky-sounding bride's family. Coincidence is possible. A naming pattern running through one extended clan is at least as plausible. Nobody knows yet.
 
+(A postscript from the pages that followed: in January 1959, in the social column of Mexico City's Jewish newspaper, a "Leib Minkov y Sra." appears just lines away from "Luis Mostkoff y fam." No relation stated — but the investigation is holding the name. The story of that newspaper, and of everything else it knew about this family, is [the next post](04-the-paper-that-knew-everyone.md).)
+
 ## The cousins and the Cohens
 
 One more thread, and it's personal. The memoir says the two Bunin girls who came to live with the Mostkoffs after the 1922 massacre were Chaya's *cousins*. As the last post told it, the girls' grandmother was **Sheina Dvora, born a Tsiptsin** — and Wendy once scribbled the question that hangs over everything: is *Tsiptsin* "perhaps another idiosyncratic spelling of Sapotnisky??"

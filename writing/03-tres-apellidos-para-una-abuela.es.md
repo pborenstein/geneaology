@@ -46,6 +46,8 @@ El eslabón débil, y no voy a fingir lo contrario: **de Zaturensky a Sapotnitsk
 
 Y hay un comodín exasperante. A ochocientos kilómetros de ahí, en Ucrania, en 1877 — doce años antes de la boda de Bobruysk — otro registro de archivo asienta el matrimonio de un novio llamado **Min'kov** y una novia llamada **Supanitskij**. Supanitskij es la *coincidencia fonética más cercana a Sapotnitsky en todo el corpus*. Dos bodas, con una década de separación, en extremos opuestos de la antigua Zona de Residencia, cada una emparejando a un novio Min'kov con una familia de novia con sonido a Sapotnitsky. La coincidencia es posible. Un patrón de nombres atravesando un mismo clan extendido es al menos tan plausible. Nadie lo sabe todavía.
 
+(Posdata de las páginas que siguieron: en enero de 1959, en la columna social del periódico judío de la Ciudad de México, aparecen unos "Leib Minkov y Sra." a pocas líneas de "Luis Mostkoff y fam." Sin parentesco declarado — pero la investigación ya guarda el nombre. La historia de ese periódico, y de todo lo demás que sabía de esta familia, es [la siguiente entrega](04-el-periodico-que-conocia-a-todos.es.md).)
+
 ## Los primos y los cohanim
 
 Un hilo más, y es personal. Las memorias dicen que las dos niñas Bunin que llegaron a vivir con los Mostkoff después de la masacre de 1922 eran *primas* de Chaya. Como contó la entrega anterior, la abuela de las niñas era **Sheina Dvora, nacida Tsiptsin** — y Wendy garabateó una vez la pregunta que planea sobre todo esto: ¿será *Tsiptsin* "otra grafía idiosincrática de Sapotnisky??"
