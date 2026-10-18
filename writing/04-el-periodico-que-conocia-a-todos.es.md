@@ -18,7 +18,7 @@ Dos precauciones mantuvieron honesta la lectura. El texto de máquina desordena 
 
 ## Todos con su otro nombre
 
-La gran trampa del periódico — lo que lo hace a la vez tesoro y peligro — es que imprimía los **nombres hebreos** de la comunidad. No siempre en vez de los nombres civiles, pero sí constantemente al lado, y en los lugares más importantes. Luis Mostkoff aparece en la boda de su hija como "Luis y Sara" — su esposa Chelo bajo su nombre hebreo. Las hermanas de la novia son "Pesele y Hinde" — Pola y Aida. Anita, la novia, es Ana.
+La gran trampa del periódico — lo que lo hace a la vez tesoro y peligro — es que imprimía los **nombres hebreos** de la comunidad. No siempre en vez de los nombres civiles, pero sí constantemente al lado, y en los lugares más importantes. Luis Mostkoff aparece en la boda de su hija como "Luis y Sara" — su esposa bajo su nombre hebreo. Y ella es la muestra más clara de qué tan hondo va el asunto de los nombres. El "Chelo" de la familia es un apodo; su nombre es Consuelo; su nombre hebreo es Sara. El propio periódico usó los tres, dos veces en un mismo año: **Sara** en la boda de 1959, **Chelo** — el apodo mismo — en un aviso funerario dos meses después, **Consuelo** en la berit milá de Philip en 1961, **Sarita** en el aviso de Shifra. Cuatro avisos, tres nombres, una sola mujer. Las hermanas de la novia son "Pesele y Hinde" — Pola y Aida. Anita, la novia, es Ana.
 
 Al principio los avisos parecían hablar de desconocidos. Philip dio la llave — el periódico comunitario reporta los nombres hebreos — y la mina lo comprobó en grupo tras grupo: Fishl por Felipe, Mane o Malke por Mania, Toby por Toibe, Sheine Miriam por Sheindl, Mendl o Manuel por Mendel. Con la llave en la mano, un enigma viejo cayó de golpe. Las memorias de Tania, escritas desde Moscú, habían listado a los hijos de Luis como "Lucy, Shifra, Pesya, Moises, Lazaro, Ida" — una lista en desacuerdo con los seis que la familia conoce: Lucy, Ana, Moises, Pola, Isidoro, Aida. Las dos listas oían a los mismos hijos a través de alfabetos distintos. La Pesya de las memorias es la Pesele del periódico — es la Pola del registro civil; su Ida es la Hinde del periódico — es Aida; su Lazaro es Isidoro. Dos nombres salieron intactos de todas las transcripciones, Lucy y Moises, y una entrada de la lista de las memorias, "Shifra", era sencillamente un error: Luis nunca tuvo una hija con ese nombre. El archivo mantiene el error visible, por principio — pero el misterio ya se acabó.
 
@@ -27,7 +27,7 @@ Al principio los avisos parecían hablar de desconocidos. Philip dio la llave �
 Empecemos por la mejor página. El 15 de marzo de 1959, en el Centro Deportivo Israelita, José Borenstein se casó con Anita Mostkoff — los papás de Philip. El periódico imprimió el aviso la semana siguiente, y es lo más parecido que tiene el archivo a un retrato de toda la familia en un solo día:
 
 - "**Fishl y Malke Borenstein (Padres del novio)**" — Felipe, vivo, con su esposa Mania (de ella va más abajo).
-- "**Luis y Sara Mostkoff (Padres de la novia)**" — Chelo con su nombre hebreo, como siempre.
+- "**Luis y Sara Mostkoff (Padres de la novia)**" — Chelo, de nombre Consuelo, con su nombre hebreo.
 - "**Shifre Mostkoff (Abuelita)**" — la abuela: Shifra Boruchovich, la costurera de Slutsk, impresa como abuela de la novia.
 - Los hermanos de la novia: "**Lucy, Moishe, Pesele y Hinde**".
 - Los tíos: Abraham y Leonor; Miguel y Bertha; Lawrence y Doris desde Memphis —

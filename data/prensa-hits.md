@@ -1,6 +1,6 @@
 # Prensa Israelita Hits — EV-35 Mining Pass (2026-10-14)
 
-Full extraction of the UFDC *Prensa Israelita* queue (EV-35). **Citation convention**: `Prensa, vol NNNNN/img NNNNN (issue date)` = digital image of that volume/page at `ufdc.ufl.edu/AA00065527/{vol}/{img}x`; permanent image file `ufdcimages.uflib.ufl.edu/AA/00/06/55/27/{vol}/{img}.jpg`. OCR text layer used for extraction; page images pulled for verification where mourner-group labels matter (00709/00011, 00525/00010 — OCR column order otherwise followed; labels transcribed as printed, abbreviations expanded in [brackets]). Paper prints **Hebrew/Yiddish given names** alongside or instead of civil names (the CF-23 frame): Ana=Anita, Pola=Pesele, Aida=Hinde, Chelo=Sara/Sarita/Consuelo, Felipe=Fishl, Mania=Mane/Malke, Toibe=Toby, Sheindl=Sheine Miriam, Menahem Mendl=Manuel/Mendl, Miguel=Miguel, Lucy=Lucy. Cross-references: EV-59–EV-80; persons per `data/people.md`.
+Full extraction of the UFDC *Prensa Israelita* queue (EV-35). **Citation convention**: `Prensa, vol NNNNN/img NNNNN (issue date)` = digital image of that volume/page at `ufdc.ufl.edu/AA00065527/{vol}/{img}x`; permanent image file `ufdcimages.uflib.ufl.edu/AA/00/06/55/27/{vol}/{img}.jpg`. OCR text layer used for extraction; page images pulled for verification where mourner-group labels matter (00709/00011, 00525/00010 — OCR column order otherwise followed; labels transcribed as printed, abbreviations expanded in [brackets]). Paper prints **Hebrew/Yiddish given names** alongside or instead of civil names (the CF-23 frame): Ana=Anita, Pola=Pesele, Aida=Hinde, Consuelo (apodo "Chelo" — see B15 note in people.md)=Sara/Sarita, Felipe=Fishl, Mania=Mane/Malke, Toibe=Toby, Sheindl=Sheine Miriam, Menahem Mendl=Manuel/Mendl, Miguel=Miguel, Lucy=Lucy. Cross-references: EV-59–EV-80; persons per `data/people.md`.
 
 Method note: the Notes' `NNNN/NNx` citations do **not** map to image `NN` (image numbering includes front matter); every notice below was relocated by searching the full OCR of its issue. Volumes 00299/00008+10 and 00299/00002 were checked and contain no family notices (generic greetings by Dr. José Borenstein and Luis Mostkoff to unrelated families) — the Notes links there were search passes only.
 
@@ -21,7 +21,7 @@ Method note: the Notes' `NNNN/NNx` citations do **not** map to image `NN` (image
 `Prensa, vol 00294/img 00006 (9 Jan 1961)` — Berit-Mil Monday **9 Jan 1961** of niñito **Fishl Borenstein** (Philip's Hebrew name = Fishl, for grandfather Felipe). Parents **"Dr. José y Ana Borenstein"**.
 - **"Mania Borenstein (Abuelita)"** — Mania = Felipe's widow = the grandmother (A06 corrected; CF-30).
 - Tíos: **Víctor y Sara Yarowinsky y fam.**; **Toibe Mittelhaus e hijos (Tía y primos)**; **"Mendl Glatt y fam."** — Felipe's brother Menahem Mendl Glatt (A04) as great-uncle; Primos: Alberto y Reizl Yarowinsky y fam.
-- **"Luis y Consuelo Mostkoff (Abuelos-Sandik)"**; **"Shifra Mostkoff (Bisabuelita)"** — Shifra alive Jan 1961.
+- **"Luis y Consuelo Mostkoff (Abuelos-Sandik)"** — her civil name, Consuelo (cf. "Sara" EV-59, apodo "Chelo" EV-69, "Sarita" EV-68 — see B15); **"Shifra Mostkoff (Bisabuelita)"** — Shifra alive Jan 1961.
 - Ana's siblings: **Lucy, Moises, Pola, Isidoro y Aida Mostkoff**; **"Edna Borenstein (Hermanita)"**; **Enrique y Emma Borenstein (Padrinos)** — Enrique's wife **Emma**; **Larry y Doris Padawer (Memphis, Tenn.)**.
 - Mohel: David Klipp (also at 1956 Epelstein bris), Hershl Filler.
 
@@ -83,7 +83,7 @@ Method note: the Notes' `NNNN/NNx` citations do **not** map to image `NN` (image
 
 ### 3.2 Obituary of Alberto Mostkoff — EV-69
 `Prensa, vol 00210/img 00012 (May 1959)` — **d. Saturday 16 May 1959, age 14 (b. ~1945)**, 3rd-year secundaria (Yavne school); buried Sunday 17 May. Son of **Miguel y Bertha Mostkoff**; sister **Silvia**; grandparents **Shifre Mostkoff** & **David Tolmatsky**.
-- Tíos: **Abraham y Leonor Mostkoff**; **Lawrence y Doris Padower (Memphis, Tenn.)**; **Luis y Chelo Mostkoff**. Primos: **José Furszyfer y fam.** Mejutanim: Baruj Ashkenazi. (Dora in Memphis by 1959 — B14 line.)
+- Tíos: **Abraham y Leonor Mostkoff**; **Lawrence y Doris Padower (Memphis, Tenn.)**; **Luis y Chelo Mostkoff** — the apodo itself, its only Prensa appearance (cf. "Sara" EV-59, "Consuelo" EV-60). Primos: **José Furszyfer y fam.** Mejutanim: Baruj Ashkenazi. (Dora in Memphis by 1959 — B14 line.)
 
 ### 3.3 Wedding of Pola Mostkoff & Jaime Bierzwinski — EV-70
 `Prensa, vol 00539/img 00008 (28 Dec 1965)` — Saturday **18 Dec 1965**, Templo Rab Yehuda Halevi (Monterrey St.); banquet Hotel María Isabel. "los matrimonios Mostkoff y Bierzwinski" (the parents). Guests: Felipe, Ángel, Alejandro y Leobardo Linares y fam. (B15's family), Miguel Mostkoff, Abraham Mostkoff; mejutanim **Dr. Sidney Borenstein y fam., Mania Borenstein**.

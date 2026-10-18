@@ -18,7 +18,7 @@ Two cautions kept the reading honest. The machine-read text scrambles a two-colu
 
 ## Everyone under their other name
 
-The paper's great trick — what makes it both treasure and trap — is that it printed the community's **Hebrew names**. Not always instead of the civil names, but persistently alongside them, and in the most important places. Luis Mostkoff appears at his daughter's wedding as "Luis y Sara" — his wife Chelo under her Hebrew name. The bride's sisters are "Pesele y Hinde" — Pola and Aida. Anita, the bride, is Ana.
+The paper's great trick — what makes it both treasure and trap — is that it printed the community's **Hebrew names**. Not always instead of the civil names, but persistently alongside them, and in the most important places. Luis Mostkoff appears at his daughter's wedding as "Luis y Sara" — his wife under her Hebrew name. And she is the clearest illustration of how deep the naming runs. The family's "Chelo" is a nickname, an *apodo*; her name is Consuelo; her Hebrew name is Sara. The paper itself used all three, twice within a single year: **Sara** at the 1959 wedding, **Chelo** — the nickname itself — in a death notice two months later, **Consuelo** at Philip's bris in 1961, **Sarita** at Shifra's obituary. Four notices, three names, one woman. The bride's sisters are "Pesele y Hinde" — Pola and Aida. Anita, the bride, is Ana.
 
 At first the notices read like strangers. Philip supplied the key — the community paper reports Hebrew names — and the mining proved it in cluster after cluster: Fishl for Felipe, Mane or Malke for Mania, Toby for Toibe, Sheine Miriam for Sheindl, Mendl or Manuel for Mendel. With the key cut, an old puzzle fell at once. Tania's memoir, writing from Moscow, had listed Luis's children as "Lucy, Shifra, Pesya, Moises, Lazaro, Ida" — a list at odds with the six the family knows: Lucy, Ana, Moises, Pola, Isidoro, Aida. Both lists were hearing the same children through different alphabets. The memoir's Pesya is the paper's Pesele — is the civil registry's Pola; its Ida is the paper's Hinde — is Aida; its Lazaro is Isidoro. Two names survived every transcription untouched, Lucy and Moises, and one entry in the memoir's list, "Shifra," was simply an error: Luis never had a daughter by that name. The archive keeps the error visible, on principle — but the mystery is gone.
 
@@ -27,7 +27,7 @@ At first the notices read like strangers. Philip supplied the key — the commun
 Start with the best page. On 15 March 1959, at the Centro Deportivo Israelita, José Borenstein married Anita Mostkoff — Philip's parents. The paper printed the notice the following week, and it is the closest thing the archive holds to a portrait of the whole family on a single day:
 
 - "**Fishl y Malke Borenstein** (Padres del novio)" — Felipe, alive, with his wife Mania (more on her below).
-- "**Luis y Sara Mostkoff** (Padres de la novia)" — Chelo under her Hebrew name, as always.
+- "**Luis y Sara Mostkoff** (Padres de la novia)" — Chelo, her name Consuelo, under her Hebrew name.
 - "**Shifre Mostkoff (Abuelita)**" — the grandmother: Shifra Boruchovich, the seamstress from Slutsk, printed as grandmother of the bride.
 - The bride's siblings: "**Lucy, Moishe, Pesele y Hinde**."
 - The aunts and uncles: Abraham y Leonor; Miguel y Bertha; Lawrence y Doris all the way from Memphis —

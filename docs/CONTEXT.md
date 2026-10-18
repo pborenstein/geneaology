@@ -23,7 +23,7 @@ last_entry: chronicles/phase-2-extraction.md #17
 - **Posts** (writing/, 4 EN+ES pairs, byline per DEC-009): 01 orientation · 02 Pinkas · 03 Sapotnitsky · 04 the Prensa story. Facts in posts trace only to `data/`; post 04's fact-check pass is documented in chronicle #17.
 - **Places** (DEC-010): `places.md` is the only hand-edited place file; regenerate `places.geojson`/`.kml` with `python3 scripts/places-to-geojson.py`. No coordinate without provenance. Settled: Ostrov = near Slutsk; Kurow = Kurów (Lublin). Open: Urechye has a Wikidata-vs-memoir-site discrepancy; Oreitsa/Laseh/Ozdeh un-geocoded `[?]`.
 - UFDC citable pattern: `ufdcimages.uflib.ufl.edu/AA/00/06/55/27/{vol}/{img}.jpg` + same-path `.txt` OCR; the Notes' `NN/NNx` citations do NOT map to image numbers.
-- Prensa prints Hebrew names (Anita=Ana, Pesele=Pola, Hinde=Aida, Sara=Chelo) — the CF-23 frame, now proven and explained publicly in post 04.
+- Prensa prints Hebrew names (Anita=Ana, Pesele=Pola, Hinde=Aida, Sara=Consuelo "Chelo") — the CF-23 frame, now proven and explained publicly in post 04. NB: "Chelo" is an apodo; her name is Consuelo (B15, Philip 2026-10-18).
 - Big corrections: Israel b. 1880; Nakhman alive ≥1932; Lyubka/Etl = Israel's sisters; Rachmeil=Mendel=Manuel Glatt (CF-16 confirmed); Mania = Felipe's widow (not sibling).
 - The three grandparent-corner mysteries remain open: Sapotnitsky (`docs/investigations/sapotnitsky.md`, program §8–9 incl. Nesvizh + Minkov lead EV-79), CF-20 (Abram's children), CF-30 (Mania/Chana Mindel).
 

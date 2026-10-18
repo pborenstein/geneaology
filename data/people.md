@@ -303,6 +303,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### B15 · Maria Consuelo "Chelo" Linares Lopez
 - b. 7 Aug 1917, Mexico, dau. of **Leobardo Linares** (X06) & **Petra Lopez Fuentes** (X07) `[C "Linares/Lopez data sheet"]` Narrative, p. 20; "a Mexican woman, Chelo" `tania-project (§35)`.
 - m. Luis Mostkoff (B12) — license 23 Dec 1939 Narrative, p. 20.
+- **"Chelo" is an apodo, not her name** — her name is **Consuelo** `[C — Philip, 2026-10-18]`. The Prensa used all three of her names across four notices: **Sara** (Hebrew) at Ana's 1959 wedding (EV-59), **Chelo** — the apodo itself, printed once — in Alberto Mostkoff's 1959 obit (EV-69), **Consuelo** (civil) at Philip's 1961 bris (EV-60), **Sarita** at Shifra's 1962 obit (EV-68).
 
 ### B16–B21 · Children of Luis & Chelo `[C family data]` Narrative, pp. 20–21
 - The six children (civil names): **Lucy, Ana, Moises, Pola, Isidoro, Aida** — corrected spelling & frame per Philip `[C — 2026-10-13]`: the Prensa Israelita reports their **Hebrew names**, which differ from the civil names; **Luis never had a daughter named Shifra** (the memoir's list errs there — CF-23).
@@ -312,7 +313,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - **B19 Pola** (Prensa Hebrew name "**Pesele**" ✓ EV-59 — CF-23) b. 13 Apr 1946 — **m. Jaime Bierzwinski 18 Dec 1965**, Templo Rab Yehuda Halevi, Mexico City `[C]` EV-70; "connect with your sister Pola" (Philip, `[C]` Notes, p. 12).
 - **B20 Isidoro** (earlier extracted as "Isodoro"; memoir: "Lazaro"?) b. 26 Mar 1950 (Prensa "Isidoro" ✓ EV-60).
 - **B21 Aida** (Prensa Hebrew name "**Hinde**" ✓ EV-59 — CF-23; memoir: "Ida"?) b. 31 Mar 1957.
-- Hebrew vs. civil names (**CF-23 resolved 2026-10-14**): the Prensa prints Hebrew names — **Pesele=Pola, Hinde=Aida, Anita=Ana, Sara/Sarita=Chelo** — and the memoir's list ("Lucy, Shifra, Pesya, Moises, Lazaro, Ida") maps as Lucy=Lucy, Pesya=Pola, Moises=Moises, Ida=Aida, Lazaro=Isidoro `[L]`; its "Shifra" remains an error (no such daughter).
+- Hebrew vs. civil names (**CF-23 resolved 2026-10-14**): the Prensa prints Hebrew names — **Pesele=Pola, Hinde=Aida, Anita=Ana, Sara/Sarita=Consuelo (apodo "Chelo" — see B15)** — and the memoir's list ("Lucy, Shifra, Pesya, Moises, Lazaro, Ida") maps as Lucy=Lucy, Pesya=Pola, Moises=Moises, Ida=Aida, Lazaro=Isidoro `[L]`; its "Shifra" remains an error (no such daughter).
 
 ### B22 · Ignacio Mostkoff Nudelman
 - S. Abram (B10) & Clara Nudelman `[L — surname]`; b. ~1938 (75 at death) `[L]`; d. 15 Mar 2013, Mexico City; buried Panteón Anexo 1 `[C]` EV-24.
