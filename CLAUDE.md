@@ -11,6 +11,7 @@ Genealogy research project (not a code project): assembling the Borenstein/Mostk
 
 ## Hard rules
 
+- **No pictograph emoji, anywhere** — no newspaper/map/book-style pictographs in README, docs, `writing/`, `data/`, or commit messages (Philip, 2026-10-18). Check marks (✅ / ✓) are fine; only the "cutesy" pictographs are banned.
 - **Never modify anything in `base-documents/`** — the PDFs are archival sources (DEC-002).
 - `extracted-text/` is derived and regenerable (`pdftotext -layout`); never hand-edit it — regenerate instead.
 - Every new fact gets a **citation** (source PDF + page, URL, or archive fond) and a **confidence mark**: `[C]` confirmed by record, `[L]` likely, `[?]` open question (DEC-003).
