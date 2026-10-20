@@ -13,7 +13,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 | I want to… | Go to |
 |---|---|
 | See where the project stands & what's next | [docs/CONTEXT.md](docs/CONTEXT.md) (hot state, read first) · [docs/IMPLEMENTATION.md](docs/IMPLEMENTATION.md) (phase checklists) |
-| Look up a person (any line, any spelling) | **[data/people.md](data/people.md)** — the deliverable: 91 entries, each with aliases, facts, citations, confidence |
+| Look up a person (any line, any spelling) | **[data/people.md](data/people.md)** — the deliverable: 90 persons (+1 redirect, DEC-012), each with aliases, facts, citations, confidence |
 | **See the family tree visually** | [data/family-tree.md](data/family-tree.md) — 5 Mermaid diagrams (GitHub renders them natively): convergence overview + Lines A/B/C detail |
 | Check a known disagreement between sources | [data/conflicts.md](data/conflicts.md) — every open/resolved conflict (CF-##) |
 | Verify a record (birth, marriage, pinkas, obit, ship…) | [data/evidence-log.md](data/evidence-log.md) — 80 records with archive fonds/URLs (EV-##) |
@@ -30,6 +30,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 
 *Newest first. The full session-by-session history lives in [docs/chronicles/](docs/chronicles/); decisions in [docs/DECISIONS.md](docs/DECISIONS.md).*
 
+- **2026-10-19 — The family answers** — Philip's first family-input round, taken straight into [data/people.md](data/people.md): **CF-30 closed** — Mania was Chana Mindel Bauman (civil name María), and her two entries are merged ([data/conflicts.md](data/conflicts.md); redirect convention DEC-012). **Sara Jarovinsky was Mania's sister**, a Bauman — not Felipe's sister as the Prensa round had inferred; the timeline's "Sura Ita" was simply *Sarita*. "Chelo" is an apodo for Consuelo. Ana → Caddess (m. 1982); Ana and José divorced 1978; José d. March 2026. The [family tree](data/family-tree.md) and [post 04](writing/04-the-paper-that-knew-everyone.md) · [ES](writing/04-el-periodico-que-conocia-a-todos.es.md) corrected, the post with a dated postscript. Also: no pictograph emoji anywhere (DEC-011).
 - **2026-10-18 — Fourth family post** — [*The Paper That Knew Everyone*](writing/04-the-paper-that-knew-everyone.md) · [ES](writing/04-el-periodico-que-conocia-a-todos.es.md) — the story of the *Prensa Israelita* mining round ([data/prensa-hits.md](data/prensa-hits.md)): the Hebrew-names key, the 1959 wedding portrait with Moscow's greetings, the Mania correction, Shifra as "Sofía," Toibe's plot — and the family asks (Felipe's missing death notice, Mania's other name, the Glatt surname, little Ydele, family clippings). [Post 03](writing/03-three-names-for-one-grandmother.md) · [ES](writing/03-tres-apellidos-para-una-abuela.es.md) now cross-links forward.
 - **2026-10-14 — The family map** — Every place in the corpus is now a gazetteer entry ([data/places.md](data/places.md), 42 places from Slutsk to Mexico City) and a real map layer (`data/places.geojson` / `.kml`) viewable in uMap, QGIS or Google Earth, pins labeled with people & events and their citations. Two old questions settled by the sources themselves: the family's **Ostrov is the shtetl next to Slutsk**, and **Kurow is Kurów in Lublin**. Decisions in [docs/MAPPING-PLAN.md](docs/MAPPING-PLAN.md) (DEC-010).
 - **2026-10-14 — The community paper, mined** — All 22 queued *Prensa Israelita* notices extracted → EV-59–80 ([data/prensa-hits.md](data/prensa-hits.md)). Headlines: **"Tía Mania" was Felipe's widow, not his sister** (new CF-30); Mendel = Manuel Glatt record-confirmed (CF-16); the Hebrew-vs-civil-names puzzle solved — Pesele=Pola, Hinde=Aida, Anita=Ana, Sara=Chelo (CF-23); Shifra's own obit found ("Sofía Mostkoff," 1962); 11 new people. Third family post live: [*Three Names for One Grandmother*](writing/03-three-names-for-one-grandmother.md) · [ES](writing/03-tres-apellidos-para-una-abuela.es.md).
@@ -48,23 +49,24 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 
 **Source key for citations** (full conventions in [data/people.md](data/people.md)): `Narrative, p. N` · `Notes, p. N` · `Tanya-summary, p. N` · `Genealogy draft, p. N` · `chronicle` / `Slutsk Links` / `MOSTKOFF` / `SUPONITZKY` / `timeline, p. N` — all referring to the same-named PDFs · `tania-project (§N)` = the memoir's English translation · `EV-##` / `CF-##` = the two `data/` logs.
 
-## Snapshot (2026-10-18 — refreshed at each wrap-up)
+## Snapshot (2026-10-19 — refreshed at each wrap-up)
 
 | | |
 |---|---|
 | **Phase** | 2 (master extraction) **complete** → Phase 3 (tree assembly) next; **place authority done** (gazetteer + map layer, 2026-10-14) |
-| **People index** | 91 people — A01–A29 · B01–B26 · C01–C16 · X01–X21 (X10 unused) |
+| **People index** | 90 distinct persons — A01–A29 · B01–B26 · C01–C16 · X01–X21 (X10 unused; A15 → A06 redirect, DEC-012) |
 | **Places** | 42-entry gazetteer (`data/places.md`), 39 geocoded → `places.geojson`/`.kml` — new 2026-10-14 |
-| **Evidence / conflicts** | EV-01…80 (Prensa Israelita queue **mined** 2026-10-14) · CF-01…31 (9 resolved/leaning/partial) |
+| **Evidence / conflicts** | EV-01…80 (Prensa Israelita queue **mined** 2026-10-14) · CF-01…31 (10 resolved/leaning — **CF-30 closed 2026-10-19** by family input; CF-20 the big open one) |
 | **Corpus** | 10 PDFs, 2,265 pp — incl. the **full Slutsk Pinkas** + memoir at tania-project.com + UFDC *Prensa Israelita* images |
-| **Queued research** | Felipe Borenstein's own death notice (~1959/60 issue unidentified) · Phase 4: family outreach (Pola — key to CF-20/CF-30), JRI Kurow/Warsaw, NHAB archive pulls, USA records |
-| **Family input** | Open stream (2026-10-13): Philip — more welcome; ask Pola |
-| **Writing** | 4 family posts in `writing/` (EN+ES pairs each) — bylined Z.ai GLM-5.3 (DEC-009) |
+| **Queued research** | Felipe Borenstein's own death notice (~1959/60 issue unidentified) · Sara Jarovinsky's death year (absent from Mania's 1969 obit — d. 1964–69?) · Phase 4: Pola (key to CF-20), JRI Kurow/Warsaw, NHAB archive pulls, USA records |
+| **Family input** | **Live stream** (Philip, 2026-10-19): A06/A18/A27/B15/B17 updated, CF-30 closed, A15 merged — more welcome; ask Pola |
+| **Writing** | 4 family posts in `writing/` (EN+ES pairs each) — bylined Z.ai GLM-5.3 (DEC-009); post 04 carries a dated postscript with the family's answers |
 
 ## Conventions (quick reference)
 
 - **Confidence**: `[C]` record-confirmed · `[L]` likely · `[?]` open question (DEC-003).
-- **Citations** on every fact: source + page / URL / archive fond. Never merge same-named people without corroboration — this family recycles names across branches (two Taybas, two Gindas, two Dorises).
+- **Citations** on every fact: source + page / URL / archive fond. Never merge same-named people without corroboration — this family recycles names across branches (two Taybas, two Gindas, two Dorises). When a merge *is* corroborated, the dropped ID becomes a redirect, never reused (DEC-012). Family input is cited `[C — Philip, YYYY-MM-DD]`.
+- **No pictograph emoji** anywhere in the repo (DEC-011); check marks as status markers are fine.
 - Rebuild the text layer with:
   ```sh
   for f in base-documents/*.pdf; do pdftotext -layout "$f" "extracted-text/$(basename "${f%.pdf}").txt"; done

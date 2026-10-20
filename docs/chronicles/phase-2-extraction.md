@@ -133,3 +133,17 @@
 **How**: All facts from `data/prensa-hits.md` + `conflicts.md` + `people.md`; four pre-ship inaccuracies caught in fact-check (Linares guests include grandfather Leobardo, not only uncles; Rebeca's balance notice = six weeks post-obit; Chanowskys = named kin, not brothers; bris→obit interval phrasing). Post 03 EN+ES gained forward links in the "wild card" paragraph; README posts table, What's New (2026-10-18), Snapshot count → 4. Housekeeping: stray byte-identical `data/places 2.kml` (Finder duplicate from the mapping session) deleted.
 
 **Files**: writing/04-* (new, EN+ES) · writing/03-* (links) · README · CONTEXT. Commit b7354ce.
+
+## Entry 18 — Family-input round: CF-30 resolved, A15 merged, Jarovinskys re-anchored (2026-10-18/19)
+
+**What**: Philip's first sustained family-input stream, taken straight into `data/` (all `[C — Philip, 2026-10-19]` unless marked): (1) **"Chelo" is an apodo** — B15's name is Consuelo; the Prensa used Sara / Chelo / Consuelo / Sarita across four notices. (2) **Ana's names** Mostkoff Linares → Borenstein Mostkoff → Borenstein → **Caddess** (m. 2) Hugh N. Caddess, 2 Jan 1982); Ana & José **divorced 1978**. (3) **José's names** Borenstein Bauman / Borenstein / Joseph (Joe); m. 2) Carol Ackerman ~1986 `[L]`; **d. March 2026**. (4) **CF-30 resolved**: Mania / Mañe / Manye = Chana Mindel Bauman = civil María Borenstein — José's legal apellido "Bauman" supplied the surname anchor, Philip's testimony the identity; **A15 merged into A06** (DEC-012). (5) **A27 corrected**: Sara Jarovinsky was **Mania's sister, a Bauman** — not a Borenstein sister of Felipe (the 2026-10-14 structural reading withdrawn; every notice fits the Bauman reading at least as well); the timeline's "Sura Ita" = *Sarita*; Alberto Jarovinsky (A29) is Mania's nephew by blood. Also: pictographs stripped from the README + CLAUDE.md hard rule (DEC-011); What's New entries now link their posts and files.
+
+**Why**: Post 04 asked the family for exactly these things (Mania's other name, the Baumans); Philip answered within a day. Three of the Prensa round's inferences were wrong or incomplete — the record had kept them `[L]`, which is what made them cheap to correct.
+
+**How**: Every change cited to Philip + date; withdrawn readings left visible ("corrected 2026-10-19") in people.md, prensa-hits, evidence-log EV-59/61/62/76, CF-23/CF-30. Tree: the stale "Tía Mania — likely sibling" node (wrong since entry 15) removed; Chana Mindel's A15 node → A06 as Felipe's wife; José d.2026 in all three diagrams; convergence hub "m. 1959 · div. 1978" with both second marriages drawn names-only. Post 04 EN/ES corrected in place (Chelo/Consuelo; Alberto's parentage; the "no natal kin" argument) + a dated **Postscript (19 Oct)** telling the family what they settled.
+
+**Decisions**: DEC-011 (no pictograph emoji), DEC-012 (merged IDs become redirects).
+
+**Open**: Sara Jarovinsky's death year — not visible among Mania's 1969 obit mourners (d. 1964–69, or an OCR miss) `[?]`; Carol Ackerman marriage year `[L]`; Felipe's own death notice (unchanged). Tree still lags the index elsewhere (A07 "alive 1966" → 1973 Israel; A27–A29 not drawn) — a full tree-vs-index refresh is due.
+
+**Files**: data/{people,conflicts,evidence-log,prensa-hits,family-tree}.md · writing/04-* (EN+ES) · README · CLAUDE.md · DECISIONS.md · CONTEXT. Commits 83e6159…f634a04.
