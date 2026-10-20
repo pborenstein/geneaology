@@ -29,14 +29,14 @@ Method note: the Notes' `NNNN/NNx` citations do **not** map to image `NN` (image
 `Prensa, vol 00273/img 00006 (7 Aug 1960, announcement)` + `Prensa, vol 00274/img 00005 (14 Aug 1960, report)` — matzevah unveiling **Sunday 14 Aug 1960, 11 a.m.** → **Felipe d. ~1959/60** (death notice itself not yet located; presumed in an earlier issue).
 - **"Mania Borenstein (Esposa)"**; children: **Enrique y fam.**, **Dr. Sidney y fam.**, **Dr. José y fam.**
 - **"Toibe Mittelhaus e hijos (Hermana y sobrinos)"** — Toibe = Felipe's sister [C, matches Kurow 1894 birth EV-32].
-- **"Víctor Yarowinski y fam. (Cuñados)"** — Víctor m. a Borenstein sister, Sara (A27).
+- **"Víctor Yarowinski y fam. (Cuñados)"** — Víctor m. **Sara Bauman** (A27), Mania's sister: Felipe's cuñado via his wife (corrected 2026-10-19 — not via a Borenstein sister).
 - Sobrinos: **Alberto Yarowinski**, **Max Glatt**, **Eduardo Fayerman**, **Marcos Schwartz**.
 - Mejutanim: Luis Mostkoff, Neftali Rubinstein, Israel Broder, Yoshua Mack, Miguel Mostkoff. Rabbis Rafalón & Goldberg; cantor Vigoda.
 
 ### 1.4 Objetivo: obituary of Mania/Mane Borenstein — EV-62
 `Prensa, vol 00709/img 00011 (21 Jun 1969)` + admin follow-up `Prensa, vol 00715/img 00002 (2 Aug 1969)` — **d. Sunday 15 Jun 1969, age 67 (b. ~1902)**, buried same day; rabbi Rafalón.
 - Children: **Enrique y Ema** (nietos **Gerardo, Fernando, Eduardo, Esther y Felipe**); **Dr. Sidney y Rebeca** (nietos **Susana, Saúl y Ruth**); **Dr. José y Ana** (nietos **Edna, Felipe y Shifra** — "Chifra" in OCR).
-- Sobrinos: **Marcos y Sara Wargh**; **Luis Mostkoff y fam.**; David Lerner; Jaim Finkler; **Isaac y Angela Ringel; Marcos Schwartz; Max Glatt; Lic. Jacobo Glatt; Ben[y] Glatt; Isaac Epelstein; Dr. Enrique Mitelhaus; Ana Fa[y]erman e hija Lilia; Sara Mitelhaus; Alberto y Rosa Jarovinsky; Abraham y Elena Kahan** — the children of BOTH Sheindl Glatt (A07) and Toibe Mitelhaus (A03), i.e. husband's-side nephews; no natal siblings of Mania appear (consistent with all her kin being in the US/unknown — CF-30).
+- Sobrinos: **Marcos y Sara Wargh**; **Luis Mostkoff y fam.**; David Lerner; Jaim Finkler; **Isaac y Angela Ringel; Marcos Schwartz; Max Glatt; Lic. Jacobo Glatt; Ben[y] Glatt; Isaac Epelstein; Dr. Enrique Mitelhaus; Ana Fa[y]erman e hija Lilia; Sara Mitelhaus; Alberto y Rosa Jarovinsky; Abraham y Elena Kahan** — the children of BOTH Sheindl Glatt (A07) and Toibe Mitelhaus (A03), i.e. husband's-side nephews — **plus Alberto Jarovinsky, son of Mania's sister Sara Bauman (A27): a natal-side nephew** `[C — Philip, 2026-10-19]`. No sibling of Mania is visible in the transcribed groups (Sara d. 1964–69, or missed) `[?]`; the earlier "all her kin outside Mexico" reading is withdrawn.
 - Mejutanim: Neftali Rubinstein, Michel Koppe, Aaron Rubinstein, Julio Broder, Sara Broder. Also condoling: Yoshua Mac, C.P. Aaron Mac.
 - Follow-up: "**Se solicita a la señora Rebeca Borenstein**, Circunvalación 75, Bosques de Echegaray" — pay the outstanding balance on the obituary **she ordered** (Rebecca administered the notice; Mania's obit = issue 1020, p. 8).
 
@@ -108,7 +108,7 @@ Method note: the Notes' `NNNN/NNx` citations do **not** map to image `NN` (image
 ### 5.1 Wedding of Sara Jarovinsky & Abraham — EV-76
 `Prensa, vol 00455/img 00002 (18 Apr 1964)` — ceremony Saturday **11 Apr 1964**, Templo Monte Sinaí (Querétaro St.). Bride's parents **"Víctor y Sara Jarovinski"**; groom **Abraham** (surname not printed in the notice body; an "Abraham Borenstein" appears in the greeting column — identity open, likely of the unrelated Moishe/Sara Borenstein family, see §7.2).
 - **"Mania Borenstein (Tía)"**; hermano **Alberto y Rosa Jarovinski**; sobrinos **Salomón, Tzipora y Esther Jarovinski** (Alberto's children).
-- **Primos: Dr. Israel Borenstein, Enrique Borenstein, Dr. José Borenstein y fam.** — the Borenstein boys as the bride's cousins ⇒ the bride's mother Sara = née Borenstein, Felipe's sister (A27) `[L — structural]`.
+- **Primos: Dr. Israel Borenstein, Enrique Borenstein, Dr. José Borenstein y fam.** — first cousins **through their mothers**: the bride's mother Sara = née **Bauman**, Mania's sister (A27) `[C — Philip, 2026-10-19]`. (The 2026-10-14 reading "née Borenstein, Felipe's sister" fit the notice equally — which is why it was only `[L]` — and is withdrawn.)
 
 ### 5.2 Deaths of Alberto & Salomón Jarovinsky — EV-74
 `Prensa, vol 00737/img 00010 (Jan 1970)` — condolence notice: **Alberto Jarovinsky (38) and child Salomón Jarovinsky (10) died Friday 2 Jan 1970 on the Acapulco–Iguala road**; buried Sunday 4 Jan 1970. (Alberto m. Rosa/Reizl — EV-59/62/76; Salomón among the 1964 "sobrinos".)

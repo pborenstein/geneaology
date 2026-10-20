@@ -78,7 +78,7 @@ graph TD
     MA08R --> A11["Alfredo Ringel"]
 
     A05 --- MA0506(("m. ~1919-25"))
-    A06["Chana Mindel 'Mania/Mañe' Bauman<br/>b.~1902/03 · d.1969 (sis. Sura Ita)"] --- MA0506
+    A06["Chana Mindel 'Mania/Mañe' Bauman<br/>b.~1902/03 · d.1969 (sis. Sara 'Sarita' Jarovinsky)"] --- MA0506
     MA0506 --> A16["Enrique<br/>b.1926"]
     MA0506 --> A17["Sidney<br/>b.1927"]
     MA0506 --> A18["Joseph 'Jose/Joe'<br/>b.1936 · d.2026"]
