@@ -8,7 +8,28 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 
 > **This file is the navigation index for the whole repo.** It is refreshed at every session wrap-up (rule in [CLAUDE.md](CLAUDE.md)); if it's out of date, that's a bug.
 
-## Start here — by what you want
+## The family posts
+
+Blog-style updates for cousins, in English and Mexican Spanish — written by **Z.ai GLM-5.3**, the project's AI research agent, from Wendy Cadieux's research and the family's records (DEC-009). Family-only: please keep them in the family.
+
+| # | English | Español | What it tells |
+|---|---|---|---|
+| 01 | [How Do You Rebuild a Family That History Tried to Erase?](writing/01-how-do-you-rebuild-a-family.md) | [¿Cómo se reconstruye una familia que la historia intentó borrar?](writing/01-como-se-reconstruye-una-familia.es.md) | The guided tour — what the project is, how it works, the whole story at 10,000 feet |
+| 02 | [The Book That Remembers Everyone](writing/02-the-book-that-remembers-everyone.md) | [El libro que recuerda a todos](writing/02-el-libro-que-recuerda-a-todos.es.md) | What the Slutsk burial society's 188-year register told us — three mysteries moved |
+| 03 | [Three Names for One Grandmother](writing/03-three-names-for-one-grandmother.md) | [Tres apellidos para una abuela](writing/03-tres-apellidos-para-una-abuela.es.md) | The mystery of grandmother Chaya's surname — Sapotnitsky, Zaturensky, Tsiptsin |
+| 04 | [The Paper That Knew Everyone](writing/04-the-paper-that-knew-everyone.md) | [El periódico que conocía a todos](writing/04-el-periodico-que-conocia-a-todos.es.md) | What *Prensa Israelita* told us — with a postscript carrying the family's answers |
+
+## What's New
+
+*Newest first. The full session-by-session history lives in [docs/chronicles/](docs/chronicles/); decisions in [docs/DECISIONS.md](docs/DECISIONS.md).*
+
+- **2026-10-19 — The family answers** — Philip's first family-input round, taken straight into [data/people.md](data/people.md): **CF-30 closed** — Mania was Chana Mindel Bauman (civil name María), and her two entries are merged ([data/conflicts.md](data/conflicts.md); redirect convention DEC-012). **Sara Jarovinsky was Mania's sister**, a Bauman — not Felipe's sister as the Prensa round had inferred; the timeline's "Sura Ita" was simply *Sarita*. "Chelo" is an apodo for Consuelo. Ana → Caddess (m. 1982); Ana and José divorced 1978; José d. March 2026. The [family tree](data/family-tree.md) and [post 04](writing/04-the-paper-that-knew-everyone.md) · [ES](writing/04-el-periodico-que-conocia-a-todos.es.md) corrected, the post with a dated postscript. Also: no pictograph emoji anywhere (DEC-011).
+- **2026-10-18 — Fourth family post** — [*The Paper That Knew Everyone*](writing/04-the-paper-that-knew-everyone.md) · [ES](writing/04-el-periodico-que-conocia-a-todos.es.md) — the story of the *Prensa Israelita* mining round ([data/prensa-hits.md](data/prensa-hits.md)): the Hebrew-names key, the 1959 wedding portrait with Moscow's greetings, the Mania correction, Shifra as "Sofía," Toibe's plot — and the family asks (Felipe's missing death notice, Mania's other name, the Glatt surname, little Ydele, family clippings). [Post 03](writing/03-three-names-for-one-grandmother.md) · [ES](writing/03-tres-apellidos-para-una-abuela.es.md) now cross-links forward.
+- **2026-10-14 — The family map** — Every place in the corpus is now a gazetteer entry ([data/places.md](data/places.md), 42 places from Slutsk to Mexico City) and a real map layer (`data/places.geojson` / `.kml`) viewable in uMap, QGIS or Google Earth, pins labeled with people & events and their citations. Two old questions settled by the sources themselves: the family's **Ostrov is the shtetl next to Slutsk**, and **Kurow is Kurów in Lublin**. Decisions in [docs/MAPPING-PLAN.md](docs/MAPPING-PLAN.md) (DEC-010).
+- **2026-10-14 — The community paper, mined** — All 22 queued *Prensa Israelita* notices extracted → EV-59–80 ([data/prensa-hits.md](data/prensa-hits.md)). Headlines: **"Tía Mania" was Felipe's widow, not his sister** (new CF-30); Mendel = Manuel Glatt record-confirmed (CF-16); the Hebrew-vs-civil-names puzzle solved — Pesele=Pola, Hinde=Aida, Anita=Ana, Sara=Chelo (CF-23); Shifra's own obit found ("Sofía Mostkoff," 1962); 11 new people. Third family post live: [*Three Names for One Grandmother*](writing/03-three-names-for-one-grandmother.md) · [ES](writing/03-tres-apellidos-para-una-abuela.es.md).
+- **2026-10-13 — The Pinkas at full scale** — The entire 2,178-page Slutsk burial register extracted ([data/pinkas-hits.md](data/pinkas-hits.md)): grandmother Chaya is **not** in it — her trail moves to Nesvizh; the Bunin cousin-clan fixed; a fourth Polak child found. The writing series went **bilingual** (EN + ES-MX) — [writing/](writing/).
+
+## Orientation — by what you want
 
 | I want to… | Go to |
 |---|---|
@@ -23,18 +44,7 @@ Building a solid, well-sourced genealogy of the **Borenstein/Mostkoff family** �
 | See the plan / phases | [docs/ROADMAP.md](docs/ROADMAP.md) |
 | Find out *why* something is the way it is | [docs/DECISIONS.md](docs/DECISIONS.md) — DEC-001… · [docs/chronicles/](docs/chronicles/) — session-by-session history |
 | Dig into a research theme (e.g. the Sapotnitsky name) | [docs/investigations/](docs/investigations/) — deep dives: corpus inventory + hypotheses + research programs |
-| **Read the family-facing posts** | [writing/](writing/) — blog-style, for cousins, **in English & Spanish (MX)**: 01 project orientation · 02 what the Pinkas revealed · 03 the Sapotnitsky name · 04 what *Prensa Israelita* revealed (EN+ES pairs each). **Written by Z.ai GLM-5.3** (AI-drafted; DEC-009) |
 | **Put the places on a map** | [data/places.md](data/places.md) — the place gazetteer (42 places, every fact cited) → generated [data/places.geojson](data/places.geojson) / [data/places.kml](data/places.kml): drop into [uMap](https://umap.openstreetmap.fr), geojson.io, QGIS, or Google Earth; each pin lists its people & events. Plan: [docs/MAPPING-PLAN.md](docs/MAPPING-PLAN.md) |
-
-## What's New
-
-*Newest first. The full session-by-session history lives in [docs/chronicles/](docs/chronicles/); decisions in [docs/DECISIONS.md](docs/DECISIONS.md).*
-
-- **2026-10-19 — The family answers** — Philip's first family-input round, taken straight into [data/people.md](data/people.md): **CF-30 closed** — Mania was Chana Mindel Bauman (civil name María), and her two entries are merged ([data/conflicts.md](data/conflicts.md); redirect convention DEC-012). **Sara Jarovinsky was Mania's sister**, a Bauman — not Felipe's sister as the Prensa round had inferred; the timeline's "Sura Ita" was simply *Sarita*. "Chelo" is an apodo for Consuelo. Ana → Caddess (m. 1982); Ana and José divorced 1978; José d. March 2026. The [family tree](data/family-tree.md) and [post 04](writing/04-the-paper-that-knew-everyone.md) · [ES](writing/04-el-periodico-que-conocia-a-todos.es.md) corrected, the post with a dated postscript. Also: no pictograph emoji anywhere (DEC-011).
-- **2026-10-18 — Fourth family post** — [*The Paper That Knew Everyone*](writing/04-the-paper-that-knew-everyone.md) · [ES](writing/04-el-periodico-que-conocia-a-todos.es.md) — the story of the *Prensa Israelita* mining round ([data/prensa-hits.md](data/prensa-hits.md)): the Hebrew-names key, the 1959 wedding portrait with Moscow's greetings, the Mania correction, Shifra as "Sofía," Toibe's plot — and the family asks (Felipe's missing death notice, Mania's other name, the Glatt surname, little Ydele, family clippings). [Post 03](writing/03-three-names-for-one-grandmother.md) · [ES](writing/03-tres-apellidos-para-una-abuela.es.md) now cross-links forward.
-- **2026-10-14 — The family map** — Every place in the corpus is now a gazetteer entry ([data/places.md](data/places.md), 42 places from Slutsk to Mexico City) and a real map layer (`data/places.geojson` / `.kml`) viewable in uMap, QGIS or Google Earth, pins labeled with people & events and their citations. Two old questions settled by the sources themselves: the family's **Ostrov is the shtetl next to Slutsk**, and **Kurow is Kurów in Lublin**. Decisions in [docs/MAPPING-PLAN.md](docs/MAPPING-PLAN.md) (DEC-010).
-- **2026-10-14 — The community paper, mined** — All 22 queued *Prensa Israelita* notices extracted → EV-59–80 ([data/prensa-hits.md](data/prensa-hits.md)). Headlines: **"Tía Mania" was Felipe's widow, not his sister** (new CF-30); Mendel = Manuel Glatt record-confirmed (CF-16); the Hebrew-vs-civil-names puzzle solved — Pesele=Pola, Hinde=Aida, Anita=Ana, Sara=Chelo (CF-23); Shifra's own obit found ("Sofía Mostkoff," 1962); 11 new people. Third family post live: [*Three Names for One Grandmother*](writing/03-three-names-for-one-grandmother.md) · [ES](writing/03-tres-apellidos-para-una-abuela.es.md).
-- **2026-10-13 — The Pinkas at full scale** — The entire 2,178-page Slutsk burial register extracted ([data/pinkas-hits.md](data/pinkas-hits.md)): grandmother Chaya is **not** in it — her trail moves to Nesvizh; the Bunin cousin-clan fixed; a fourth Polak child found. The writing series went **bilingual** (EN + ES-MX) — [writing/](writing/).
 
 ## Repository map
 
