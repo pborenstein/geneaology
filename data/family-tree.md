@@ -18,9 +18,9 @@ graph TD
     A02["Sura Brandla Ajzenszmidt<br/>b.~1879 · d.1925 Warsaw"] --- MA0102
     MA0102 --> A05["Fishel 'Felipe' Borenstein<br/>b.1901 Kurow · d. Mexico"]
 
-    A05 --- MA0515(("m. ~1919-25"))
-    A15["Chana Mindel Bauman<br/>b.~1903"] --- MA0515
-    MA0515 --> A18["Joseph 'Jose' Borenstein<br/>b.1936 Mexico City"]
+    A05 --- MA0506(("m. ~1919-25"))
+    A06["Chana Mindel 'Mania' Bauman<br/>b.~1902/03 · d.1969 Mexico City"] --- MA0506
+    MA0506 --> A18["Joseph 'Jose/Joe' Borenstein<br/>b.1936 Mexico City · d.2026"]
 
     B01["Aryeh Leib 'Leibe' Mostkoff<br/>b.~1855-60 · d.by 1914"] --- MB0102(("m. ~1875-76"))
     B02["Chaya (Sapotnitsky?)<br/>b.~1855-60 · d.Slutsk ?"] --- MB0102
@@ -39,11 +39,13 @@ graph TD
     B15["Chelo Linares Lopez<br/>b.1917 Mexico"] --- MB1215
     MB1215 --> B17["Ana Mostkoff Linares<br/>b.1940 Mexico City"]
 
-    A18 --- MA1817(("m. Mexico City"))
+    A18 --- MA1817(("m. 1959 · div. 1978"))
     B17 --- MA1817
     MA1817 --> PHILIP["Philip (Felipe) Borenstein"]
     MA1817 --> EDNA["Edna / Jaye Borenstein"]
     MA1817 --> SHIFRA["Shifra Borenstein"]
+    B17 ---|"2nd m. 1982"| CADDESS["Hugh N. Caddess"]
+    A18 ---|"2nd m. ~1986"| ACKERMAN["Carol Ackerman"]
 
     style B02 stroke-dasharray:5 4
     style C01 stroke-dasharray:5 4
@@ -61,7 +63,6 @@ graph TD
     MA0102 --> A14["Necha?<br/>b.1895?"]
     MA0102 --> A04["Rachmeil-Mendel 'Manuel Glatt'<br/>b.1897 [C]"]
     MA0102 --> A05["Fishel 'Felipe'<br/>b.1901 [C]"]
-    A01 -.-> A06["'Tía Mania/Mane' Borenstein?<br/>likely sibling [?]"]
 
     A03 --- MA03M(("m. ~1933"))
     MITEL["Rachmeil Mitelhaus"] --- MA03M
@@ -76,17 +77,16 @@ graph TD
     MA08R --> A10["Janette Epstein"]
     MA08R --> A11["Alfredo Ringel"]
 
-    A05 --- MA0515(("m. ~1919-25"))
-    A15["Chana Mindel Bauman<br/>b.~1903 (sis. Sura Ita)"] --- MA0515
-    MA0515 --> A16["Enrique<br/>b.1926"]
-    MA0515 --> A17["Sidney<br/>b.1927"]
-    MA0515 --> A18["Joseph 'Jose'<br/>b.1936"]
+    A05 --- MA0506(("m. ~1919-25"))
+    A06["Chana Mindel 'Mania/Mañe' Bauman<br/>b.~1902/03 · d.1969 (sis. Sura Ita)"] --- MA0506
+    MA0506 --> A16["Enrique<br/>b.1926"]
+    MA0506 --> A17["Sidney<br/>b.1927"]
+    MA0506 --> A18["Joseph 'Jose/Joe'<br/>b.1936 · d.2026"]
     A17 ---|"m."| FINKLER["Rebecca Finkler"]
 
     style A12 stroke-dasharray:5 4
     style A13 stroke-dasharray:5 4
     style A14 stroke-dasharray:5 4
-    style A06 stroke-dasharray:5 4
     style ANAM stroke-dasharray:5 4
 ```
 
@@ -173,7 +173,7 @@ graph TD
     MB1215 --> B20["Isidoro<br/>b.1950"]
     MB1215 --> B21["Aida<br/>b.1957"]
 
-    A18["Joseph Borenstein b.1936"] --- MA1817(("m."))
+    A18["Joseph 'Jose/Joe' Borenstein<br/>b.1936 · d.2026"] --- MA1817(("m. 1959 · div. 1978"))
     B17 --- MA1817
     MA1817 --> PHILIP["Philip (Felipe)"]
     MA1817 --> EDNA["Edna / Jaye"]
