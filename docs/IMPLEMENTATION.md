@@ -8,8 +8,8 @@
 |---|---|---|---|
 | 1 | Source survey & project setup | ✅ Complete (2026-10-05) | chronicles/phase-1-survey.md |
 | 2 | Master extraction (person/fact index) | ✅ Complete (2026-10-10); Pinkas + Prensa passes added 2026-10-13/14 | chronicles/phase-2-extraction.md |
-| 3 | Tree assembly (GEDCOM + charts) | In progress — place authority done (2026-10-14); GEDCOM tooling pending | chronicles/phase-2-extraction.md #16 |
-| 4 | Targeted research (mysteries & records) | In progress — Prensa mined (2026-10-14); family-input stream live (2026-10-19) | chronicles/phase-2-extraction.md #15, #18 |
+| 3 | Tree assembly (GEDCOM + charts) | In progress — place authority (2026-10-14) + tree refresh (2026-10-27) done; **GEDCOM deferred** (2026-10-27) | chronicles/phase-2-extraction.md #16, #19 |
+| 4 | Targeted research (mysteries & records) | In progress — Prensa mined (2026-10-14); family-input stream live (Philip 2026-10-19; **Ana's round 2026-10-27**) | chronicles/phase-2-extraction.md #15, #18, #19 |
 | 5 | Publication | Not started | — |
 
 ## Phase 1: Source survey & project setup ✅
@@ -38,11 +38,11 @@ Plan of attack (details in ROADMAP.md):
 
 ## Phase 3: Tree assembly (high level)
 
-Decide GEDCOM tooling (Gramps?) → load reconciled people → resolve conflicts → charts + regenerated GEDCOM → updated overview. **Place authority: done 2026-10-14** (`data/places.md` gazetteer + generated `places.geojson`/`.kml`, DEC-010 — see docs/MAPPING-PLAN.md for the deferred migration-route layer, Leaflet family map, and GEDCOM place strings). **Conflicts**: CF-30 resolved 2026-10-19 by family input (A15 merged into A06 — DEC-012); CF-20 (Abram's children) is the big open one. **Tree**: `data/family-tree.md` lags the index (A07 dates, A27–A29 undrawn) — refresh due before any GEDCOM load.
+Decide GEDCOM tooling (Gramps?) → load reconciled people → resolve conflicts → charts + regenerated GEDCOM → updated overview. **Place authority: done 2026-10-14** (`data/places.md` gazetteer + generated `places.geojson`/`.kml`, DEC-010 — see docs/MAPPING-PLAN.md for the deferred migration-route layer, Leaflet family map, and GEDCOM place strings). **Tree: regenerated against the index 2026-10-27** (Bauman grandparents A30/A31 + the Jarovinsky branch drawn; all flagged lags cleared; mermaid compile-checked — see entry #19). **GEDCOM load: deferred until further notice** (Philip, 2026-10-27 — "not crucial right now"). **Conflicts**: CF-30 resolved 2026-10-19 (A15 merged into A06 — DEC-012); CF-02 & CF-21 resolved 2026-10-27 (Ana's round); CF-20 (Abram's children) is the big open one.
 
 ## Phase 4: Targeted research (high level)
 
-Priority order: ~~UFDC Prensa Israelita links~~ **✅ mined 2026-10-14** (EV-59–80, `data/prensa-hits.md`; residue: Felipe Borenstein's own death notice ~1959/60) → family outreach — **stream live 2026-10-19** (Philip: A06/A18/A27/B15/B17 updated, CF-30 closed; still to chase: Pola for CF-20, Sara Jarovinsky's death year, the memoir, old trees) → JRI-Poland Kurow/Warsaw → Minsk archive pull (1889 marriage) → USA records (Arizona crossing, Mississippi/Memphis) → Shoah databases. Mystery list maintained in FAMILY-OVERVIEW.md.
+Priority order: ~~UFDC Prensa Israelita links~~ **✅ mined 2026-10-14** (EV-59–80, `data/prensa-hits.md`) → family outreach — **stream live** (Philip 2026-10-19, CF-30 closed; **Ana Caddess 2026-10-27**: Felipe d. 23 Aug 1959, Bauman grandparents found, CF-02/21 closed — entry #19; still to chase: **Pola for CF-20**, Sara Jarovinsky's death year, **Luis & Consuelo death dates**, **who was Avram Bromberg**, Felipe's printed death notice — now narrowed to the late-Aug/early-Sep 1959 issues) → JRI-Poland Kurow/Warsaw (incl. Bauman/Warsaw-cemetery gravestones) → Minsk archive pull (1889 marriage) → USA records (Arizona crossing, Mississippi/Memphis) → Shoah databases. Mystery list maintained in FAMILY-OVERVIEW.md.
 
 ## Phase 5: Publication (high level)
 
