@@ -1,6 +1,6 @@
 # Family Tree — Borenstein/Mostkoff/Polak
 
-*Generated 2026-10-10 from `data/people.md` (all five extraction passes). Rendered natively by GitHub (Mermaid). Every node maps to a person ID in `data/people.md` — that file carries the citations and confidence marks; this one carries the shape.*
+*Regenerated 2026-10-27 from `data/people.md` (through the Pinkas + Prensa passes and the 2026-10-27 Ana Caddess family-input batch). Rendered natively by GitHub (Mermaid). Every node maps to a person ID in `data/people.md` — that file carries the citations and confidence marks; this one carries the shape.*
 
 **Legend**
 
@@ -16,14 +16,18 @@
 graph TD
     A01["Szol Kelman Borensztejn<br/>b.~1870 Kurow"] --- MA0102(("m. 1890 Kurow"))
     A02["Sura Brandla Ajzenszmidt<br/>b.~1879 · d.1925 Warsaw"] --- MA0102
-    MA0102 --> A05["Fishel 'Felipe' Borenstein<br/>b.1901 Kurow · d. Mexico"]
+    MA0102 --> A05["Fishel 'Felipe' Borenstein<br/>b.1901 Kurow · d.1959 Mexico City"]
+
+    A30["Zvi Bauman (Herz?)<br/>Chlodna 38, Warsaw"] --- MA3031(("m."))
+    A31["Shoshanah Bauman<br/>Chlodna 38, Warsaw"] --- MA3031
+    MA3031 --> A06["Chana Mindel 'Mania' Bauman<br/>b.~1902/03 · d.1969 Mexico City"]
 
     A05 --- MA0506(("m. ~1919-25"))
-    A06["Chana Mindel 'Mania' Bauman<br/>b.~1902/03 · d.1969 Mexico City"] --- MA0506
+    A06 --- MA0506
     MA0506 --> A18["Joseph 'Jose/Joe' Borenstein<br/>b.1936 Mexico City · d.2026"]
 
     B01["Aryeh Leib 'Leibe' Mostkoff<br/>b.~1855-60 · d.by 1914"] --- MB0102(("m. ~1875-76"))
-    B02["Chaya (Sapotnitsky?)<br/>b.~1855-60 · d.Slutsk ?"] --- MB0102
+    B02["Chaya (Sapotnitsky?)<br/>b.~1855-60 · d.? near Nesvizh?"] --- MB0102
     MB0102 --> B04["Israel Mostkoff<br/>b.1880 Ostrov · d.1957 Mexico City"]
 
     C01["Y' Mikhal Polak<br/>b.~1840s Minsk?"] --> C02["Pesheh Polak<br/>d.1922 Slutsk"]
@@ -67,22 +71,40 @@ graph TD
     A03 --- MA03M(("m. ~1933"))
     MITEL["Rachmeil Mitelhaus"] --- MA03M
     MA03M --> ANAM["Ana Mitelhaus<br/>b.1934 Warsaw? Mexico?"]
-    MA03M --> JOSEM["Jose Mitelhaus<br/>b.1937 Mexico"]
+    MA03M --> JOSEM["Jose Mitelhaus<br/>b.1937 Mexico · d.1969"]
+    MA03M --> ENRIQM["Dr. Enrique Mitelhaus"]
+    MA03M --> SARAM["Sara Mitelhaus"]
 
     A04 --- MA0407(("m. 1915-22"))
-    A07["Sophia/Sheindel Chanovesky<br/>alive 1966"] --- MA0407
+    A07["Sophia/Sheindel Chanovesky<br/>alive May 1973 · Israel"] --- MA0407
     MA0407 --> A08["Angela Glatt = Angela Ringel<br/>b.1923 Bialystok"]
+    MA0407 --> A19["Max Glatt"]
+    MA0407 --> A20["Lic. Jacobo Glatt"]
+    MA0407 --> A22["Benny Glatt · later Israel"]
+    MA0407 --> A23["Sonia (m. Schwarz)"]
+    MA0407 --> A24["Anita (m. Epelstein)"]
     A08 --- MA08R(("m. Ringel"))
     MA08R --> A09["Myrna Bilak<br/>1946-2001"]
     MA08R --> A10["Janette Epstein"]
     MA08R --> A11["Alfredo Ringel"]
+    MA08R --> A26["Freddie Ringel"]
 
-    A05 --- MA0506(("m. ~1919-25"))
-    A06["Chana Mindel 'Mania/Mañe' Bauman<br/>b.~1902/03 · d.1969 (sis. Sara 'Sarita' Jarovinsky)"] --- MA0506
+    A30["Zvi Bauman (Herz?)<br/>Chlodna 38, Warsaw"] --- MA3031(("m."))
+    A31["Shoshanah Bauman<br/>Chlodna 38, Warsaw"] --- MA3031
+    MA3031 --> A06
+    MA3031 --> A27["Sara 'Sarita' Bauman Jarovinsky<br/>b.~1904 ('Sura Ita') · d.1964-69?"]
+    A05["Fishel 'Felipe'<br/>b.1901 · d.1959"] --- MA0506(("m. ~1919-25"))
+    A06["Chana Mindel 'Mania/Mañe' Bauman<br/>b.~1902/03 · d.1969"] --- MA0506
     MA0506 --> A16["Enrique<br/>b.1926"]
     MA0506 --> A17["Sidney<br/>b.1927"]
     MA0506 --> A18["Joseph 'Jose/Joe'<br/>b.1936 · d.2026"]
+    A16 ---|"m."| EMMA["Emma"]
     A17 ---|"m."| FINKLER["Rebecca Finkler"]
+
+    A27 --- MA2728(("m."))
+    A28["Víctor Jarovinsky<br/>b.~1890s · the pervasive in-law"] --- MA2728
+    MA2728 --> A29["Alberto Jarovinsky<br/>~1932–1970 · road accident<br/>with son Salomón (10)"]
+    MA2728 --> SARAJ["daughter Sara<br/>m. Abraham 1964"]
 
     style A12 stroke-dasharray:5 4
     style A13 stroke-dasharray:5 4
@@ -90,7 +112,7 @@ graph TD
     style ANAM stroke-dasharray:5 4
 ```
 
-*Not drawn: an unnamed son d. at birth 1942 (A05/Chana); Sidney is almost certainly the 'Sydney Borenstein Bauman' who certified Shifra's 1962 death certificate; Fishel's solo Arizona crossing May 1934 and the 1934/35 Warsaw trip — mysteries 1–2, see FAMILY-OVERVIEW.*
+*Not drawn: an unnamed son d. at birth 1942 (A05/Chana); Alberto Jarovinsky's children Salomón (d. with him, 1970), Tzipora and Esther (EV-76); the Glatt grandchildren's own families (Ringel/Russek/Schwarz/Epelstein, A09–A26); Sidney is almost certainly the 'Sydney Borenstein Bauman' who certified Shifra's 1962 death certificate; Fishel's solo Arizona crossing May 1934 and the 1934/35 Warsaw trip — mysteries 1–2, see FAMILY-OVERVIEW.*
 
 ## 3 · Line B, elder generation — Leibe & Chaya's children
 
@@ -166,10 +188,10 @@ graph TD
 
     B12 --- MB1215(("m. 1939 (license 23 Dec)"))
     B15["Chelo Linares Lopez<br/>b.1917 · dau. of Leobardo Linares<br/>& Petra Lopez Fuentes"] --- MB1215
-    MB1215 --> B16["Lucy<br/>b.1939"]
+    MB1215 --> B16["Lucy<br/>b.1939 · m. Harry Pepper (Memphis)"]
     MB1215 --> B17["Ana<br/>b.1940"]
     MB1215 --> B18["Moises<br/>b.1942"]
-    MB1215 --> B19["Pola<br/>b.1946"]
+    MB1215 --> B19["Pola<br/>b.1946 · m. Jaime Bierzwinski 1965"]
     MB1215 --> B20["Isidoro<br/>b.1950"]
     MB1215 --> B21["Aida<br/>b.1957"]
 
@@ -180,7 +202,7 @@ graph TD
     MA1817 --> SHIFRA["Shifra"]
 
     B13 --- MB13B(("m. Berta 'Busi' Tolmatsky"))
-    MB13B --> ALBERTO["Alberto<br/>d. at 13"]
+    MB13B --> ALBERTO["Alberto<br/>~1945–1959 (14)"]
     MB13B --> SILVIA["Silvia<br/>b.1956"]
 
     B14 --- MB14G(("m.1 David Glassman<br/>m.2 Lawrence Padawer"))
@@ -191,7 +213,7 @@ graph TD
     style ABRAMKIDS stroke-dasharray:5 4
 ```
 
-*Luis's children (civil): Lucy, Ana, Moises, Pola, Isidoro, Aida. The Prensa Israelita reports their Hebrew names; the memoir's list errs in including 'Shifra' — CF-23, partially resolved (Philip, 2026-10-13).*
+*Luis's children (civil): Lucy, Ana, Moises, Pola, Isidoro, Aida. The Prensa Israelita reports their Hebrew names; the memoir's list errs in including 'Shifra' — CF-23, resolved 2026-10-14.*
 
 ## 5 · Line C — Polak / Borukovich (Minsk/Slutsk)
 
@@ -246,7 +268,7 @@ graph TD
 ## What this tree deliberately omits
 
 - **The X-file candidates** (unconfirmed relatives): Chaim Owzer Mostow, Movshe Mostkov, Samuel Mostkow, the Bunin household (X01–X05), Harold Mostkoff, Abraham Borenstein 1906–1990, David & Lipke — all in `data/people.md` §X with their evidence.
-- **Open conflicts** are drawn as dashed shapes, not resolved: CF-12 (Keili's husband), CF-13 (Beila's placement), CF-17 (Chaya's death), CF-20 (Abram's children), CF-23 (memoir vs. civil names).
+- **Open conflicts** are drawn as dashed shapes, not resolved: CF-12 (Keili's husband), CF-13 (Beila's placement), CF-17 (Chaya's death), CF-20 (Abram's children).
 - **Living people** appear by name only, no dates beyond what obituaries published.
 
 *Regenerate/verify against `data/people.md` whenever the index changes; this file carries no citations of its own.*
