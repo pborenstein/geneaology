@@ -243,7 +243,7 @@ One entry per **distinct place** mentioned in the corpus (people.md, evidence-lo
 - **Coords:** 52.23, 21.0111 — Wikidata Q270 · GeoNames 756135
 - **Confidence:** [C]
 - **Jurisdictions:** Congress Poland / Russian Empire (Warsaw gubernia) → Poland (1918–)
-- **People:** A02 d. 1925 + gravestone, Warsaw Jewish cemetery `EV-47` (**CF-28**, one timeline line says 1935); A01 possibly d. 1942 Warsaw `[?] timeline, p. 2`; A05 family trip 1934/35 ("showing off Chana's jewels") `[?] timeline, pp. 1–2`; A03's dau. Ana Mitelhaus b. Warsaw per most records (**CF-27**); Herz Bauman gravestone leads `Notes, p. 11`
+- **People:** A02 d. 1925 + gravestone, Warsaw Jewish cemetery `EV-47` (**CF-28**, one timeline line says 1935); A01 possibly d. 1942 Warsaw `[?] timeline, p. 2`; A05 family trip 1934/35 ("showing off Chana's jewels") `[?] timeline, pp. 1–2`; A03's dau. Ana Mitelhaus b. Warsaw per most records (**CF-27**); Herz Bauman gravestone leads `Notes, p. 11` — likely Zvi Bauman (A30), Mania's father `[L]`; **A30/A31 (Mania & Sara's natal parents) lived at Chlodna 38** `[C — Ana Caddess (email via Philip), 2026-10-27]`
 
 ### P20 · Bialystok
 - **Variants:** Białystok · Bialystok
