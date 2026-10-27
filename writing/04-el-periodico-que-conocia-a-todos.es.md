@@ -63,7 +63,7 @@ Su aviso es una fotografía de toda la familia tal como estaba en 1962. Cuatro h
 
 Falta una rama en la lista: Moscú. Los Baskin habían felicitado en papel la boda de 1959; ninguna palabra suya aparece en el aviso funerario de su propia madre. Ese silencio es, por sí mismo, un registro de lo que costaba esa distancia.
 
-El archivo es honesto con las fechas, así que: el aviso dice que murió el lunes 24 de septiembre de 1962 y fue enterrada al día siguiente; el acta de defunción dice el 26; las memorias, escritas de memoria en Moscú, decían agosto. La lectura de trabajo: murió el 24, se registró el 26, y agosto era el redondeo de la memoria. Y el "85" del aviso — que implicaría un nacimiento hacia 1877 — pierde, por ahora, contra el 1880 que las memorias afirman dos veces: la aritmética de los deudos en el escritorio de la funeraria es evidencia blanda.
+El archivo es honesto con las fechas, así que: el aviso dice que murió el lunes 24 de septiembre de 1962 y fue enterrada al día siguiente; el acta de defunción dice el 26; las memorias, escritas de memoria en Moscú, decían agosto. La lectura de trabajo — murió el 24, se registró el 26, agosto como redondeo de la memoria — quedó sellada después por la memoria familiar: Ana Caddess, que la visitó en el hospital ese septiembre, recuerda que la muerte llegó tras el regreso de su propia familia de Israel en agosto (véase la segunda posdata). Y el "85" del aviso — que implicaría un nacimiento hacia 1877 — pierde, por ahora, contra el 1880 que las memorias afirman dos veces: la aritmética de los deudos en el escritorio de la funeraria es evidencia blanda.
 
 El periódico guardó los duelos de esta familia con la misma fidelidad que las fiestas. En mayo de 1959, dos meses después de la boda, imprimió la muerte de **Alberto Mostkoff**, hijo de Miguel y Bertha, de catorce años, estudiante de tercer año de secundaria en el colegio Yavne; su abuela Shifre todavía vivía para leerlo. Y en enero de 1970, **Alberto Jarovinsky** — hijo de Sara, la hermana de Mania — murió en el camino Acapulco–Iguala junto con su hijo Salomón, de diez años. La comunidad enterró a padre e hijo el mismo domingo.
 
@@ -83,7 +83,7 @@ Un último hallazgo — pequeño, pero apuntando directo a la entrega anterior. 
 
 El periódico dio, y el periódico guardó. Esto es lo que guardó, y quién puede responder:
 
-- **El aviso funerario del propio Felipe.** Estaba vivo en la boda de marzo de 1959; para agosto de 1960 ya se develaba su lápida — el periódico debe haber impreso su muerte, y en la colección digitalizada no la encontramos. Alguien ordenó ese aviso, como Rebeca ordenó el de Mania. ¿Alguien recuerda los trámites, o guarda el recorte?
+- **El aviso funerario del propio Felipe.** Estaba vivo en la boda de marzo de 1959; para agosto de 1960 ya se develaba su lápida — el periódico debe haber impreso su muerte, y en la colección digitalizada no la encontramos. *(Actualización, 27 de octubre: los papeles familiares ya dan la fecha — domingo 23 de agosto de 1959 — así que el aviso debe estar en los números de fines de agosto o principios de septiembre de 1959. Sigue sin aparecer.)* Alguien ordenó ese aviso, como Rebeca ordenó el de Mania. ¿Alguien recuerda los trámites, o guarda el recorte?
 - **El otro nombre de Mania** *(respondido al día siguiente — véase la posdata)*. Para los hogares de Enrique, Sidney y José — esa generación y sus nietos: ¿la llamaron alguna vez *Chana*, *Mindel*, *Chana Mindel*? ¿Conoció la familia a algún Bauman, a una tía Sura Ita? Un solo recuerdo lo resuelve.
 - **El apellido Glatt.** Para los primos Glatt: Borensztejn en Kurow, Glatt en México. ¿Qué contaba su familia sobre el origen del apellido?
 - **Una niña llamada Ydele.** En el aviso funerario de la mamá de Bertha, las nietas son "Ydele y Silvita". Silvita es Silvia, la hija de Miguel. ¿Quién era Ydele — una prima que murió niña, o una errata?
@@ -94,6 +94,14 @@ Y Pola — tu boda está en estas páginas. Al archivo le encantaría oír tu vo
 ## Posdata, 19 de octubre
 
 La familia respondió en un día. Philip confirma que **Mania, Mañe, Manye, Chana Mindel y María Borenstein** — la esposa de Felipe, la madre de Joseph — eran una sola mujer; el archivo fundió sus dos entradas en una. También corrigió una lectura que esta entrega traía mal de origen: Sara Jarovinsky, a quien el archivo había clasificado como hermana *Borenstein* de Felipe, era una **Bauman** — hermana de la propia Mania — y la desconcertante "Sura Ita" de la cronología familiar era, sencillamente, *Sarita*. Así que la primera lectura del archivo de aquella lista de deudos de 1969 — "todo del lado del esposo, nada de familia natal en México" — estaba equivocada: su sobrino Alberto Jarovinsky estaba ahí, y su hermana había vivido en la Ciudad de México todo el tiempo. Dos avisos releídos, un enigma cerrado, una "Sura Ita" fantasma convertida en una Sarita de carne y hueso. Para eso son las peticiones.
+
+## Posdata, 27 de octubre
+
+Los papeles de la familia siguen respondiendo. Ana Caddess encontró una hoja de *papelitos* y los mandó. Le dan por fin a Felipe una fecha de muerte: **domingo 23 de agosto de 1959**. El propio periódico venía dibujando la forma — vivo en la boda de marzo, la lápida develada en agosto de 1960, el intervalo de costumbre — y ahora la fecha llena el medio.
+
+La misma nota alcanza una generación más atrás. Los padres de Mania eran **Zvi y Shoshanah Bauman**, y vivían en **Chlodna 38, Varsovia** — la primera dirección callejera que el archivo guarda del lado polaco de la familia, y un destino para el viaje de 1934 a "presumir las joyas de Chana": la llevaba a casa. Y una emoción discreta para los que llevamos el archivo: entre los enlaces del cementerio de Varsovia que el archivo carga desde el principio hay un **Herz Bauman** — y Herz es sencillamente la forma yidis de Zvi. Puede que ya tengamos en las manos la lápida de su padre.
+
+Dos ajustes menores de la misma nota: el año de muerte de Israel Mostkoff queda en 1957 por memoria familiar además del acta (septiembre de 1957 — su lápida está demasiado gastada para leerse); y la fecha de septiembre de más arriba la confirma alguien que estuvo con ella en el hospital ese mes. Las peticiones siguen en pie, y llegan dos nuevas con las respuestas: Ana escribe que su madre sobrevivió a Luis diez años — ¿cuándo murieron Luis y Consuelo? ¿Y quién era Avram Bromberg, la fuente de Ana para los abuelos Bauman allá en 2004?
 
 ---
 

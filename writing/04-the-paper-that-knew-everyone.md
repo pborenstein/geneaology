@@ -63,7 +63,7 @@ Her obituary is a snapshot of the whole family as it stood in 1962. Four childre
 
 One branch is missing from the list: Moscow. The Baskins had greeted the 1959 wedding in print; no word from them appears in their own mother's obituary. That silence is its own record of what the distance cost.
 
-The archive is honest about the dates, so: the obituary says she died Monday 24 September 1962 and was buried the next day; the death certificate says the 26th; the memoir, written from memory in Moscow, said August. The working reading is died the 24th, registered the 26th, with August as memory rounding. And the obituary's "85" — which would mean a birth around 1877 — loses, for now, to the memoir's twice-stated 1880: mourner arithmetic at a funeral-home desk is soft evidence.
+The archive is honest about the dates, so: the obituary says she died Monday 24 September 1962 and was buried the next day; the death certificate says the 26th; the memoir, written from memory in Moscow, said August. The working reading — died the 24th, registered the 26th, August as memory rounding — has since been sealed by family memory: Ana Caddess, who visited her in the hospital that September, remembers the death coming after her own family's return from Israel in August (see the second postscript). And the obituary's "85" — which would mean a birth around 1877 — loses, for now, to the memoir's twice-stated 1880: mourner arithmetic at a funeral-home desk is soft evidence.
 
 The paper kept this family's griefs as faithfully as its celebrations. In May 1959, two months after the wedding, it printed the death of **Alberto Mostkoff**, Miguel and Bertha's son, fourteen years old, a third-year student at the Yavne school; his grandmother Shifre was still alive to read it. And in January 1970, **Alberto Jarovinsky** — son of Mania's sister Sara — died on the Acapulco–Iguala road together with his ten-year-old son Salomón. The community buried father and son the same Sunday.
 
@@ -83,7 +83,7 @@ One last find — small, but pointed straight at the previous post. At a wedding
 
 The paper gave, and the paper withheld. Here is what it withheld, and who can answer:
 
-- **Felipe's own death notice.** He was alive at the wedding of March 1959; by August 1960 his gravestone was being unveiled — the paper must have printed his death, and in the digitized run we have not found it. Someone ordered that notice, the way Rebecca ordered Mania's. Does anyone remember the arrangements, or hold the clipping?
+- **Felipe's own death notice.** He was alive at the wedding of March 1959; by August 1960 his gravestone was being unveiled — the paper must have printed his death, and in the digitized run we have not found it. *(Update, 27 October: family papers now give the date — Sunday 23 August 1959 — so the notice should sit in the late-August or early-September 1959 issues. Still unfound.)* Someone ordered that notice, the way Rebecca ordered Mania's. Does anyone remember the arrangements, or hold the clipping?
 - **Mania's other name** *(answered the next day — see the postscript)*. To the households of Enrique, Sidney and José — that generation and its grandchildren: was she ever called *Chana*, *Mindel*, *Chana Mindel*? Did the family know any Baumans, an aunt Sura Ita? One memory settles it.
 - **The Glatt name.** To the Glatt cousins: Borensztejn in Kurow, Glatt in Mexico. What did your family say about where the name came from?
 - **A little girl named Ydele.** In Bertha's mother's obituary the granddaughters are "Ydele y Silvita." Silvita is Silvia, Miguel's daughter. Who was Ydele — a cousin who died young, or a misprint?
@@ -94,6 +94,14 @@ And Pola — your wedding is in these pages. The archive would love to hear your
 ## Postscript, 19 October
 
 The family answered within a day. Philip confirms that **Mania, Mañe, Manye, Chana Mindel and María Borenstein** — Felipe's wife, Joseph's mother — were one woman; the archive has merged its two entries for her into one. He also corrected a reading this post carried in on the way: Sara Jarovinsky, whom the archive had filed as a *Borenstein* sister of Felipe, was a **Bauman** — Mania's own sister — and the family timeline's puzzling "Sura Ita" was simply *Sarita*. So the archive's first reading of that 1969 mourner list, "all her husband's side, no natal kin in Mexico," was mistaken: her nephew Alberto Jarovinsky stood in it, and her sister had lived in Mexico City all along. Two notices re-read, one puzzle closed, a phantom "Sura Ita" resolved into a real Sarita. That is what the asks are for.
+
+## Postscript, 27 October
+
+The family's papers keep answering. Ana Caddess found a page of *papelitos* — little papers — and sent them across. They give Felipe a death date at last: **Sunday 23 August 1959**. The newspaper had been telling us the shape of it all along — alive at the March wedding, the gravestone unveiled in August 1960, the customary interval — and now the date fills the middle.
+
+The same note reaches a generation further back. Mania's parents were **Zvi and Shoshanah Bauman**, and they lived at **Chlodna 38, Warsaw** — the first street address the archive holds for the family's Polish side, and a destination for the 1934 trip to "show off Chana's jewels": she was taking her family home. And a quiet thrill for the file-keepers: among the Warsaw cemetery links the archive has carried since the beginning is a **Herz Bauman** — and Herz is simply the Yiddish form of Zvi. We may already be holding her father's gravestone.
+
+Two smaller settlements from the same note: Israel Mostkoff's death year is 1957 by family memory as well as by certificate (September 1957 — his gravestone is too worn to read); and Shifra's September date above is confirmed by someone who was in the hospital with her that month. The asks stand, and two new ones arrive with the answers: Ana writes that her mother survived Luis by ten years — when did Luis and Consuelo die? And who was Avram Bromberg, Ana's source for the Bauman grandparents back in 2004?
 
 ---
 
