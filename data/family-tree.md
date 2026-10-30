@@ -33,7 +33,7 @@ graph TD
     C01["Y' Mikhal Polak<br/>b.~1840s Minsk?"] --> C02["Pesheh Polak<br/>d.1922 Slutsk"]
     C02 --- MC0203(("m."))
     C03["Avraham Nakhman Borukovich<br/>alive 1932"] --- MC0203
-    MC0203 --> C06["Shifra Boruchovich<br/>b.1880 Slutsk · d.1962 Mexico City"]
+    MC0203 --> C06["Shifra Boruchovich<br/>b.1878/80 Slutsk · d.1962 Mexico City"]
 
     B04 --- MB0406(("m. ~1907-08 Slutsk"))
     C06 --- MB0406
@@ -229,7 +229,7 @@ graph TD
 
     C02 --- MC0203(("m. — '11 children,<br/>only 4 grew up'"))
     C03["Avraham Nakhman Borukovich<br/>furs & customs · Ostrov<br/>alive 1932 Vitebsk"] --- MC0203
-    MC0203 --> C06["Shifra<br/>b.1880 · eldest"]
+    MC0203 --> C06["Shifra<br/>b.1878/80 · eldest"]
     MC0203 --> C07["Malka<br/>b.~1892 · Krupskaya Acad."]
     MC0203 --> C12["Mikhail 'Meishke'<br/>suicide ~1925/26 Minsk"]
     MC0203 -.-> C09["Beila Yonas?<br/>d.1919 — placement open"]

@@ -265,7 +265,8 @@
      "C12 school inspector (Belorussian Commissariat of Education) `tania-project (§30)`",
      "X01 convoy origin — \"ten men from the town of Minsk\" `Pinkas, p. 31 (entry #229)`",
      "memoir: the first love's pedagogical college",
-     "train transfer `tania-project (locations)`"
+     "train transfer `tania-project (locations)`",
+     "C06's exit passport issued here, 27 Nov 1928 `EV-81`"
     ],
     "jurisdictions": "Russian Empire (Minsk gubernia seat) → Byelorussian SSR → Belarus",
     "coords_source": "53.9022, 27.5618 — Wikidata Q2280 · GeoNames 625143; corroborated `tania-project (locations)`",
@@ -1199,6 +1200,34 @@
     "jurisdictions": "Spain",
     "coords_source": "36.5114, -4.8834 — Wikidata Q484799 · GeoNames 6359474",
     "notes": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.4833,
+     56.2833
+    ]
+   },
+   "properties": {
+    "id": "P43",
+    "name": "Sebezh",
+    "today": "Sebezh, Pskov Oblast, Russia",
+    "region": "Russia",
+    "confidence": "L",
+    "precision": "town",
+    "variants": [
+     "Себеж",
+     "Sebezh border point"
+    ],
+    "people": [
+     "C06 + B12/B13/B14 — designated **exit point** on Shifra's Soviet foreign passport (issued Minsk 27 Nov 1928) `EV-81` — the family's way out of the USSR, end 1928"
+    ],
+    "jurisdictions": "Russian Empire (Pskov gubernia) → RSFSR/USSR → Russia (Pskov Oblast since 1944)",
+    "coords_source": "56.2833, 28.4833 — Wikidata Q193641 (cross-checked OpenStreetMap Nominatim, 2026-10-29)",
+    "notes": "USSR–Latvia border crossing on the northwestern edge of the BSSR (route out: Sebezh → Latvia → ship; arrival Mexico Jan 1929, EV-03). The border-point word on the passport is a machine read (\"Себеж\"-like, `[?]`) — confirm on the scan before leaning on the exact route"
    }
   }
  ]

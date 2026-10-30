@@ -16,8 +16,9 @@
 | SUPONITZKY | 2 | Link + 1877 Priluki marriage record | Lead file |
 | Borenstein family timeline | 2 | Borenstein-line chronology | Working timeline |
 | Pinkas-of-Slutsk | 2,178 | **Full Slutsk Chevra Kadisha burial register, English translation** (16,266 entries, 1736–1924; provenance TBD — Wendy's collection) | Reference database — search, don't read; extraction in `data/pinkas-hits.md` |
+| bobespassport/ (folder) | 11 images | **"Bobe's passport"** — Shifra's 1928 BSSR foreign passport + the Luis × Chelo ketuba copy (email: Ana Caddess → Wendy Cadieux, 2020-02-04) | **First image-only source** — no text layer; inventory & read-status in §11 (EV-81/EV-82) |
 
-Total: 2,265 pages (10 PDFs), ~5.9 MB of text. Everything has a usable text layer (the ~38 MB narrative is text + many embedded photographs — mostly one shared set of photo objects).
+Total: 2,265 pages (10 PDFs), ~5.9 MB of text. Everything has a usable text layer (the ~38 MB narrative is text + many embedded photographs — mostly one shared set of photo objects). Plus, from 2026-10-29: the 11 JPEG scans of `bobespassport/` (§11) — the corpus's only non-PDF source.
 
 ## File-by-file
 
@@ -48,6 +49,29 @@ Memoir excerpt (Isrol Mostkov b. 1880 Ostrov, d. 1956 Mexico; return from Missis
 
 ### 9. SUPONITZKY.pdf — lead file
 Warsaw Jewish cemetery link (**Sura Borenstein gravestone** — Sara Ayzenszmit Borenstein, d. 1925 Warsaw) + garbled 1877 Priluki marriage record (Min'kov/Supanitskij) — a lead on the Sapotnitsky family name.
+
+### 11. bobespassport/ — Shifra's 1928 Soviet exit passport + the Luis × Chelo ketuba copy
+*(11 JPEG scans + README — the corpus's first image-only source, no text layer. Email from Ana Caddess to Wendy Cadieux, 2020-02-04, subject "Bobe's passport"; added to the repo 2026-10-29. The passport photos are reproduced, smaller, inside the Narrative (caption "Shifra Mostkoff's Passport," p. 15; reads at pp. 10, 15, 18–20) — the folder gives the full set at resolution, plus the ketuba copy. Records: **EV-81** (passport) and **EV-82** (ketuba). Citation key: `Bobe's passport, IMG_NNNN`.)*
+
+Contents machine-read 2026-10-29 (purple-ink Cyrillic handwriting is hard; every `[?]` needs eyes on the scan):
+
+| IMG | Best read | Flags |
+|-----|-----------|-------|
+| 1922 | Title page (Belarusian): ЗАМЕЖНЫ ПАШПАРТ, bearer **Мосткава Шыфра Нахманаўна**, citizen BSSR; children Leiba 14 · Mikhel 11 · Dvoyra 7 | First pass misread the name as "Маслюкова Мара"; focused re-read confirms Мосткава Шыфра |
+| 1923 | Info page: b. **1878**, **Bobruisk district**; married; issued **Minsk, 27 Nov 1928**; 50-ruble fee; NKVD BSSR seal | One pass read the birthplace as "Mozyr okrug" — verify (CF-11) |
+| 1924 | *(unread — the vision service rejects this file; it is a valid JPEG)* | Needs eyes on |
+| 1925 | Russian info page: physical description (medium height, brown eyes, light-brown hair, no special marks); the same page also read "issued Apr 1928" / "exit by 27 Sep 1928" | Conflicts with 27 Nov 1928 on two other pages — reissue or misread; the children's ages (14/11/7) fit November only |
+| 1928 | **French summary page** — the identity anchor: "Mostkoff Chifra," b. 1878, Distr. de Bobrouisk, married, citizen BSSR, issued Minsk 27 Nov 1928; children Leiba 14, Michel 11, Abeira [read for Dvoyra] 7 | |
+| 1929 | Handwritten internal page, mostly illegible; a border-point word | Read as "Sebezh"-like [?] — cf. IMG_1923 |
+| 1930 | Internal page; seals dated 1928/1929 | |
+| 1931 | Photo page: young man in dark suit (Luis, 14?) and others; round purple seals over the photo corners | |
+| 1932 | Photo page: woman ~50 in headscarf (Shifra) + a child | |
+| 1933 | Photo page: four photos; one read as "young woman ~16–20" | Does not match the manifest (Dvoyra was 7); likely an age misjudgment — check the scan |
+| 1934 | **Ketuba copy** — Luis × Chelo wedding certificate, Confederación de Centros Israelitas de México; attests the bride's orthodox conversion (per Ana's email) | Date/number/rabbi unread — the CF-06 key |
+
+*Notes: the IMG numbering skips 1926–1927 (two photos not included in the email); the passport's series/number has not been read. Ana, on reading it herself: "I couldn't read any of the Russian pages but it was easy to decipher the ones written in French and the stamps or seals written in Spanish" — the **Spanish seals** (Mexican entry stamps, presumably on IMG_1929/1930) still need a careful read.*
+
+**Verification to-dos (eyes on the scans):** IMG_1924 (entirely unread); the birthplace word on IMG_1923/1925 (Bobruisk vs Mozyr — CF-11); the April/September 1928 dates on IMG_1925; the **Kislev year on IMG_1934** (CF-06); the Spanish entry stamps.
 
 ## Observations
 

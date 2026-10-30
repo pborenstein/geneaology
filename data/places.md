@@ -56,6 +56,7 @@ One entry per **distinct place** mentioned in the corpus (people.md, evidence-lo
 | P40 | Mexico City | Mexico City, Mexico | Mexico | 19.3538, -99.1359 | [C] |
 | P41 | Guadalajara | Guadalajara, Jalisco, Mexico | Mexico | 20.677, -103.347 | [L] |
 | P42 | Marbella | Marbella, Spain | Spain | 36.5114, -4.8834 | [C] |
+| P43 | Sebezh | Sebezh, Pskov Oblast, Russia | Russia | 56.2833, 28.4833 | [L] |
 
 ## Tier 1 — family-connected places
 
@@ -136,7 +137,7 @@ One entry per **distinct place** mentioned in the corpus (people.md, evidence-lo
 - **Coords:** 53.9022, 27.5618 — Wikidata Q2280 · GeoNames 625143; corroborated `tania-project (locations)`
 - **Confidence:** [C]
 - **Jurisdictions:** Russian Empire (Minsk gubernia seat) → Byelorussian SSR → Belarus
-- **People:** B01/B02 candidate civil marriage 1889 `EV-10` (CF-29: cannot be Chaya's own); C01 candidate birth "Mikhel b. 1847" `EV-28` + brother X14 b. 1852 `EV-29`; C03 candidate Nokhim b. 1838 `EV-30`; 1894 town-dwellers list `EV-37`; C12 school inspector (Belorussian Commissariat of Education) `tania-project (§30)`; X01 convoy origin — "ten men from the town of Minsk" `Pinkas, p. 31 (entry #229)`; memoir: the first love's pedagogical college; train transfer `tania-project (locations)`
+- **People:** B01/B02 candidate civil marriage 1889 `EV-10` (CF-29: cannot be Chaya's own); C01 candidate birth "Mikhel b. 1847" `EV-28` + brother X14 b. 1852 `EV-29`; C03 candidate Nokhim b. 1838 `EV-30`; 1894 town-dwellers list `EV-37`; C12 school inspector (Belorussian Commissariat of Education) `tania-project (§30)`; X01 convoy origin — "ten men from the town of Minsk" `Pinkas, p. 31 (entry #229)`; memoir: the first love's pedagogical college; train transfer `tania-project (locations)`; C06's exit passport issued here, 27 Nov 1928 `EV-81`
 - **Notes:** C01's rich Polyaks "fled to Moscow, Leningrad, or abroad" `tania-project (§3)`.
 
 ### P09 · Bobruisk
@@ -459,6 +460,16 @@ One entry per **distinct place** mentioned in the corpus (people.md, evidence-lo
 - **Confidence:** [C]
 - **Jurisdictions:** Spain
 - **People:** A10 Janette (Ringel) Epstein — "sister Janette Epstein (Marbella)" `EV-39`
+
+### P43 · Sebezh
+- **Variants:** Себеж · Sebezh border point
+- **Today:** Sebezh, Pskov Oblast, Russia
+- **Region:** Russia
+- **Coords:** 56.2833, 28.4833 — Wikidata Q193641 (cross-checked OpenStreetMap Nominatim, 2026-10-29)
+- **Confidence:** [L]
+- **Jurisdictions:** Russian Empire (Pskov gubernia) → RSFSR/USSR → Russia (Pskov Oblast since 1944)
+- **People:** C06 + B12/B13/B14 — designated **exit point** on Shifra's Soviet foreign passport (issued Minsk 27 Nov 1928) `EV-81` — the family's way out of the USSR, end 1928
+- **Notes:** USSR–Latvia border crossing on the northwestern edge of the BSSR (route out: Sebezh → Latvia → ship; arrival Mexico Jan 1929, EV-03). The border-point word on the passport is a machine read ("Себеж"-like, `[?]`) — confirm on the scan before leaning on the exact route
 
 ## Tier 2 — background & lead toponyms (one-liners; un-geocoded)
 

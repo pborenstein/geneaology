@@ -15,6 +15,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
   - `Genealogy draft, p. N` = *Borenstein-Mostkoff Family Genealogy.pdf*
   - `chronicle, p. N` · `Slutsk Links, p. N` · `MOSTKOFF, p. N` · `SUPONITZKY, p. N` · `timeline, p. N` = same-named PDFs
   - `Pinkas, p. N (entry #M)` = *Pinkas-of-Slutsk.pdf* (full Slutsk Chevra Kadisha register, 1736–1924); extraction in `data/pinkas-hits.md`
+  - `Bobe's passport, IMG_NNNN` = scans in `base-documents/bobespassport/` (email: Ana Caddess → Wendy Cadieux, 2020-02-04; added to the repo 2026-10-29). Records **EV-81** (Shifra's 1928 Soviet exit passport) and **EV-82** (Luis × Chelo ketuba copy). Contents machine-read 2026-10-29; unverified readings keep `[?]` — per-image inventory & flags in `docs/SOURCE-SURVEY.md` §11
   - `tania-project (§N)` = full English translation of Tania's memoir (written 1976–80) at tania-project.com — `src/posts/provisional-translation-en.md`; sections are the memoir's own numbered `###` headers (EV-40).
   - `EV-##` = record in `data/evidence-log.md`; anything else cited by URL verbatim.
 - **Family input** (live since 2026-10-13): cited inline as `[C — Philip, YYYY-MM-DD]`, or `[C — <name> (email via Philip), YYYY-MM-DD]` when another family member's message is relayed by Philip; approximate years keep `[L]`. Living people: names only, nothing published outside the repo.
@@ -67,10 +68,10 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | B09 | Lyubka Mostkoff | — | **Israel's sister** (memoir, explicit); mother of Bronya & Grisha (Leningrad) |
 | B10 | Abram "Abraham/Avram" Mostkoff | b. Apr 1909 [C memoir] | S. Israel & Shifra; to Mexico 1926; m. Clara Nudelman, later Leonor [C]; grandchildren incl. Nachman, Rubén, Motele, Violeta [C] |
 | B11 | Tania "Tayba/Tanya/Tatyana" Mostkoff (Baskin) | b. Jun 1911 Slutsk [C memoir] | Memoir author; Moscow 1926; USSR; m. Iosif Baskin; 3 children; "Yosef y Taia Baskin" greet Ana's 1959 wedding from Moscow [C] |
-| B12 | Aryeh Leib "Leiba/Luis" Mostkoff | b. Aug 1914 [C memoir] | S. Israel & Shifra; "the potato-eater"; m. Chelo Linares 1939; six children |
-| B13 | Mikhail "Mikhl/Miguel/Miquel" Mostkoff | b. Nov 1917 [C memoir] | S. Israel & Shifra; m. Berta Tolmatsky; children Alberto (d. 1959, 14), Silvia |
-| B14 | Dvoira "Dveyra/Dora/Doris" Mostkoff (Glassman, Padawer) | b. Aug 1921 [C memoir] | Dau. Israel & Shifra; Memphis by 1959 [C], later St. Louis; m. David Glassman, later Lawrence Padawer |
-| B15 | Maria Consuelo "Chelo" Linares Lopez | b. 7 Aug 1917 Mexico [C] | M. Luis Mostkoff 1939; six children |
+| B12 | Aryeh Leib "Leiba/Luis" Mostkoff | b. Aug 1914 [C memoir+passport] | S. Israel & Shifra; listed at 14 on the 1928 exit passport (EV-81); to Mexico Jan 1929; "the potato-eater"; m. Chelo Linares 1939; six children |
+| B13 | Mikhail "Mikhl/Miguel/Miquel" Mostkoff | b. Nov 1917 [C memoir+passport] | S. Israel & Shifra; listed at 11 on the 1928 exit passport (EV-81); to Mexico Jan 1929; m. Berta Tolmatsky; children Alberto (d. 1959, 14), Silvia |
+| B14 | Dvoira "Dveyra/Dora/Doris" Mostkoff (Glassman, Padawer) | b. Aug 1921 [C memoir+passport] | Dau. Israel & Shifra; listed at 7 on the 1928 exit passport (EV-81); Memphis by 1959 [C], later St. Louis; m. David Glassman, later Lawrence Padawer |
+| B15 | Maria Consuelo "Chelo" Linares Lopez | b. 7 Aug 1917 Mexico [C] | M. Luis Mostkoff 1939 — orthodox; her conversion attested (EV-82); six children |
 | B16 | Lucy Mostkoff Linares | b. 10 Mar 1939 [C] | Eldest dau. Luis & Chelo; m. Harry Pepper, Memphis [C] — CF-15 leaning resolved |
 | B17 | Ana "Anita" Mostkoff Linares (Borenstein; Caddess) | b. 29 Dec 1940 [C] | M. 1) Joseph Borenstein 15 Mar 1959 [C] → Philip, Edna/Jaye, Shifra; m. 2) Hugh N. Caddess 2 Jan 1982 [C] |
 | B18 | Moises Mostkoff | b. 13 Jan 1942 [C] | S. Luis & Chelo |
@@ -87,7 +88,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 | C03 | Avraham Nakhman Borukovich | alive ≥1932 [C memoir] | Furs/customs specialist; pinkas-1918 death NOT his (CF-13) |
 | C04 | Ary Leib Polak | d. 13 Jan 1895 Slutsk [C] | S. Y' Mikhal Polak; melamed of Talmud Torah |
 | C05 | Tsieta Polak (Basin) | d. 31 Mar 1912 Slutsk [C] | Dau. Y' Mikhal Polak; m. Kalman Osher Basin |
-| C06 | Shifra/Chifra/Sofia Boruchovich (Mostkoff) | b. 1880 Slutsk [C memoir] (obit age → ~1877, CF-31) · d. 24 Sep 1962 Mexico City [C obit] | Dau. C02/C03; seamstress; m. Israel Mostkoff; obit under "Sofía" [C] |
+| C06 | Shifra/Chifra/Sofia Boruchovich (Mostkoff) | b. 1880 Slutsk [C memoir] · passport: 1878, Bobruisk dist. [C] (obit → ~1877 — CF-31/CF-11) · d. 24 Sep 1962 Mexico City [C obit] | Dau. C02/C03; seamstress; m. Israel Mostkoff; Soviet exit passport Minsk 27 Nov 1928 (EV-81); obit under "Sofía" [C] |
 | C07 | Malka Boruchovich (Kharakh) | — | Dau. C02/C03; Krupskaya Academy; Bobruisk→Vitebsk; m. Faivel; children Misha, Polya |
 | C08 | Faivel Kharakh (Harakh/Charach) | — | M. Malka; Slutsk "town sexton" of the Yizkor chapter (pass 4) |
 | C09 | Beila Borukovich (Yonas) | d. 4 Feb 1919 Slutsk [C] | Dau. of Avraham Barukhovits [C]; m. Shlomo Yonas; probable 4th sibling [L] |
@@ -296,19 +297,19 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ### B12 · Aryeh Leib "Leiba/Luis" Mostkoff
 - S. Israel & Shifra; b. **August 1914** `tania-project (§35)`; headstone "Areyh Leib, son of Israel" `[C]` Narrative, p. 6; "the late **Luis**" in Dora's obit `[C]` EV-34; nicknamed "the potato-eater" as a child `tania-project (§8)`.
-- Arrived Mexico Jan 1929 with mother, Miguel, Dora Narrative, pp. 15, 18, 20; finished school in Mexico `tania-project (§35)`.
-- m. **Maria Consuelo "Chelo" Linares Lopez** (B15); civil marriage license 23 Dec 1939; ketuba dated Kislev (year illegible) Narrative, p. 20.
+- Arrived Mexico Jan 1929 with mother, Miguel, Dora Narrative, pp. 15, 18, 20; finished school in Mexico `tania-project (§35)`. **Listed at age 14 on Shifra's Soviet exit passport** (issued Minsk 27 Nov 1928) `[C]` EV-81 — matches b. Aug 1914 exactly.
+- m. **Maria Consuelo "Chelo" Linares Lopez** (B15); civil marriage license 23 Dec 1939; ketuba dated Kislev (year illegible) Narrative, p. 20 — Ana's copy of the certificate (EV-82) still needs an eyes-on date read (**CF-06**).
 - Six children `[C family data]` Narrative, pp. 20–21; the memoir knows them as "Lucy, Shifra, Pesya, Moises, Lazaro, Ida" `tania-project (§35)` — Jewish vs. civil names, mapping partly uncertain (**CF-23**).
 - TM's "child Lyova born 1914" (Narrative, p. 6) is Luis himself `[L]` (CF-08).
 - Death not otherwise recorded; Ana Caddess (email via Philip, 2026-10-27) notes her mother **Consuelo (B15) survived Luis by ten years, "as [Mania] did [Felipe]"** — implies Luis predeceased Consuelo by ~10 years; neither date is yet known `[?]` (ask the family; cf. "the late Luis" in Dora's 2006 obit, EV-34).
 
 ### B13 · Mikhail "Mikhl/Miguel/Miquel" Mostkoff
-- S. Israel & Shifra; b. **November 1917** `tania-project (§35)`; "the late **Miquel**" in Dora's obit `[C]` EV-34; to Mexico Jan 1929; m. **Berta "Busi" Tolmatsky** Narrative, p. 12 — confirmed "Miguel y Bertha Mostkoff" throughout the Prensa `[C]` EV-59/68/69.
+- S. Israel & Shifra; b. **November 1917** `tania-project (§35)`; "the late **Miquel**" in Dora's obit `[C]` EV-34; **listed at age 11 on Shifra's 1928 exit passport** `[C]` EV-81 (matches b. Nov 1917); to Mexico Jan 1929; m. **Berta "Busi" Tolmatsky** Narrative, p. 12 — confirmed "Miguel y Bertha Mostkoff" throughout the Prensa `[C]` EV-59/68/69.
 - Berta's parents: **David Tolmatsky (X19)** & **Busi Tolmatsky (X20)** `[C]` EV-68/69/78.
 - Children per memoir: son **Alberto** (d. at 13 of Botkin's disease) and dau. **Silvia** (b. 1956) `tania-project (§35)` — **Alberto's obituary (EV-69)**: d. Saturday **16 May 1959, age 14** (so b. ~1945, not "at 13"), 3rd-year student (Yavne school), buried 17 May; grandmother Shifre + grandfather David Tolmatsky named. Silvia: "Silvita"/"Silvia" in 1959–62 notices `[C]`; a granddaughter **"Ydele"** appears once beside Silvita (EV-78) — unattested elsewhere (d. young? misprint?) `[?]`. A **Furszyfer cousinhood** is implied by "José Furszyfer y fam. (Primos)" at Alberto's obit (EV-69) and the Mostkoff brothers greeting Silvia Furszyfer's 1966 wedding (EV-77) — link unresolved `[?]`.
 
 ### B14 · Dvoira "Dveyra/Dora/Doris" Mostkoff (Glassman; Padawer)
-- Dau. Israel & Shifra; b. **August 1921**, "the year of famine" `tania-project (§35)` — **CF-05 resolved** (obit's "83" is off by ~1; Narrative's "1922" wrong).
+- Dau. Israel & Shifra; b. **August 1921**, "the year of famine" `tania-project (§35)` — **CF-05 resolved** (obit's "83" is off by ~1; Narrative's "1922" wrong); **listed at age 7 on Shifra's 1928 exit passport** `[C]` EV-81 — matches Aug 1921.
 - Named for her cousin Dveira-Dora (B26), who died of dysentery shortly before her birth `[L]` `tania-project (§7)`.
 - To Mexico Jan 1929 with mother; later St. Louis. m. **David Glassman**, later **Lawrence Padawer**; children Jerry (Patty), Mel (Linda), Paul (Debbie) Padawer `[C]` EV-34.
 - Obit names exactly the siblings "the late Avram, Luis, Miquel and Tanya Mostkoff" `[C]` EV-34.
@@ -317,6 +318,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 ### B15 · Maria Consuelo "Chelo" Linares Lopez
 - b. 7 Aug 1917, Mexico, dau. of **Leobardo Linares** (X06) & **Petra Lopez Fuentes** (X07) `[C "Linares/Lopez data sheet"]` Narrative, p. 20; "a Mexican woman, Chelo" `tania-project (§35)`.
 - m. Luis Mostkoff (B12) — license 23 Dec 1939 Narrative, p. 20.
+- **Orthodox conversion (giyur)** `[C — Ana (email to Wendy, 2020-02-04)]`: her wedding certificate under the **Confederación de Centros Israelitas de México** attests "that my mother's conversion to Judaism was valid according to orthodox laws" — the certificate behind the ketuba of Narrative, p. 20 (dated Kislev, year illegible — **CF-06**); record EV-82 (copy: `Bobe's passport, IMG_1934`). Explains her Hebrew name **Sara/Sarita** in the Prensa notices (EV-59/68).
 - **"Chelo" is an apodo, not her name** — her name is **Consuelo** `[C — Philip, 2026-10-18]`. The Prensa used all three of her names across four notices: **Sara** (Hebrew) at Ana's 1959 wedding (EV-59), **Chelo** — the apodo itself, printed once — in Alberto Mostkoff's 1959 obit (EV-69), **Consuelo** (civil) at Philip's 1961 bris (EV-60), **Sarita** at Shifra's 1962 obit (EV-68).
 - Per Ana (email via Philip, 2026-10-27): she **survived Luis by ten years** — see B12 `[?]`; her death date is not yet recorded anywhere.
 
@@ -373,7 +375,7 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 - NB: the Narrative's "Chaya d. ~1917–18 of kidney disease" is this same memory misattributed to the *other* grandmother — see B02/CF-22.
 
 ### C03 · Avraham Nakhman Borukovich (Nachman/Boruchovitch; "Nakhamani Korukhilmai" in one garbled translation)
-- Husband of Pesya; father of Shifra (C06) `[L]` Narrative, p. 10; 1925 photo with Tania `[C]` Narrative, p. 9.
+- Husband of Pesya; father of Shifra (C06) `[C]` Narrative, p. 10; Vsia Rossiia 1911 (Shifra "dau. of Nakhman," EV-04); Shifra's 1928 Soviet passport carries the patronymic **Нахманаўна (Nakhmanovna)**, EV-81; 1925 photo with Tania `[C]` Narrative, p. 9.
 - Cheder and yeshiva educated (with his brother) `Tanya-summary, p. 3`. Cultured, refined, even-tempered, clever; "tall, slender, dark, with strong bones… He called me 'daughter'" `tania-project (§33)`; the chronicle's translation adds **hunchbacked** and: "respected by all in business circles and in the synagogue. They trusted grandfather, went for advice, went to borrow and borrowed themselves" `chronicle, p. 3`.
 - **Furs and agricultural raw-materials specialist** — assessed skins, "never lying… his word was law"; from the 1920s hired by Soviet customs as a specialist at 25 rubles/month, trade-union member `Tanya-summary, p. 4`; mushrooms drying in his apartment `Tanya-summary, p. 4`. Lived on the outskirts of **Ostrov** near Slutsk `Tanya-summary, p. 3`.
 - **Alive in 1932**: "Grandfather moved to live with her [Malka] in Vitebsk, and I saw him one more time, in 1932, when I first came with Papa (Iosif) from Birobidzhan" `tania-project (§32)` → the pinkas #1120 death (21 Jan 1918, Slutsk) attributed to him **cannot be his** — **CF-13** (that Avraham Berkovits is another man; drop the 1918 death).
@@ -389,11 +391,11 @@ One entry per **family-connected person** (blood/marriage relatives and record-w
 
 ### C06 · Shifra/Chifra/Sofia Boruchovich (Mostkoff)
 - Dau. of Nachman & Pesheh; eldest and favorite daughter `tania-project (§4)`; confirmed by Vsia Rossiia 1911 ("Mastkov, Shifra **Nakhman**[ovna], textiles, Slutsk") `[C]` EV-04.
-- b. **1880, Slutsk** `tania-project (§35)` — vs. passport "Bobruisk" (**CF-11**, leaning Slutsk); "27 when engaged" ~1907 Narrative, p. 17.
+- b. **1880, Slutsk** `tania-project (§35)` — vs. **passport: 1878, Bobruisk district** `[C]` EV-81 (year already glimpsed in Narrative, p. 10 as "~1878, Bobruisk") and obit age → ~1877 (EV-68): birth year **CF-31**, birthplace **CF-11** (leaning Slutsk, two documents vs the passport; NB the passport says *district* — a Bobruisk-uyezd village birth with a Slutsk upbringing would satisfy all three). "27 when engaged" ~1907 Narrative, p. 17.
 - As a bride, saved the family's skins from a night fire (jumped up in one nightgown, threw all the goods out the window) `tania-project (§6)`. Smart, businesslike; mutual-aid work; "close to the Bund" though not a member `tania-project (§6)`.
 - First love, "some simple young man" (a shoemaker), not allowed ("did not permit marrying below one's class"); then matched with the red-haired returnee from America `tania-project (§§6, 33)`. Dowry: the haberdashery shop `tania-project (§7)`.
 - Seamstress in Slutsk `[C]` EV-04.
-- Left Slutsk end Nov 1928; entered Mexico Jan 1929 `[C]` EV-03.
+- Left Slutsk end Nov 1928; entered Mexico Jan 1929 `[C]` EV-03. **Her Soviet exit passport survives** (EV-81 — Ana's scans, "Bobe's passport"): bearer **Шыфра Нахманаўна Мосткава** ("Mostkoff Chifra" on the French page), issued **Minsk, 27 Nov 1928**, one-year validity, designated exit point **Sebezh** (P43) `[? machine-read]`; the manifest lists her with **Leiba 14, Michel 11, Dvoyra 7**; her photo (~50, headscarf) and the children's photos are pasted in. Readings machine-transcribed 2026-10-29 — date/birthplace flags in SOURCE-SURVEY §11.
 - Namesake: her great-granddaughter **Shifra Borenstein** (dau. of Joseph Borenstein & Ana Mostkoff Linares), named after her `[C — Philip, 2026-10-13]`.
 - d. 1962 Mexico City — death cert **26 Sep 1962** `[C]` EV-14 vs. obituary **"Sofía Mostkoff… Monday 24 Sep 1962, aged 85, buried 25 Sep"** `[C]` EV-68 vs. memoir "**August 1962**" `tania-project (§35)` — **CF-21 resolved 2026-10-27**: d. **Monday 24 Sep 1962**, registered 26 Sep on the certificate; Ana Caddess (email via Philip) independently anchors it — "she died in 1962, after we came back from Israel in August" — so the memoir's August retires. (Obit age → b. ~1877 vs memoir 1880, **CF-31** stays open.) Buried beside Israel, Panteon Israelita; earlier obituary image "Sofia/Chifra Boruchovitz" (Narrative, p. 25).
 - Ana's memory adds the final scene `[C — Ana Caddess (email via Philip), 2026-10-27]`: the family asked **José ("Pepe," A18)** to go see her, and Ana saw her in the **hospital** shortly before the end — Ana's own family had returned from Israel in **August 1962**.

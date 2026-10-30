@@ -39,7 +39,7 @@
 </Placemark>
 <Placemark>
 <name>P08 · Minsk</name>
-<description><b>P08 · Minsk</b><br/>Today: Minsk, Belarus (capital)<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Minsk gubernia seat) → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>B01/B02 candidate civil marriage 1889 `EV-10` (CF-29: cannot be Chaya's own)<br/>C01 candidate birth "Mikhel b. 1847" `EV-28` + brother X14 b. 1852 `EV-29`<br/>C03 candidate Nokhim b. 1838 `EV-30`<br/>1894 town-dwellers list `EV-37`<br/>C12 school inspector (Belorussian Commissariat of Education) `tania-project (§30)`<br/>X01 convoy origin — "ten men from the town of Minsk" `Pinkas, p. 31 (entry #229)`<br/>memoir: the first love's pedagogical college<br/>train transfer `tania-project (locations)`<br/><br/><i>C01's rich Polyaks "fled to Moscow, Leningrad, or abroad" `tania-project (§3)`.</i><br/><br/><i>coords: 53.9022, 27.5618 — Wikidata Q2280 · GeoNames 625143; corroborated `tania-project (locations)`</i></description>
+<description><b>P08 · Minsk</b><br/>Today: Minsk, Belarus (capital)<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Russian Empire (Minsk gubernia seat) → Byelorussian SSR → Belarus<br/><br/><b>People &amp; events</b><br/>B01/B02 candidate civil marriage 1889 `EV-10` (CF-29: cannot be Chaya's own)<br/>C01 candidate birth "Mikhel b. 1847" `EV-28` + brother X14 b. 1852 `EV-29`<br/>C03 candidate Nokhim b. 1838 `EV-30`<br/>1894 town-dwellers list `EV-37`<br/>C12 school inspector (Belorussian Commissariat of Education) `tania-project (§30)`<br/>X01 convoy origin — "ten men from the town of Minsk" `Pinkas, p. 31 (entry #229)`<br/>memoir: the first love's pedagogical college<br/>train transfer `tania-project (locations)`<br/>C06's exit passport issued here, 27 Nov 1928 `EV-81`<br/><br/><i>C01's rich Polyaks "fled to Moscow, Leningrad, or abroad" `tania-project (§3)`.</i><br/><br/><i>coords: 53.9022, 27.5618 — Wikidata Q2280 · GeoNames 625143; corroborated `tania-project (locations)`</i></description>
 <Point><coordinates>27.5618,53.9022,0</coordinates></Point>
 </Placemark>
 <Placemark>
@@ -196,5 +196,10 @@
 <name>P42 · Marbella</name>
 <description><b>P42 · Marbella</b><br/>Today: Marbella, Spain<br/>Confidence: [C] · precision: town<br/>Jurisdictions: Spain<br/><br/><b>People &amp; events</b><br/>A10 Janette (Ringel) Epstein — "sister Janette Epstein (Marbella)" `EV-39`<br/><br/><i>coords: 36.5114, -4.8834 — Wikidata Q484799 · GeoNames 6359474</i></description>
 <Point><coordinates>-4.8834,36.5114,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>P43 · Sebezh</name>
+<description><b>P43 · Sebezh</b><br/>Today: Sebezh, Pskov Oblast, Russia<br/>Confidence: [L] · precision: town<br/>Jurisdictions: Russian Empire (Pskov gubernia) → RSFSR/USSR → Russia (Pskov Oblast since 1944)<br/><br/><b>People &amp; events</b><br/>C06 + B12/B13/B14 — designated **exit point** on Shifra's Soviet foreign passport (issued Minsk 27 Nov 1928) `EV-81` — the family's way out of the USSR, end 1928<br/><br/><i>USSR–Latvia border crossing on the northwestern edge of the BSSR (route out: Sebezh → Latvia → ship; arrival Mexico Jan 1929, EV-03). The border-point word on the passport is a machine read ("Себеж"-like, `[?]`) — confirm on the scan before leaning on the exact route</i><br/><br/><i>coords: 56.2833, 28.4833 — Wikidata Q193641 (cross-checked OpenStreetMap Nominatim, 2026-10-29)</i></description>
+<Point><coordinates>28.4833,56.2833,0</coordinates></Point>
 </Placemark>
 </Document></kml>
