@@ -1,33 +1,32 @@
 ---
 phase: 2 (complete); 3 in progress (place authority + tree refresh done; GEDCOM deferred); 4 live
-updated: 2026-10-27
-last_commit: 55f1e41
-last_entry: chronicles/phase-2-extraction.md #19
+updated: 2026-10-29
+last_commit: 50bc4fa
+last_entry: chronicles/phase-2-extraction.md #20
 ---
 
 # Context — Borenstein/Mostkoff Genealogy
 
-**Project**: Well-sourced genealogy of the Borenstein/Mostkoff family — Wendy Cadieux (research) & Philip Borenstein (tech). Sources: 10 PDFs in `base-documents/` (2,265 pp, fully extracted) + tania-project.com memoir + UFDC Prensa Israelita (EV-59–80) + **family input** (Philip live since 2026-10-19; **Ana Caddess round 2026-10-27**). Repo: github.com/pborenstein/geneaology.
+**Project**: Well-sourced genealogy of the Borenstein/Mostkoff family — Wendy Cadieux (research) & Philip Borenstein (tech). Sources: 10 PDFs in `base-documents/` (2,265 pp, fully extracted) + **`bobespassport/` (11 scans — first image-only source, 2026-10-29)** + tania-project.com memoir + UFDC Prensa Israelita (EV-59–80) + family input (Philip live since 2026-10-19; Ana Caddess rounds 2026-10-27 and — via her 2020 email-to-Wendy scans — 2026-10-29). Repo: github.com/pborenstein/geneaology.
 
-**Current focus**: **2026-10-27 — Ana's papelitos batch, tree regeneration, post updates (entry 19).** By email via Philip: **Felipe d. Sunday 23 Aug 1959** (A05; unveiling 14 Aug 1960 = ~11.7 months ✓; notice hunt narrowed to the late-Aug/early-Sep 1959 Prensa issues); **Mania's parents = Zvi & Shoshanah Bauman, Chlodna 38, Warsaw** (new A30/A31; Ana's information via Avram Bromberg, 2004; the Notes' "Herz Bauman" gravestone lead ≈ Zvi — Herz is the Yiddish form of Tzvi); **CF-02 resolved** (Israel d. 1 Oct 1957; Ana recalls Sept 1957); **CF-21 resolved** (Shifra d. 24 Sep 1962; Ana's hospital memory); new lead: Consuelo survived Luis by ~10 years — neither death date known. **Tree regenerated against the index** (Bauman + Jarovinsky branches drawn; all flagged lags cleared; mermaid compile-checked). Post 04 EN/ES gained a second dated postscript; post 01's method example updated. **GEDCOM tooling deferred until further notice** (Philip). People **92 distinct** / CF-01–31 (**12 resolved/leaning**).
+**Current focus**: **2026-10-29 — Bobe's passport batch recorded (EV-81/82, entry 20).** **Shifra's 1928 Soviet exit passport** (bearer Мосткава Шыфра Нахманаўна / "Mostkoff Chifra"; b. 1878 Bobruisk dist.; issued Minsk 27 Nov 1928; exit Sebezh; manifest Leiba 14 / Michel 11 / Dvoyra 7 = B12/B13/B14, birth years now record-corroborated) — the Soviet half of the Jan 1929 Mexico arrival (EV-03). **Ketuba copy → Chelo's orthodox conversion** (new [C] fact; explains Prensa name Sara/Sarita). CF-31 now three-way (1880/1878/~1877); CF-06's key = the ketuba's unread Kislev year (5699 → religious marriage before Lucy's b. Mar 1939; 5700 → after). Machine reads keep `[?]` per DEC-013; inventory + eyes-on list in SOURCE-SURVEY §11.
 
 **Active tasks** (see IMPLEMENTATION.md):
-- [ ] **CF-20 (Abram's children)** — the big open conflict; Pola's information is the key
-- [ ] Phase 4 family chases: Pola (CF-20) · Sara Jarovinsky's death year (d. 1964–69?) · **Luis & Consuelo death dates** · **who was Avram Bromberg?** · Felipe's printed death notice (UFDC issues ~29 Aug / 5 Sep 1959) · JOWBR re-checks (Israel's engraved date, J_MEXICO_0002150; the Herz/Zvi Bauman stone)
-- [ ] GEDCOM tooling (Gramps?) — **deferred until further notice** (Philip, 2026-10-27)
-- (Phase 4 records queue): JRI Kurow/Warsaw (incl. Warsaw Bauman gravestones), NHAB pulls, USA records
+- [ ] Eyes-on scan verification (SOURCE-SURVEY §11): IMG_1924 (vision tool can't read it) · ketuba Kislev year (CF-06) · Bobruisk-vs-Mozyr word · Apr/Sep-1928 dates on IMG_1925 · Spanish entry stamps · the "young woman ~16–20" photo (IMG_1933)
+- [ ] Phase 4 chases: Pola (CF-20) · Felipe's notice (late-Aug/early-Sep 1959 issues) · Luis & Consuelo death dates · who was Avram Bromberg · Sara Jarovinsky (d. 1964–69?) · Sapotnitsky §8–9
+- [ ] GEDCOM tooling (Gramps?) — deferred until further notice (Philip, 2026-10-27)
+- (Phase 4 records queue): JRI Kurow/Warsaw (incl. Bauman gravestones), NHAB pulls, USA records
 
-**Blockers**: None technical. Family input keeps arriving — record per batch (`[C — <name> (email via Philip), date]`; approximate years `[L]`), commit per batch, no full wrap-up until asked.
+**Blockers**: None technical. Family input keeps arriving — record per batch (`[C — <name>, date]`; DEC-013 forms), commit per batch, no full wrap-up until asked (last wrap-up: 2026-10-29, entry 20).
 
 **Key facts for orientation**:
-- `data/people.md` is the deliverable: every entry has citations + [C]/[L]/[?] marks; conventions in its header (family-input citation form added 2026-10-27). Read it before anything else. `data/prensa-hits.md` + `data/pinkas-hits.md` hold the two big extraction passes; `data/places.md` the gazetteer; `data/family-tree.md` **regenerated 2026-10-27** — re-verify against the index whenever it changes.
-- **Rules**: no pictograph emoji anywhere (DEC-011; check marks fine); merged person IDs become redirects, never reused (DEC-012); living people get names only (no publication outside the repo); corrections are shown, not hidden.
-- **Posts** (writing/, 4 EN+ES pairs, byline per DEC-009): 01 orientation · 02 Pinkas · 03 Sapotnitsky · 04 the Prensa story — now with **two** dated postscripts (19 Oct, 27 Oct). Facts in posts trace only to `data/`.
-- **Places** (DEC-010): `places.md` is the only hand-edited place file; regenerate `places.geojson`/`.kml` with `python3 scripts/places-to-geojson.py`. Warsaw = P19 (A30/A31 at Chlodna 38 noted). Open: Urechye discrepancy; Oreitsa/Laseh/Ozdeh un-geocoded.
-- UFDC citable pattern: `ufdcimages.uflib.ufl.edu/AA/00/06/55/27/{vol}/{img}.jpg` + same-path `.txt` OCR. Prensa prints Hebrew names (Anita=Ana, Pesele=Pola, Hinde=Aida, Sara/Sarita=Consuelo "Chelo") — CF-23.
-- Big corrections to date: Israel b. 1880; Nakhman alive ≥1932; Lyubka/Etl = Israel's sisters; Rachmeil=Mendel=Manuel Glatt (CF-16); Mania = Chana Mindel Bauman (CF-30); Sara Jarovinsky = Mania's sister; Chelo = Consuelo; **Felipe d. 23 Aug 1959; Mania's parents Zvi & Shoshanah Bauman of Warsaw**.
-- Grandparent-corner mysteries still open: **Sapotnitsky** (`docs/investigations/sapotnitsky.md`, program §8–9 incl. Nesvizh + Minkov lead EV-79) and **CF-20** (Abram's children). CF-30/02/21 closed.
+- `data/people.md` is the deliverable: citations + [C]/[L]/[?]; conventions in its header (family-input forms; `Bobe's passport, IMG_NNNN` key). `data/family-tree.md` regenerated 2026-10-27 (Shifra labels "b.1878/80" since 2026-10-29; no structural change since).
+- **Rules**: no pictograph emoji (DEC-011); merged IDs = redirects (DEC-012); machine-read facts keep `[?]` until human verification (DEC-013); never modify `base-documents/`; living people names-only.
+- **Posts** (writing/, 4 EN+ES pairs, byline DEC-009); facts in posts trace only to `data/`. The passport batch is obvious post material (first image-first source) — unwritten.
+- **Places** (DEC-010): 43 entries, 40 geocoded (P43 Sebezh new). Regenerate geojson/kml with `python3 scripts/places-to-geojson.py` after edits.
+- UFDC citable pattern: `ufdcimages.uflib.ufl.edu/AA/00/06/55/27/{vol}/{img}.jpg` + same-path `.txt` OCR. Prensa prints Hebrew names (Anita=Ana, Pesele=Pola, Hinde=Aida, Sara/Sarita=Consuelo) — CF-23.
+- Big corrections to date: Israel b. 1880; Rachmeil=Mendel=Manuel Glatt (CF-16); Mania = Chana Mindel Bauman (CF-30); **Chelo = Consuelo, orthodox convert (EV-82)**; Felipe d. 23 Aug 1959; Mania's parents Zvi & Shoshanah Bauman, Chlodna 38 Warsaw; **Shifra b. 1878 per her own passport; the family's USSR exit Nov 1928–Jan 1929 via Sebezh**.
 
-**Next session**: Read this + `data/people.md` header; candidates: **Felipe's death-notice hunt** (the UFDC window is now tight — issues of ~29 Aug / 5 Sep 1959), CF-20 via Pola, Sapotnitsky §8–9, the migration-route map layer (MAPPING-PLAN "Deferred v2+"), or Warsaw pulls (Bauman gravestones / Chlodna 38 context). Ask Philip which — and expect more family input mid-session (record + commit per batch, no full wrap-up until asked). Wrap-up runs the session-wrapup skill (chronicle next entry = 20).
+**Next session**: Read this + `data/people.md` header; candidates: **scan-verification sitting with Philip/Wendy** (the §11 [?] flags — esp. the ketuba year), Felipe's notice hunt, Sapotnitsky §8–9, the migration-route map layer (MAPPING-PLAN "Deferred v2+" — the passport just gave it its first documented route), or Warsaw pulls. Ask Philip which — and expect more family input mid-session. Wrap-up runs the session-wrapup skill (chronicle next entry = 21).
 
-**Map**: data/people.md · data/conflicts.md · data/evidence-log.md · data/prensa-hits.md · data/pinkas-hits.md · data/places.md + places.geojson/.kml + scripts/ · data/family-tree.md (fresh 2026-10-27) · writing/ (4 EN+ES posts) · README "What's New" + posts table · CLAUDE.md (hard rules: conventional commits + push) · docs/MAPPING-PLAN.md · docs/investigations/sapotnitsky.md · docs/FAMILY-OVERVIEW.md · docs/SOURCE-SURVEY.md · docs/ROADMAP.md · docs/RESOURCES.md · docs/DECISIONS.md (thru DEC-012) · docs/IMPLEMENTATION.md · docs/chronicles/.
+**Map**: data/people.md · data/conflicts.md · data/evidence-log.md (EV-01…82) · data/prensa-hits.md · data/pinkas-hits.md · data/places.md (P01–P43) + places.geojson/.kml + scripts/ · data/family-tree.md · writing/ (4 EN+ES posts) · README "What's New" + Snapshot (refreshed 2026-10-29) · CLAUDE.md (hard rules: conventional commits + push) · docs/MAPPING-PLAN.md · docs/SOURCE-SURVEY.md (§11 = passport inventory) · docs/investigations/sapotnitsky.md · docs/FAMILY-OVERVIEW.md · docs/ROADMAP.md · docs/RESOURCES.md · docs/DECISIONS.md (thru DEC-013) · docs/IMPLEMENTATION.md · docs/chronicles/.
